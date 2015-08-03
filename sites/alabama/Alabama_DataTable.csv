@@ -1,0 +1,1282 @@
+point,BUFF_DIST,NLCD240,landuse,textcl,area_ha
+alabama,25,11,Water,clay loam,14.7961321
+alabama,25,21,Developed,clay loam,23.1585178
+alabama,25,23,Developed,clay loam,9.4965372
+alabama,25,24,Developed,clay loam,3.6476514
+alabama,25,31,Barren,clay loam,20.1493416
+alabama,25,41,Forest,clay loam,145.3303528
+alabama,25,42,Forest,clay loam,145.2992554
+alabama,25,43,Forest,clay loam,35.504158
+alabama,25,52,Grass/Pasture,clay loam,27.5526676
+alabama,25,71,Grass/Pasture,clay loam,39.0423126
+alabama,25,81,Grass/Pasture,clay loam,269.3561707
+alabama,25,82,Crop,clay loam,110.5101089
+alabama,25,90,Wetland,clay loam,16.7194786
+alabama,25,11,Water,loam,97.4427338
+alabama,25,21,Developed,loam,536.0211792
+alabama,25,22,Developed,loam,175.1702423
+alabama,25,23,Developed,loam,105.4223022
+alabama,25,24,Developed,loam,9.3994818
+alabama,25,31,Barren,loam,40.7785988
+alabama,25,41,Forest,loam,3025.489014
+alabama,25,42,Forest,loam,901.1715088
+alabama,25,43,Forest,loam,525.6149292
+alabama,25,52,Grass/Pasture,loam,932.6719971
+alabama,25,71,Grass/Pasture,loam,818.1196899
+alabama,25,81,Grass/Pasture,loam,4800.811035
+alabama,25,82,Crop,loam,4782.818848
+alabama,25,90,Wetland,loam,654.6439209
+alabama,25,21,Developed,loamy sand,9.3968544
+alabama,25,31,Barren,loamy sand,4.8881774
+alabama,25,41,Forest,loamy sand,30.3034725
+alabama,25,42,Forest,loamy sand,8.0170336
+alabama,25,43,Forest,loamy sand,11.2275257
+alabama,25,52,Grass/Pasture,loamy sand,7.9099274
+alabama,25,71,Grass/Pasture,loamy sand,15.0763893
+alabama,25,81,Grass/Pasture,loamy sand,74.9570465
+alabama,25,82,Crop,loamy sand,44.6951981
+alabama,25,90,Wetland,loamy sand,195.877533
+alabama,25,41,Forest,sandy clay loam,2.9728036
+alabama,25,42,Forest,sandy clay loam,0.2196607
+alabama,25,11,Water,sandy loam,108.9281769
+alabama,25,21,Developed,sandy loam,973.343689
+alabama,25,22,Developed,sandy loam,293.0083923
+alabama,25,23,Developed,sandy loam,177.3765869
+alabama,25,24,Developed,sandy loam,82.7838898
+alabama,25,31,Barren,sandy loam,36.9384956
+alabama,25,41,Forest,sandy loam,7279.713379
+alabama,25,42,Forest,sandy loam,1240.530396
+alabama,25,43,Forest,sandy loam,863.1418457
+alabama,25,52,Grass/Pasture,sandy loam,983.4636841
+alabama,25,71,Grass/Pasture,sandy loam,438.6269531
+alabama,25,81,Grass/Pasture,sandy loam,5779.878418
+alabama,25,82,Crop,sandy loam,2007.689087
+alabama,25,82,Crop,sandy loam,0.000002
+alabama,25,90,Wetland,sandy loam,824.6243896
+alabama,25,95,Wetland,sandy loam,4.0663996
+alabama,25,11,Water,silt loam,1049.573731
+alabama,25,11,Water,silt loam,0.0000034
+alabama,25,21,Developed,silt loam,3155.854004
+alabama,25,22,Developed,silt loam,1061.905762
+alabama,25,23,Developed,silt loam,317.6583862
+alabama,25,24,Developed,silt loam,49.0616264
+alabama,25,31,Barren,silt loam,36.3056984
+alabama,25,41,Forest,silt loam,20679.13477
+alabama,25,41,Forest,silt loam,0.0000023
+alabama,25,42,Forest,silt loam,3028.672119
+alabama,25,43,Forest,silt loam,2084.184082
+alabama,25,52,Grass/Pasture,silt loam,5003.075195
+alabama,25,71,Grass/Pasture,silt loam,1411.04895
+alabama,25,81,Grass/Pasture,silt loam,48688.82031
+alabama,25,82,Crop,silt loam,16647.37109
+alabama,25,90,Wetland,silt loam,7392.685059
+alabama,25,95,Wetland,silt loam,1.7928057
+alabama,25,11,Water,silty clay,49.7268219
+alabama,25,21,Developed,silty clay,266.2059937
+alabama,25,22,Developed,silty clay,71.8744278
+alabama,25,23,Developed,silty clay,73.9459152
+alabama,25,24,Developed,silty clay,20.9139538
+alabama,25,31,Barren,silty clay,1.5596926
+alabama,25,41,Forest,silty clay,868.6004028
+alabama,25,42,Forest,silty clay,312.1646729
+alabama,25,43,Forest,silty clay,183.7385101
+alabama,25,52,Grass/Pasture,silty clay,467.4764709
+alabama,25,71,Grass/Pasture,silty clay,88.095932
+alabama,25,81,Grass/Pasture,silty clay,2468.366211
+alabama,25,82,Crop,silty clay,1143.672607
+alabama,25,90,Wetland,silty clay,712.569519
+alabama,25,11,Water,silty clay loam,249.2045441
+alabama,25,21,Developed,silty clay loam,848.62323
+alabama,25,22,Developed,silty clay loam,438.002533
+alabama,25,23,Developed,silty clay loam,254.944519
+alabama,25,24,Developed,silty clay loam,29.8087845
+alabama,25,31,Barren,silty clay loam,47.1111832
+alabama,25,41,Forest,silty clay loam,2256.157715
+alabama,25,41,Forest,silty clay loam,0.0000023
+alabama,25,42,Forest,silty clay loam,886.9031372
+alabama,25,43,Forest,silty clay loam,451.5404663
+alabama,25,52,Grass/Pasture,silty clay loam,1013.34137
+alabama,25,71,Grass/Pasture,silty clay loam,438.9545898
+alabama,25,81,Grass/Pasture,silty clay loam,8217.270508
+alabama,25,82,Crop,silty clay loam,5307.126953
+alabama,25,82,Crop,silty clay loam,0.000002
+alabama,25,90,Wetland,silty clay loam,734.2233887
+alabama,25,95,Wetland,silty clay loam,3.7789392
+alabama,25,11,Water,,16563.47266
+alabama,25,11,Water,,0.0000034
+alabama,25,21,Developed,,67.4304123
+alabama,25,22,Developed,,22.4330101
+alabama,25,23,Developed,,39.2388878
+alabama,25,24,Developed,,9.2859058
+alabama,25,31,Barren,,15.9875517
+alabama,25,41,Forest,,410.291748
+alabama,25,42,Forest,,149.0254669
+alabama,25,43,Forest,,31.5447788
+alabama,25,52,Grass/Pasture,,72.1528702
+alabama,25,71,Grass/Pasture,,27.219862
+alabama,25,81,Grass/Pasture,,175.3801575
+alabama,25,82,Crop,,105.956955
+alabama,25,90,Wetland,,329.0932617
+alabama,25,95,Wetland,,0.1882561
+alabama,50,21,Developed,clay loam,6.3603549
+alabama,50,41,Forest,clay loam,69.1491013
+alabama,50,42,Forest,clay loam,29.9890003
+alabama,50,43,Forest,clay loam,52.7474899
+alabama,50,52,Grass/Pasture,clay loam,7.9442234
+alabama,50,71,Grass/Pasture,clay loam,12.7408257
+alabama,50,81,Grass/Pasture,clay loam,235.0965118
+alabama,50,82,Crop,clay loam,149.8939056
+alabama,50,90,Wetland,clay loam,12.7788401
+alabama,50,11,Water,loam,66.0265656
+alabama,50,21,Developed,loam,1096.450195
+alabama,50,22,Developed,loam,400.9623108
+alabama,50,23,Developed,loam,80.4817505
+alabama,50,24,Developed,loam,15.5147133
+alabama,50,31,Barren,loam,20.0856152
+alabama,50,41,Forest,loam,16838.31641
+alabama,50,42,Forest,loam,4450.439941
+alabama,50,43,Forest,loam,2555.679199
+alabama,50,52,Grass/Pasture,loam,2423.108154
+alabama,50,71,Grass/Pasture,loam,724.6861572
+alabama,50,81,Grass/Pasture,loam,11133.52148
+alabama,50,81,Grass/Pasture,loam,0.0000044
+alabama,50,81,Grass/Pasture,loam,0.0000146
+alabama,50,82,Crop,loam,1312.696899
+alabama,50,90,Wetland,loam,916.7883301
+alabama,50,21,Developed,loamy sand,5.2541013
+alabama,50,41,Forest,loamy sand,17.0939884
+alabama,50,42,Forest,loamy sand,15.0914869
+alabama,50,43,Forest,loamy sand,1.340695
+alabama,50,81,Grass/Pasture,loamy sand,13.4877472
+alabama,50,82,Crop,loamy sand,5.0703917
+alabama,50,90,Wetland,loamy sand,55.2808533
+alabama,50,11,Water,sandy clay loam,0.0000142
+alabama,50,21,Developed,sandy clay loam,5.0349183
+alabama,50,22,Developed,sandy clay loam,4.0194392
+alabama,50,23,Developed,sandy clay loam,1.0551337
+alabama,50,41,Forest,sandy clay loam,25.2770844
+alabama,50,42,Forest,sandy clay loam,19.7772617
+alabama,50,43,Forest,sandy clay loam,19.940239
+alabama,50,52,Grass/Pasture,sandy clay loam,5.8933811
+alabama,50,71,Grass/Pasture,sandy clay loam,0.0006967
+alabama,50,81,Grass/Pasture,sandy clay loam,60.2384682
+alabama,50,82,Crop,sandy clay loam,3.6832924
+alabama,50,90,Wetland,sandy clay loam,0.1691948
+alabama,50,11,Water,sandy loam,419.7518616
+alabama,50,21,Developed,sandy loam,2815.344971
+alabama,50,21,Developed,sandy loam,0.000001
+alabama,50,22,Developed,sandy loam,1938.561768
+alabama,50,23,Developed,sandy loam,657.1419067
+alabama,50,24,Developed,sandy loam,150.7320099
+alabama,50,31,Barren,sandy loam,130.8871002
+alabama,50,41,Forest,sandy loam,45917.58984
+alabama,50,42,Forest,sandy loam,17094.33398
+alabama,50,43,Forest,sandy loam,10194.66016
+alabama,50,52,Grass/Pasture,sandy loam,3931.363281
+alabama,50,71,Grass/Pasture,sandy loam,1919.999634
+alabama,50,81,Grass/Pasture,sandy loam,18568.46484
+alabama,50,81,Grass/Pasture,sandy loam,0.0000044
+alabama,50,81,Grass/Pasture,sandy loam,0.0000092
+alabama,50,82,Crop,sandy loam,1834.980347
+alabama,50,90,Wetland,sandy loam,1359.795776
+alabama,50,11,Water,silt loam,1899.339356
+alabama,50,21,Developed,silt loam,16412.26367
+alabama,50,21,Developed,silt loam,0.000001
+alabama,50,21,Developed,silt loam,0.0000347
+alabama,50,22,Developed,silt loam,10022.48145
+alabama,50,23,Developed,silt loam,2277.519775
+alabama,50,24,Developed,silt loam,489.335907
+alabama,50,31,Barren,silt loam,192.4022827
+alabama,50,41,Forest,silt loam,96686.01563
+alabama,50,41,Forest,silt loam,0.0000308
+alabama,50,42,Forest,silt loam,10320.56836
+alabama,50,43,Forest,silt loam,8242.000977
+alabama,50,52,Grass/Pasture,silt loam,13586.78418
+alabama,50,71,Grass/Pasture,silt loam,4611.193848
+alabama,50,81,Grass/Pasture,silt loam,128786.9141
+alabama,50,81,Grass/Pasture,silt loam,0.0000146
+alabama,50,81,Grass/Pasture,silt loam,0.0000002
+alabama,50,81,Grass/Pasture,silt loam,0.0000167
+alabama,50,82,Crop,silt loam,35316.10156
+alabama,50,90,Wetland,silt loam,11846.0293
+alabama,50,95,Wetland,silt loam,20.7389908
+alabama,50,11,Water,silty clay,33.7966156
+alabama,50,21,Developed,silty clay,517.3023682
+alabama,50,22,Developed,silty clay,183.76297
+alabama,50,23,Developed,silty clay,62.4262123
+alabama,50,24,Developed,silty clay,35.7284927
+alabama,50,31,Barren,silty clay,33.3052673
+alabama,50,41,Forest,silty clay,9215.202148
+alabama,50,42,Forest,silty clay,1336.536865
+alabama,50,43,Forest,silty clay,782.7584839
+alabama,50,52,Grass/Pasture,silty clay,1685.418823
+alabama,50,71,Grass/Pasture,silty clay,254.1116791
+alabama,50,81,Grass/Pasture,silty clay,7663.842285
+alabama,50,81,Grass/Pasture,silty clay,0.0000002
+alabama,50,81,Grass/Pasture,silty clay,0.0000002
+alabama,50,82,Crop,silty clay,709.7786255
+alabama,50,90,Wetland,silty clay,1696.880737
+alabama,50,11,Water,silty clay loam,316.8127747
+alabama,50,21,Developed,silty clay loam,3338.710938
+alabama,50,22,Developed,silty clay loam,2445.463867
+alabama,50,23,Developed,silty clay loam,598.2739868
+alabama,50,24,Developed,silty clay loam,232.7708282
+alabama,50,31,Barren,silty clay loam,49.0875359
+alabama,50,41,Forest,silty clay loam,7832.990234
+alabama,50,41,Forest,silty clay loam,0.0000308
+alabama,50,42,Forest,silty clay loam,2339.701416
+alabama,50,43,Forest,silty clay loam,1659.735962
+alabama,50,52,Grass/Pasture,silty clay loam,2665.557129
+alabama,50,71,Grass/Pasture,silty clay loam,1193.765625
+alabama,50,81,Grass/Pasture,silty clay loam,22052.92188
+alabama,50,81,Grass/Pasture,silty clay loam,0.0000167
+alabama,50,81,Grass/Pasture,silty clay loam,0.0000002
+alabama,50,82,Crop,silty clay loam,10719.16895
+alabama,50,90,Wetland,silty clay loam,2068.307617
+alabama,50,95,Wetland,silty clay loam,3.6441264
+alabama,50,11,Water,,11217.59473
+alabama,50,21,Developed,,309.7846375
+alabama,50,21,Developed,,0.0000347
+alabama,50,22,Developed,,378.5378113
+alabama,50,23,Developed,,239.3336029
+alabama,50,24,Developed,,234.3569489
+alabama,50,31,Barren,,52.2549782
+alabama,50,41,Forest,,998.8273926
+alabama,50,42,Forest,,339.0169983
+alabama,50,43,Forest,,179.2571106
+alabama,50,52,Grass/Pasture,,448.3100586
+alabama,50,71,Grass/Pasture,,94.9494095
+alabama,50,81,Grass/Pasture,,613.1969604
+alabama,50,81,Grass/Pasture,,0.0000092
+alabama,50,82,Crop,,460.8331909
+alabama,50,90,Wetland,,1154.479736
+alabama,50,95,Wetland,,27.3994312
+alabama,75,21,Developed,clay loam,90.0530396
+alabama,75,22,Developed,clay loam,44.4523048
+alabama,75,23,Developed,clay loam,12.2684441
+alabama,75,24,Developed,clay loam,6.0443625
+alabama,75,31,Barren,clay loam,3.3304272
+alabama,75,41,Forest,clay loam,102.2245865
+alabama,75,42,Forest,clay loam,85.7224197
+alabama,75,43,Forest,clay loam,39.885746
+alabama,75,52,Grass/Pasture,clay loam,54.3707581
+alabama,75,71,Grass/Pasture,clay loam,22.1903076
+alabama,75,81,Grass/Pasture,clay loam,222.4382324
+alabama,75,82,Crop,clay loam,62.5916595
+alabama,75,90,Wetland,clay loam,2.5184567
+alabama,75,11,Water,loam,223.5040894
+alabama,75,21,Developed,loam,3054.998047
+alabama,75,22,Developed,loam,1642.708374
+alabama,75,23,Developed,loam,344.719635
+alabama,75,24,Developed,loam,174.1694946
+alabama,75,31,Barren,loam,109.2642899
+alabama,75,41,Forest,loam,31936.32813
+alabama,75,42,Forest,loam,7135.97168
+alabama,75,43,Forest,loam,2819.765869
+alabama,75,52,Grass/Pasture,loam,8147.438965
+alabama,75,52,Grass/Pasture,loam,0.0000038
+alabama,75,71,Grass/Pasture,loam,2218.464356
+alabama,75,81,Grass/Pasture,loam,20321.33203
+alabama,75,81,Grass/Pasture,loam,0.0000123
+alabama,75,82,Crop,loam,2868.316895
+alabama,75,90,Wetland,loam,402.1473999
+alabama,75,95,Wetland,loam,1.1395277
+alabama,75,11,Water,loamy sand,38.2387161
+alabama,75,21,Developed,loamy sand,7.8747125
+alabama,75,22,Developed,loamy sand,7.0324545
+alabama,75,41,Forest,loamy sand,41.1138878
+alabama,75,42,Forest,loamy sand,11.0234222
+alabama,75,43,Forest,loamy sand,3.7301147
+alabama,75,52,Grass/Pasture,loamy sand,7.3053441
+alabama,75,71,Grass/Pasture,loamy sand,8.6073055
+alabama,75,81,Grass/Pasture,loamy sand,52.8140221
+alabama,75,82,Crop,loamy sand,23.3442822
+alabama,75,90,Wetland,loamy sand,8.6276598
+alabama,75,11,Water,sandy clay loam,4.7840548
+alabama,75,21,Developed,sandy clay loam,10.0418367
+alabama,75,22,Developed,sandy clay loam,5.0802159
+alabama,75,41,Forest,sandy clay loam,198.8467102
+alabama,75,42,Forest,sandy clay loam,68.116951
+alabama,75,43,Forest,sandy clay loam,35.4758606
+alabama,75,52,Grass/Pasture,sandy clay loam,82.8582077
+alabama,75,71,Grass/Pasture,sandy clay loam,16.1326904
+alabama,75,81,Grass/Pasture,sandy clay loam,117.9544754
+alabama,75,82,Crop,sandy clay loam,10.4912901
+alabama,75,90,Wetland,sandy clay loam,0.0415391
+alabama,75,11,Water,sandy loam,1975.478027
+alabama,75,21,Developed,sandy loam,9204.171875
+alabama,75,22,Developed,sandy loam,3820.542725
+alabama,75,23,Developed,sandy loam,849.3971558
+alabama,75,24,Developed,sandy loam,241.6387634
+alabama,75,31,Barren,sandy loam,314.7228699
+alabama,75,41,Forest,sandy loam,148728.875
+alabama,75,41,Forest,sandy loam,0.0001961
+alabama,75,42,Forest,sandy loam,46317.08203
+alabama,75,42,Forest,sandy loam,0.0000222
+alabama,75,43,Forest,sandy loam,19359.23633
+alabama,75,52,Grass/Pasture,sandy loam,29720.08203
+alabama,75,52,Grass/Pasture,sandy loam,0.0000038
+alabama,75,71,Grass/Pasture,sandy loam,9117.266602
+alabama,75,81,Grass/Pasture,sandy loam,65371.07031
+alabama,75,81,Grass/Pasture,sandy loam,0.0000123
+alabama,75,82,Crop,sandy loam,7338.847168
+alabama,75,90,Wetland,sandy loam,1814.464111
+alabama,75,90,Wetland,sandy loam,0.0000209
+alabama,75,95,Wetland,sandy loam,18.7071705
+alabama,75,11,Water,silt loam,1426.891235
+alabama,75,11,Water,silt loam,0.0000022
+alabama,75,21,Developed,silt loam,16405.07227
+alabama,75,21,Developed,silt loam,0.0000069
+alabama,75,22,Developed,silt loam,10006.48047
+alabama,75,23,Developed,silt loam,1999.537354
+alabama,75,24,Developed,silt loam,801.9634399
+alabama,75,31,Barren,silt loam,210.7000122
+alabama,75,41,Forest,silt loam,154962.625
+alabama,75,41,Forest,silt loam,0.0001961
+alabama,75,41,Forest,silt loam,0.0006444
+alabama,75,42,Forest,silt loam,21585.37305
+alabama,75,43,Forest,silt loam,9204.771484
+alabama,75,52,Grass/Pasture,silt loam,19971.28125
+alabama,75,71,Grass/Pasture,silt loam,9235.750977
+alabama,75,81,Grass/Pasture,silt loam,139520.4844
+alabama,75,81,Grass/Pasture,silt loam,0.0000103
+alabama,75,81,Grass/Pasture,silt loam,0.0000437
+alabama,75,82,Crop,silt loam,42752.21484
+alabama,75,90,Wetland,silt loam,8317.894531
+alabama,75,90,Wetland,silt loam,0.0000209
+alabama,75,95,Wetland,silt loam,168.3518829
+alabama,75,11,Water,silty clay,313.2310791
+alabama,75,11,Water,silty clay,0.0000022
+alabama,75,21,Developed,silty clay,1921.405273
+alabama,75,22,Developed,silty clay,1770.320068
+alabama,75,23,Developed,silty clay,222.3476105
+alabama,75,24,Developed,silty clay,71.7445755
+alabama,75,31,Barren,silty clay,75.1493835
+alabama,75,41,Forest,silty clay,16667.06836
+alabama,75,42,Forest,silty clay,1587.566528
+alabama,75,43,Forest,silty clay,1316.583374
+alabama,75,43,Forest,silty clay,0.0001153
+alabama,75,43,Forest,silty clay,0.0000273
+alabama,75,52,Grass/Pasture,silty clay,1968.067017
+alabama,75,71,Grass/Pasture,silty clay,429.401062
+alabama,75,81,Grass/Pasture,silty clay,4808.897949
+alabama,75,81,Grass/Pasture,silty clay,0.0000437
+alabama,75,81,Grass/Pasture,silty clay,0.0001202
+alabama,75,82,Crop,silty clay,1889.515015
+alabama,75,90,Wetland,silty clay,125.911232
+alabama,75,95,Wetland,silty clay,9.957737
+alabama,75,11,Water,silty clay loam,428.6325684
+alabama,75,21,Developed,silty clay loam,4289.491211
+alabama,75,22,Developed,silty clay loam,5432.376465
+alabama,75,23,Developed,silty clay loam,1116.789063
+alabama,75,24,Developed,silty clay loam,428.6983948
+alabama,75,31,Barren,silty clay loam,58.1696892
+alabama,75,41,Forest,silty clay loam,14314.49609
+alabama,75,41,Forest,silty clay loam,0.0006444
+alabama,75,42,Forest,silty clay loam,2391.729981
+alabama,75,43,Forest,silty clay loam,1552.705689
+alabama,75,43,Forest,silty clay loam,0.0000273
+alabama,75,52,Grass/Pasture,silty clay loam,2031.036377
+alabama,75,71,Grass/Pasture,silty clay loam,608.5010376
+alabama,75,81,Grass/Pasture,silty clay loam,14325.66016
+alabama,75,81,Grass/Pasture,silty clay loam,0.0000103
+alabama,75,81,Grass/Pasture,silty clay loam,0.0001202
+alabama,75,82,Crop,silty clay loam,9155.46875
+alabama,75,90,Wetland,silty clay loam,2920.479736
+alabama,75,95,Wetland,silty clay loam,4.3480668
+alabama,75,11,Water,,14205.10352
+alabama,75,21,Developed,,364.0744629
+alabama,75,21,Developed,,0.0000069
+alabama,75,22,Developed,,191.1409607
+alabama,75,23,Developed,,111.669136
+alabama,75,24,Developed,,45.8582001
+alabama,75,31,Barren,,148.3946991
+alabama,75,41,Forest,,3407.233398
+alabama,75,42,Forest,,1966.891235
+alabama,75,42,Forest,,0.0000222
+alabama,75,43,Forest,,519.6871948
+alabama,75,43,Forest,,0.0001153
+alabama,75,52,Grass/Pasture,,811.0458374
+alabama,75,71,Grass/Pasture,,1525.735596
+alabama,75,81,Grass/Pasture,,1415.57312
+alabama,75,82,Crop,,352.5964661
+alabama,75,90,Wetland,,644.7484131
+alabama,75,95,Wetland,,64.6717682
+alabama,100,21,Developed,clay,1.7133405
+alabama,100,41,Forest,clay,18.004797
+alabama,100,42,Forest,clay,0.0662321
+alabama,100,43,Forest,clay,8.6762524
+alabama,100,52,Grass/Pasture,clay,7.0262146
+alabama,100,81,Grass/Pasture,clay,8.5861721
+alabama,100,11,Water,clay loam,1.2072126
+alabama,100,21,Developed,clay loam,80.8651581
+alabama,100,22,Developed,clay loam,2.785861
+alabama,100,23,Developed,clay loam,1.1899577
+alabama,100,31,Barren,clay loam,25.5933704
+alabama,100,41,Forest,clay loam,822.2750244
+alabama,100,41,Forest,clay loam,0.0000043
+alabama,100,42,Forest,clay loam,118.3681412
+alabama,100,43,Forest,clay loam,128.1766968
+alabama,100,52,Grass/Pasture,clay loam,242.7843933
+alabama,100,71,Grass/Pasture,clay loam,53.7756195
+alabama,100,81,Grass/Pasture,clay loam,419.6767273
+alabama,100,82,Crop,clay loam,107.8358612
+alabama,100,90,Wetland,clay loam,17.4208908
+alabama,100,95,Wetland,clay loam,4.4821153
+alabama,100,11,Water,loam,739.9457397
+alabama,100,21,Developed,loam,4171.255371
+alabama,100,22,Developed,loam,1270.631348
+alabama,100,23,Developed,loam,563.6367188
+alabama,100,24,Developed,loam,141.6041412
+alabama,100,31,Barren,loam,282.7106628
+alabama,100,41,Forest,loam,36435.23828
+alabama,100,41,Forest,loam,0.0000635
+alabama,100,42,Forest,loam,12635.19824
+alabama,100,42,Forest,loam,0.0000083
+alabama,100,43,Forest,loam,4953.732422
+alabama,100,52,Grass/Pasture,loam,9136.748047
+alabama,100,71,Grass/Pasture,loam,4949.782227
+alabama,100,81,Grass/Pasture,loam,27514.81445
+alabama,100,81,Grass/Pasture,loam,0.0000023
+alabama,100,82,Crop,loam,6454.527832
+alabama,100,90,Wetland,loam,7602.606445
+alabama,100,95,Wetland,loam,112.9274673
+alabama,100,11,Water,loamy sand,241.9438934
+alabama,100,21,Developed,loamy sand,943.3969116
+alabama,100,22,Developed,loamy sand,74.9731903
+alabama,100,23,Developed,loamy sand,59.0126724
+alabama,100,24,Developed,loamy sand,5.9928908
+alabama,100,31,Barren,loamy sand,145.8921661
+alabama,100,41,Forest,loamy sand,11456.71387
+alabama,100,42,Forest,loamy sand,7083.639648
+alabama,100,43,Forest,loamy sand,3996.381104
+alabama,100,52,Grass/Pasture,loamy sand,2929.014893
+alabama,100,71,Grass/Pasture,loamy sand,1829.029297
+alabama,100,81,Grass/Pasture,loamy sand,6157.927246
+alabama,100,82,Crop,loamy sand,282.0774231
+alabama,100,90,Wetland,loamy sand,336.8590088
+alabama,100,95,Wetland,loamy sand,8.8826208
+alabama,100,21,Developed,sand,4.240531
+alabama,100,41,Forest,sand,31.9713783
+alabama,100,42,Forest,sand,25.9551983
+alabama,100,43,Forest,sand,12.842721
+alabama,100,52,Grass/Pasture,sand,10.2754145
+alabama,100,71,Grass/Pasture,sand,9.652957
+alabama,100,81,Grass/Pasture,sand,15.9408751
+alabama,100,82,Crop,sand,7.7993774
+alabama,100,90,Wetland,sand,24.7001839
+alabama,100,11,Water,sandy clay loam,44.2985191
+alabama,100,21,Developed,sandy clay loam,94.1224365
+alabama,100,22,Developed,sandy clay loam,38.8695984
+alabama,100,23,Developed,sandy clay loam,13.2789621
+alabama,100,31,Barren,sandy clay loam,2.5841298
+alabama,100,41,Forest,sandy clay loam,950.5545044
+alabama,100,42,Forest,sandy clay loam,216.8242798
+alabama,100,43,Forest,sandy clay loam,189.704834
+alabama,100,52,Grass/Pasture,sandy clay loam,325.7048035
+alabama,100,71,Grass/Pasture,sandy clay loam,72.6569214
+alabama,100,81,Grass/Pasture,sandy clay loam,1059.494141
+alabama,100,82,Crop,sandy clay loam,84.4273071
+alabama,100,90,Wetland,sandy clay loam,13.4996262
+alabama,100,11,Water,sandy loam,2653.413086
+alabama,100,21,Developed,sandy loam,13886.75684
+alabama,100,22,Developed,sandy loam,4481.790527
+alabama,100,23,Developed,sandy loam,1302.141113
+alabama,100,24,Developed,sandy loam,267.738678
+alabama,100,31,Barren,sandy loam,936.1311035
+alabama,100,41,Forest,sandy loam,183819.3438
+alabama,100,41,Forest,sandy loam,0.0002321
+alabama,100,42,Forest,sandy loam,66512.8125
+alabama,100,42,Forest,sandy loam,0.0000083
+alabama,100,42,Forest,sandy loam,0.0000093
+alabama,100,43,Forest,sandy loam,29294.41406
+alabama,100,52,Grass/Pasture,sandy loam,44846.02344
+alabama,100,71,Grass/Pasture,sandy loam,21680.6875
+alabama,100,81,Grass/Pasture,sandy loam,75021.69531
+alabama,100,81,Grass/Pasture,sandy loam,0.0000097
+alabama,100,81,Grass/Pasture,sandy loam,0.0000023
+alabama,100,81,Grass/Pasture,sandy loam,0.0000094
+alabama,100,82,Crop,sandy loam,15388.34082
+alabama,100,82,Crop,sandy loam,0.0000493
+alabama,100,90,Wetland,sandy loam,4522.080566
+alabama,100,95,Wetland,sandy loam,176.539917
+alabama,100,11,Water,silt loam,1792.68396
+alabama,100,21,Developed,silt loam,18065.07422
+alabama,100,21,Developed,silt loam,0.0000003
+alabama,100,22,Developed,silt loam,4362.929688
+alabama,100,23,Developed,silt loam,1083.945801
+alabama,100,24,Developed,silt loam,266.5973206
+alabama,100,31,Barren,silt loam,773.3796997
+alabama,100,41,Forest,silt loam,254959.1719
+alabama,100,41,Forest,silt loam,0.0002321
+alabama,100,41,Forest,silt loam,0.0003655
+alabama,100,41,Forest,silt loam,0.0000043
+alabama,100,41,Forest,silt loam,0.0000635
+alabama,100,41,Forest,silt loam,0.0000913
+alabama,100,42,Forest,silt loam,37417.45313
+alabama,100,42,Forest,silt loam,0.0000093
+alabama,100,42,Forest,silt loam,0.0000324
+alabama,100,43,Forest,silt loam,12737.37988
+alabama,100,52,Grass/Pasture,silt loam,22989.55273
+alabama,100,52,Grass/Pasture,silt loam,0.0000049
+alabama,100,71,Grass/Pasture,silt loam,24100.42578
+alabama,100,81,Grass/Pasture,silt loam,151286.7813
+alabama,100,81,Grass/Pasture,silt loam,0.0000097
+alabama,100,81,Grass/Pasture,silt loam,0.0000014
+alabama,100,82,Crop,silt loam,32080.11328
+alabama,100,82,Crop,silt loam,0.0000493
+alabama,100,82,Crop,silt loam,0.0000646
+alabama,100,90,Wetland,silt loam,7001.327148
+alabama,100,90,Wetland,silt loam,0.0000029
+alabama,100,95,Wetland,silt loam,141.7483673
+alabama,100,11,Water,silty clay,45.8188133
+alabama,100,21,Developed,silty clay,861.4477539
+alabama,100,22,Developed,silty clay,248.90979
+alabama,100,23,Developed,silty clay,64.6221008
+alabama,100,24,Developed,silty clay,6.9785771
+alabama,100,31,Barren,silty clay,42.8467674
+alabama,100,41,Forest,silty clay,49465.84375
+alabama,100,41,Forest,silty clay,0.0000204
+alabama,100,42,Forest,silty clay,3152.361572
+alabama,100,43,Forest,silty clay,2524.135254
+alabama,100,43,Forest,silty clay,0.0012209
+alabama,100,52,Grass/Pasture,silty clay,1046.756348
+alabama,100,52,Grass/Pasture,silty clay,0.0000049
+alabama,100,71,Grass/Pasture,silty clay,379.2346191
+alabama,100,81,Grass/Pasture,silty clay,8674.067383
+alabama,100,82,Crop,silty clay,1487.205444
+alabama,100,90,Wetland,silty clay,186.8503113
+alabama,100,90,Wetland,silty clay,0.0000029
+alabama,100,95,Wetland,silty clay,3.6849086
+alabama,100,11,Water,silty clay loam,495.075592
+alabama,100,21,Developed,silty clay loam,2147.202393
+alabama,100,21,Developed,silty clay loam,0.0000003
+alabama,100,22,Developed,silty clay loam,707.9308472
+alabama,100,23,Developed,silty clay loam,148.7019501
+alabama,100,24,Developed,silty clay loam,62.8326569
+alabama,100,31,Barren,silty clay loam,135.9276276
+alabama,100,41,Forest,silty clay loam,26356.16406
+alabama,100,41,Forest,silty clay loam,0.0000913
+alabama,100,41,Forest,silty clay loam,0.0000204
+alabama,100,42,Forest,silty clay loam,3584.126465
+alabama,100,43,Forest,silty clay loam,2915.600342
+alabama,100,43,Forest,silty clay loam,0.0012209
+alabama,100,52,Grass/Pasture,silty clay loam,2266.658447
+alabama,100,71,Grass/Pasture,silty clay loam,1132.964111
+alabama,100,81,Grass/Pasture,silty clay loam,20607.33398
+alabama,100,81,Grass/Pasture,silty clay loam,0.0000094
+alabama,100,81,Grass/Pasture,silty clay loam,0.0000014
+alabama,100,82,Crop,silty clay loam,7804.968262
+alabama,100,82,Crop,silty clay loam,0.0000646
+alabama,100,90,Wetland,silty clay loam,1890.599487
+alabama,100,95,Wetland,silty clay loam,20.5776882
+alabama,100,11,Water,,21806.54883
+alabama,100,21,Developed,,1195.869141
+alabama,100,22,Developed,,1015.869812
+alabama,100,23,Developed,,342.4963989
+alabama,100,24,Developed,,121.3561401
+alabama,100,31,Barren,,437.7796326
+alabama,100,41,Forest,,7169.428711
+alabama,100,41,Forest,,0.0003655
+alabama,100,42,Forest,,3595.344971
+alabama,100,42,Forest,,0.0000324
+alabama,100,43,Forest,,632.392395
+alabama,100,52,Grass/Pasture,,1276.238892
+alabama,100,71,Grass/Pasture,,1508.290039
+alabama,100,81,Grass/Pasture,,3795.623047
+alabama,100,82,Crop,,576.4078979
+alabama,100,90,Wetland,,705.5373535
+alabama,100,95,Wetland,,17.8937702
+alabama,125,11,Water,clay,2.4965537
+alabama,125,21,Developed,clay,124.8265533
+alabama,125,21,Developed,clay,0.0000441
+alabama,125,22,Developed,clay,3.5554533
+alabama,125,23,Developed,clay,3.4013071
+alabama,125,41,Forest,clay,334.4021912
+alabama,125,41,Forest,clay,0.0000638
+alabama,125,42,Forest,clay,100.7315521
+alabama,125,43,Forest,clay,31.495615
+alabama,125,52,Grass/Pasture,clay,263.3191833
+alabama,125,71,Grass/Pasture,clay,15.9902182
+alabama,125,81,Grass/Pasture,clay,283.6707764
+alabama,125,82,Crop,clay,230.3226776
+alabama,125,82,Crop,clay,0.0000039
+alabama,125,90,Wetland,clay,10.865449
+alabama,125,95,Wetland,clay,1.2744825
+alabama,125,11,Water,clay loam,49.214817
+alabama,125,21,Developed,clay loam,553.699646
+alabama,125,22,Developed,clay loam,79.2405167
+alabama,125,23,Developed,clay loam,28.20364
+alabama,125,24,Developed,clay loam,1.3786829
+alabama,125,31,Barren,clay loam,1.1322018
+alabama,125,41,Forest,clay loam,6041.849609
+alabama,125,41,Forest,clay loam,0.0000113
+alabama,125,42,Forest,clay loam,1622.517822
+alabama,125,43,Forest,clay loam,638.5460815
+alabama,125,52,Grass/Pasture,clay loam,2218.290039
+alabama,125,71,Grass/Pasture,clay loam,240.2817078
+alabama,125,81,Grass/Pasture,clay loam,2365.762451
+alabama,125,81,Grass/Pasture,clay loam,0.0000127
+alabama,125,82,Crop,clay loam,1436.601929
+alabama,125,90,Wetland,clay loam,189.3741302
+alabama,125,95,Wetland,clay loam,18.1100082
+alabama,125,11,Water,loam,822.305481
+alabama,125,21,Developed,loam,3982.033447
+alabama,125,22,Developed,loam,941.791687
+alabama,125,23,Developed,loam,382.0172424
+alabama,125,24,Developed,loam,94.0348206
+alabama,125,31,Barren,loam,532.5375977
+alabama,125,41,Forest,loam,39330.85547
+alabama,125,41,Forest,loam,-0.0000445
+alabama,125,41,Forest,loam,0.0000019
+alabama,125,41,Forest,loam,0.0000638
+alabama,125,42,Forest,loam,16696.16211
+alabama,125,43,Forest,loam,7330.206055
+alabama,125,43,Forest,loam,0.0000023
+alabama,125,43,Forest,loam,0.000014
+alabama,125,52,Grass/Pasture,loam,8073.621582
+alabama,125,52,Grass/Pasture,loam,0.0000333
+alabama,125,71,Grass/Pasture,loam,3548.081787
+alabama,125,81,Grass/Pasture,loam,23734.32617
+alabama,125,81,Grass/Pasture,loam,0.0000344
+alabama,125,82,Crop,loam,10559.7832
+alabama,125,82,Crop,loam,0.0000008
+alabama,125,82,Crop,loam,0.0000039
+alabama,125,82,Crop,loam,0.0000025
+alabama,125,90,Wetland,loam,18249.50586
+alabama,125,90,Wetland,loam,0.0000025
+alabama,125,95,Wetland,loam,360.3616638
+alabama,125,11,Water,loamy sand,92.8612976
+alabama,125,21,Developed,loamy sand,101.2095718
+alabama,125,22,Developed,loamy sand,19.7600899
+alabama,125,23,Developed,loamy sand,15.6436357
+alabama,125,31,Barren,loamy sand,30.2127151
+alabama,125,41,Forest,loamy sand,1131.407959
+alabama,125,42,Forest,loamy sand,442.6312561
+alabama,125,43,Forest,loamy sand,109.7062454
+alabama,125,52,Grass/Pasture,loamy sand,251.9198456
+alabama,125,71,Grass/Pasture,loamy sand,186.265976
+alabama,125,81,Grass/Pasture,loamy sand,542.954834
+alabama,125,82,Crop,loamy sand,153.641098
+alabama,125,90,Wetland,loamy sand,73.9213562
+alabama,125,95,Wetland,loamy sand,5.3744922
+alabama,125,11,Water,sandy clay loam,20.7779598
+alabama,125,21,Developed,sandy clay loam,193.8435974
+alabama,125,22,Developed,sandy clay loam,30.609621
+alabama,125,23,Developed,sandy clay loam,6.0917311
+alabama,125,24,Developed,sandy clay loam,7.4531059
+alabama,125,31,Barren,sandy clay loam,7.7698436
+alabama,125,41,Forest,sandy clay loam,869.8684692
+alabama,125,42,Forest,sandy clay loam,500.6059875
+alabama,125,43,Forest,sandy clay loam,327.2544861
+alabama,125,52,Grass/Pasture,sandy clay loam,347.1832275
+alabama,125,71,Grass/Pasture,sandy clay loam,55.2687378
+alabama,125,81,Grass/Pasture,sandy clay loam,495.7932129
+alabama,125,82,Crop,sandy clay loam,181.9899292
+alabama,125,90,Wetland,sandy clay loam,15.3437614
+alabama,125,11,Water,sandy loam,2960.649414
+alabama,125,21,Developed,sandy loam,18749.65039
+alabama,125,22,Developed,sandy loam,6787.234863
+alabama,125,23,Developed,sandy loam,1564.726318
+alabama,125,24,Developed,sandy loam,422.2599182
+alabama,125,31,Barren,sandy loam,511.6278076
+alabama,125,41,Forest,sandy loam,229497.0938
+alabama,125,41,Forest,sandy loam,0.0000027
+alabama,125,41,Forest,sandy loam,0.0000019
+alabama,125,41,Forest,sandy loam,0.000079
+alabama,125,42,Forest,sandy loam,71053.69531
+alabama,125,42,Forest,sandy loam,0.0000188
+alabama,125,43,Forest,sandy loam,44043.85156
+alabama,125,43,Forest,sandy loam,0.000014
+alabama,125,52,Grass/Pasture,sandy loam,54386.74219
+alabama,125,71,Grass/Pasture,sandy loam,14573.15332
+alabama,125,81,Grass/Pasture,sandy loam,104357.1797
+alabama,125,81,Grass/Pasture,sandy loam,0.0000344
+alabama,125,81,Grass/Pasture,sandy loam,0.0000069
+alabama,125,81,Grass/Pasture,sandy loam,0.0000127
+alabama,125,82,Crop,sandy loam,36481.45703
+alabama,125,82,Crop,sandy loam,0.0000008
+alabama,125,82,Crop,sandy loam,0.0000077
+alabama,125,90,Wetland,sandy loam,17979.80273
+alabama,125,95,Wetland,sandy loam,553.1913452
+alabama,125,11,Water,silt loam,5018.454102
+alabama,125,11,Water,silt loam,0.0000038
+alabama,125,21,Developed,silt loam,25902.66797
+alabama,125,21,Developed,silt loam,0.0000441
+alabama,125,21,Developed,silt loam,0.0001026
+alabama,125,22,Developed,silt loam,8862.570313
+alabama,125,23,Developed,silt loam,2667.621826
+alabama,125,24,Developed,silt loam,788.5806885
+alabama,125,31,Barren,silt loam,2654.48877
+alabama,125,41,Forest,silt loam,318352.8125
+alabama,125,41,Forest,silt loam,-0.0000445
+alabama,125,41,Forest,silt loam,0.0000027
+alabama,125,41,Forest,silt loam,0.0001056
+alabama,125,41,Forest,silt loam,19573.375
+alabama,125,41,Forest,silt loam,0.0000694
+alabama,125,42,Forest,silt loam,65315.25
+alabama,125,42,Forest,silt loam,0.0000188
+alabama,125,42,Forest,silt loam,0.0000036
+alabama,125,43,Forest,silt loam,23754.6582
+alabama,125,43,Forest,silt loam,0.0000023
+alabama,125,43,Forest,silt loam,0.0000091
+alabama,125,52,Grass/Pasture,silt loam,27728.98828
+alabama,125,52,Grass/Pasture,silt loam,0.0000333
+alabama,125,71,Grass/Pasture,silt loam,23691.375
+alabama,125,81,Grass/Pasture,silt loam,176289.0625
+alabama,125,81,Grass/Pasture,silt loam,0.0000096
+alabama,125,81,Grass/Pasture,silt loam,0.0000454
+alabama,125,82,Crop,silt loam,46855
+alabama,125,82,Crop,silt loam,0.0000077
+alabama,125,82,Crop,silt loam,0.0000025
+alabama,125,82,Crop,silt loam,0.0000021
+alabama,125,90,Wetland,silt loam,23017.93164
+alabama,125,90,Wetland,silt loam,0.0000025
+alabama,125,95,Wetland,silt loam,1121.498169
+alabama,125,11,Water,silty clay,85.6683044
+alabama,125,21,Developed,silty clay,776.6856689
+alabama,125,22,Developed,silty clay,344.8518677
+alabama,125,23,Developed,silty clay,113.1253357
+alabama,125,24,Developed,silty clay,27.2731838
+alabama,125,31,Barren,silty clay,19.6358242
+alabama,125,41,Forest,silty clay,32405.8125
+alabama,125,41,Forest,silty clay,0.0008076
+alabama,125,42,Forest,silty clay,1485.00415
+alabama,125,43,Forest,silty clay,2456.580811
+alabama,125,52,Grass/Pasture,silty clay,1059.938965
+alabama,125,71,Grass/Pasture,silty clay,343.1575012
+alabama,125,81,Grass/Pasture,silty clay,6509.197266
+alabama,125,81,Grass/Pasture,silty clay,0.0000096
+alabama,125,82,Crop,silty clay,2885.072022
+alabama,125,90,Wetland,silty clay,584.2684937
+alabama,125,95,Wetland,silty clay,103.4379501
+alabama,125,11,Water,silty clay loam,1351.633545
+alabama,125,21,Developed,silty clay loam,4992.46582
+alabama,125,21,Developed,silty clay loam,0.0001026
+alabama,125,22,Developed,silty clay loam,2229.651123
+alabama,125,23,Developed,silty clay loam,474.5413818
+alabama,125,24,Developed,silty clay loam,131.7765961
+alabama,125,31,Barren,silty clay loam,145.9489594
+alabama,125,41,Forest,silty clay loam,51910.63281
+alabama,125,41,Forest,silty clay loam,0.0008076
+alabama,125,41,Forest,silty clay loam,0.0000113
+alabama,125,41,Forest,silty clay loam,0.000079
+alabama,125,41,Forest,silty clay loam,0.0000694
+alabama,125,42,Forest,silty clay loam,10127.43164
+alabama,125,43,Forest,silty clay loam,6072.131348
+alabama,125,43,Forest,silty clay loam,0.0000091
+alabama,125,52,Grass/Pasture,silty clay loam,3963.456055
+alabama,125,71,Grass/Pasture,silty clay loam,2559.208252
+alabama,125,81,Grass/Pasture,silty clay loam,36329.44141
+alabama,125,81,Grass/Pasture,silty clay loam,0.0000454
+alabama,125,82,Crop,silty clay loam,12647.70117
+alabama,125,90,Wetland,silty clay loam,3239.179688
+alabama,125,90,Wetland,silty clay loam,0.0000091
+alabama,125,95,Wetland,silty clay loam,366.5394897
+alabama,125,11,Water,,26977.85352
+alabama,125,11,Water,,0.0000038
+alabama,125,21,Developed,,753.7770996
+alabama,125,22,Developed,,391.0079041
+alabama,125,23,Developed,,223.4632874
+alabama,125,24,Developed,,135.282074
+alabama,125,31,Barren,,423.1723633
+alabama,125,41,Forest,,8119.094238
+alabama,125,41,Forest,,0.0001056
+alabama,125,42,Forest,,1628.635254
+alabama,125,42,Forest,,0.0000036
+alabama,125,43,Forest,,751.8373413
+alabama,125,52,Grass/Pasture,,929.0992432
+alabama,125,71,Grass/Pasture,,467.5857849
+alabama,125,81,Grass/Pasture,,4161.054688
+alabama,125,81,Grass/Pasture,,0.0000069
+alabama,125,82,Crop,,1306.196045
+alabama,125,82,Crop,,0.0000021
+alabama,125,90,Wetland,,1376.718384
+alabama,125,90,Wetland,,0.0000091
+alabama,125,95,Wetland,,89.7624283
+alabama,150,21,Developed,clay,16.3266354
+alabama,150,22,Developed,clay,2.9936957
+alabama,150,41,Forest,clay,104.7666626
+alabama,150,42,Forest,clay,41.9575157
+alabama,150,43,Forest,clay,17.0601006
+alabama,150,52,Grass/Pasture,clay,70.7678528
+alabama,150,71,Grass/Pasture,clay,12.6852522
+alabama,150,81,Grass/Pasture,clay,118.6414032
+alabama,150,82,Crop,clay,84.2911148
+alabama,150,90,Wetland,clay,0.5368925
+alabama,150,11,Water,clay loam,59.840271
+alabama,150,21,Developed,clay loam,847.8344116
+alabama,150,22,Developed,clay loam,165.289444
+alabama,150,22,Developed,clay loam,0.0000027
+alabama,150,23,Developed,clay loam,46.8281403
+alabama,150,24,Developed,clay loam,17.5565205
+alabama,150,31,Barren,clay loam,11.8764267
+alabama,150,41,Forest,clay loam,6580.115723
+alabama,150,41,Forest,clay loam,0.0000017
+alabama,150,41,Forest,clay loam,0.0000757
+alabama,150,42,Forest,clay loam,1453.932373
+alabama,150,43,Forest,clay loam,750.0914917
+alabama,150,43,Forest,clay loam,0.0000838
+alabama,150,52,Grass/Pasture,clay loam,1640.725098
+alabama,150,71,Grass/Pasture,clay loam,314.3791199
+alabama,150,81,Grass/Pasture,clay loam,3249.105957
+alabama,150,82,Crop,clay loam,1887.237061
+alabama,150,90,Wetland,clay loam,172.7798157
+alabama,150,95,Wetland,clay loam,1.9363838
+alabama,150,11,Water,loam,1499.622192
+alabama,150,11,Water,loam,0.0000045
+alabama,150,21,Developed,loam,11729.49805
+alabama,150,22,Developed,loam,5402.543457
+alabama,150,22,Developed,loam,0.0000091
+alabama,150,23,Developed,loam,1078.618164
+alabama,150,24,Developed,loam,380.3798828
+alabama,150,31,Barren,loam,468.5748291
+alabama,150,41,Forest,loam,90036.15625
+alabama,150,41,Forest,loam,0.0000013
+alabama,150,41,Forest,loam,0.0000666
+alabama,150,41,Forest,loam,0.0000626
+alabama,150,41,Forest,loam,0.0000174
+alabama,150,41,Forest,loam,0.0000757
+alabama,150,41,Forest,loam,0.000001
+alabama,150,42,Forest,loam,30695.63867
+alabama,150,42,Forest,loam,0.0000078
+alabama,150,43,Forest,loam,15885.19629
+alabama,150,43,Forest,loam,0.0000164
+alabama,150,43,Forest,loam,0.0000838
+alabama,150,43,Forest,loam,0.0000365
+alabama,150,52,Grass/Pasture,loam,15300.73047
+alabama,150,52,Grass/Pasture,loam,0.0000026
+alabama,150,71,Grass/Pasture,loam,6910.786133
+alabama,150,71,Grass/Pasture,loam,0.0000163
+alabama,150,71,Grass/Pasture,loam,0.0001087
+alabama,150,81,Grass/Pasture,loam,39455.77734
+alabama,150,81,Grass/Pasture,loam,0.0001235
+alabama,150,81,Grass/Pasture,loam,0.0000313
+alabama,150,81,Grass/Pasture,loam,0.0000089
+alabama,150,82,Crop,loam,18209.875
+alabama,150,82,Crop,loam,0.0000218
+alabama,150,82,Crop,loam,0.0000841
+alabama,150,90,Wetland,loam,17333.88867
+alabama,150,90,Wetland,loam,0.0000003
+alabama,150,95,Wetland,loam,295.9574585
+alabama,150,11,Water,loamy sand,72.165123
+alabama,150,21,Developed,loamy sand,36.090004
+alabama,150,22,Developed,loamy sand,4.7167678
+alabama,150,41,Forest,loamy sand,320.065155
+alabama,150,42,Forest,loamy sand,85.6678009
+alabama,150,43,Forest,loamy sand,18.3156204
+alabama,150,52,Grass/Pasture,loamy sand,46.4141769
+alabama,150,71,Grass/Pasture,loamy sand,12.9001169
+alabama,150,81,Grass/Pasture,loamy sand,117.7845688
+alabama,150,82,Crop,loamy sand,126.248642
+alabama,150,90,Wetland,loamy sand,204.6572723
+alabama,150,95,Wetland,loamy sand,5.6898751
+alabama,150,11,Water,sandy clay loam,15.8834553
+alabama,150,21,Developed,sandy clay loam,140.3941498
+alabama,150,22,Developed,sandy clay loam,26.7222404
+alabama,150,31,Barren,sandy clay loam,5.2506161
+alabama,150,41,Forest,sandy clay loam,3003.599365
+alabama,150,41,Forest,sandy clay loam,0.000054
+alabama,150,42,Forest,sandy clay loam,538.8440552
+alabama,150,43,Forest,sandy clay loam,131.6648407
+alabama,150,52,Grass/Pasture,sandy clay loam,357.6829529
+alabama,150,52,Grass/Pasture,sandy clay loam,0.0000153
+alabama,150,52,Grass/Pasture,sandy clay loam,0.0000087
+alabama,150,71,Grass/Pasture,sandy clay loam,68.5103455
+alabama,150,81,Grass/Pasture,sandy clay loam,649.8355713
+alabama,150,82,Crop,sandy clay loam,415.5085449
+alabama,150,90,Wetland,sandy clay loam,33.3768616
+alabama,150,95,Wetland,sandy clay loam,1.0118641
+alabama,150,11,Water,sandy loam,4381.399902
+alabama,150,21,Developed,sandy loam,31908.57617
+alabama,150,21,Developed,sandy loam,0.0000112
+alabama,150,22,Developed,sandy loam,11815.98438
+alabama,150,22,Developed,sandy loam,0.0000027
+alabama,150,23,Developed,sandy loam,2821.815674
+alabama,150,24,Developed,sandy loam,625.6816406
+alabama,150,31,Barren,sandy loam,873.7088013
+alabama,150,31,Barren,sandy loam,0.0000013
+alabama,150,41,Forest,sandy loam,292555.0938
+alabama,150,41,Forest,sandy loam,0.0000107
+alabama,150,41,Forest,sandy loam,0.0000319
+alabama,150,41,Forest,sandy loam,0.0000626
+alabama,150,41,Forest,sandy loam,0.0000068
+alabama,150,41,Forest,sandy loam,25879.86914
+alabama,150,41,Forest,sandy loam,0.0000017
+alabama,150,41,Forest,sandy loam,0.000054
+alabama,150,41,Forest,sandy loam,0.0000174
+alabama,150,41,Forest,sandy loam,0.0000064
+alabama,150,41,Forest,sandy loam,0.0000118
+alabama,150,42,Forest,sandy loam,79315.42188
+alabama,150,42,Forest,sandy loam,0.0000078
+alabama,150,42,Forest,sandy loam,0.0000087
+alabama,150,43,Forest,sandy loam,48571.75781
+alabama,150,43,Forest,sandy loam,0.0000164
+alabama,150,52,Grass/Pasture,sandy loam,71301.8125
+alabama,150,52,Grass/Pasture,sandy loam,0.0000153
+alabama,150,52,Grass/Pasture,sandy loam,0.0000107
+alabama,150,52,Grass/Pasture,sandy loam,0.0000012
+alabama,150,71,Grass/Pasture,sandy loam,19053.71875
+alabama,150,71,Grass/Pasture,sandy loam,0.0000058
+alabama,150,71,Grass/Pasture,sandy loam,0.0001087
+alabama,150,81,Grass/Pasture,sandy loam,105311.9922
+alabama,150,81,Grass/Pasture,sandy loam,0.0001032
+alabama,150,81,Grass/Pasture,sandy loam,0.0000313
+alabama,150,82,Crop,sandy loam,52640.57422
+alabama,150,82,Crop,sandy loam,0.0000218
+alabama,150,82,Crop,sandy loam,0.000066
+alabama,150,90,Wetland,sandy loam,23333.2207
+alabama,150,95,Wetland,sandy loam,1098.054565
+alabama,150,95,Wetland,sandy loam,0.0001559
+alabama,150,11,Water,silt loam,4604.713867
+alabama,150,11,Water,silt loam,0.0000006
+alabama,150,21,Developed,silt loam,47050.29297
+alabama,150,21,Developed,silt loam,0.0000112
+alabama,150,22,Developed,silt loam,27217.45703
+alabama,150,22,Developed,silt loam,0.0000091
+alabama,150,23,Developed,silt loam,5553.739746
+alabama,150,24,Developed,silt loam,1387.752441
+alabama,150,31,Barren,silt loam,1213.823364
+alabama,150,41,Forest,silt loam,174311.125
+alabama,150,41,Forest,silt loam,0.0000666
+alabama,150,41,Forest,silt loam,0.0000319
+alabama,150,41,Forest,silt loam,212944.9219
+alabama,150,41,Forest,silt loam,0.0000064
+alabama,150,41,Forest,silt loam,0.0001648
+alabama,150,41,Forest,silt loam,0.0000071
+alabama,150,41,Forest,silt loam,0.000001
+alabama,150,41,Forest,silt loam,0.0000127
+alabama,150,42,Forest,silt loam,59838.22266
+alabama,150,42,Forest,silt loam,0.0000087
+alabama,150,42,Forest,silt loam,0.0000225
+alabama,150,43,Forest,silt loam,20301.36523
+alabama,150,43,Forest,silt loam,0.0000365
+alabama,150,43,Forest,silt loam,0.0000411
+alabama,150,52,Grass/Pasture,silt loam,26194.94727
+alabama,150,52,Grass/Pasture,silt loam,0.0000026
+alabama,150,52,Grass/Pasture,silt loam,0.0000012
+alabama,150,52,Grass/Pasture,silt loam,0.0002269
+alabama,150,71,Grass/Pasture,silt loam,20118.66406
+alabama,150,71,Grass/Pasture,silt loam,0.0000058
+alabama,150,71,Grass/Pasture,silt loam,0.0000163
+alabama,150,71,Grass/Pasture,silt loam,0.0000018
+alabama,150,81,Grass/Pasture,silt loam,184560.7969
+alabama,150,81,Grass/Pasture,silt loam,0.0001032
+alabama,150,81,Grass/Pasture,silt loam,0.0001235
+alabama,150,81,Grass/Pasture,silt loam,0.0001227
+alabama,150,81,Grass/Pasture,silt loam,0.0000084
+alabama,150,82,Crop,silt loam,57992.97266
+alabama,150,82,Crop,silt loam,0.0000841
+alabama,150,82,Crop,silt loam,0.000066
+alabama,150,82,Crop,silt loam,0.0000013
+alabama,150,90,Wetland,silt loam,29072.57617
+alabama,150,95,Wetland,silt loam,952.383728
+alabama,150,95,Wetland,silt loam,0.0001559
+alabama,150,11,Water,silty clay,139.7439423
+alabama,150,21,Developed,silty clay,586.0899658
+alabama,150,22,Developed,silty clay,393.4336548
+alabama,150,23,Developed,silty clay,80.6200867
+alabama,150,24,Developed,silty clay,21.6837158
+alabama,150,31,Barren,silty clay,33.3641052
+alabama,150,41,Forest,silty clay,18410.75586
+alabama,150,41,Forest,silty clay,0.0000118
+alabama,150,42,Forest,silty clay,1221.926758
+alabama,150,43,Forest,silty clay,1554.750977
+alabama,150,43,Forest,silty clay,0.0000411
+alabama,150,52,Grass/Pasture,silty clay,1341.595459
+alabama,150,71,Grass/Pasture,silty clay,460.8613281
+alabama,150,81,Grass/Pasture,silty clay,5270.111816
+alabama,150,81,Grass/Pasture,silty clay,0.0000084
+alabama,150,82,Crop,silty clay,4855.57959
+alabama,150,82,Crop,silty clay,0.0000055
+alabama,150,90,Wetland,silty clay,1762.195313
+alabama,150,95,Wetland,silty clay,187.3427277
+alabama,150,11,Water,silty clay loam,988.4284058
+alabama,150,11,Water,silty clay loam,0.0000009
+alabama,150,11,Water,silty clay loam,0.0000006
+alabama,150,21,Developed,silty clay loam,5428.666992
+alabama,150,22,Developed,silty clay loam,3214.726563
+alabama,150,23,Developed,silty clay loam,869.4472046
+alabama,150,24,Developed,silty clay loam,214.9799957
+alabama,150,31,Barren,silty clay loam,162.0682526
+alabama,150,41,Forest,silty clay loam,54015.23828
+alabama,150,41,Forest,silty clay loam,0.0000068
+alabama,150,41,Forest,silty clay loam,0.0001648
+alabama,150,41,Forest,silty clay loam,0.0000127
+alabama,150,42,Forest,silty clay loam,13493.35352
+alabama,150,42,Forest,silty clay loam,0.0000225
+alabama,150,43,Forest,silty clay loam,6201.232422
+alabama,150,52,Grass/Pasture,silty clay loam,6900.251465
+alabama,150,52,Grass/Pasture,silty clay loam,0.0000087
+alabama,150,71,Grass/Pasture,silty clay loam,2465.044922
+alabama,150,71,Grass/Pasture,silty clay loam,0.0000018
+alabama,150,81,Grass/Pasture,silty clay loam,34146.97656
+alabama,150,81,Grass/Pasture,silty clay loam,0.0000089
+alabama,150,81,Grass/Pasture,silty clay loam,0.0001227
+alabama,150,82,Crop,silty clay loam,15668.74219
+alabama,150,82,Crop,silty clay loam,0.0000013
+alabama,150,82,Crop,silty clay loam,0.0000055
+alabama,150,90,Wetland,silty clay loam,3807.568115
+alabama,150,95,Wetland,silty clay loam,156.8549347
+alabama,150,11,Water,,21601.73242
+alabama,150,11,Water,,0.0000045
+alabama,150,11,Water,,0.0000009
+alabama,150,21,Developed,,2312.855469
+alabama,150,22,Developed,,4366.884277
+alabama,150,23,Developed,,3735.523193
+alabama,150,24,Developed,,3158.357666
+alabama,150,31,Barren,,296.4597473
+alabama,150,31,Barren,,0.0000013
+alabama,150,41,Forest,,6161.135742
+alabama,150,41,Forest,,0.0000013
+alabama,150,41,Forest,,0.0000071
+alabama,150,42,Forest,,2218.821289
+alabama,150,43,Forest,,832.7562256
+alabama,150,52,Grass/Pasture,,920.6587524
+alabama,150,52,Grass/Pasture,,0.0002269
+alabama,150,71,Grass/Pasture,,691.5740967
+alabama,150,81,Grass/Pasture,,2152.302979
+alabama,150,82,Crop,,1038.533814
+alabama,150,90,Wetland,,2300.01001
+alabama,150,90,Wetland,,0.0000003
+alabama,150,95,Wetland,,135.1029358
+alabama,175,11,Water,clay,5.9521809
+alabama,175,21,Developed,clay,140.5912628
+alabama,175,22,Developed,clay,47.4302216
+alabama,175,23,Developed,clay,10.6273403
+alabama,175,31,Barren,clay,2.8665087
+alabama,175,41,Forest,clay,1063.023804
+alabama,175,42,Forest,clay,664.6393433
+alabama,175,43,Forest,clay,213.0435486
+alabama,175,52,Grass/Pasture,clay,169.2751617
+alabama,175,71,Grass/Pasture,clay,52.630146
+alabama,175,81,Grass/Pasture,clay,1756.29773
+alabama,175,82,Crop,clay,188.2915955
+alabama,175,90,Wetland,clay,6.3814049
+alabama,175,95,Wetland,clay,2.2913063
+alabama,175,11,Water,clay loam,155.7050171
+alabama,175,21,Developed,clay loam,1517.589111
+alabama,175,22,Developed,clay loam,541.7032471
+alabama,175,23,Developed,clay loam,199.9859314
+alabama,175,24,Developed,clay loam,44.23452
+alabama,175,31,Barren,clay loam,21.3085346
+alabama,175,41,Forest,clay loam,6216.522461
+alabama,175,41,Forest,clay loam,0.0000122
+alabama,175,42,Forest,clay loam,2739.255615
+alabama,175,43,Forest,clay loam,1143.421753
+alabama,175,52,Grass/Pasture,clay loam,1764.573975
+alabama,175,52,Grass/Pasture,clay loam,0.0000098
+alabama,175,52,Grass/Pasture,clay loam,0.0000161
+alabama,175,71,Grass/Pasture,clay loam,658.4309082
+alabama,175,81,Grass/Pasture,clay loam,4937.895996
+alabama,175,81,Grass/Pasture,clay loam,0.0000126
+alabama,175,81,Grass/Pasture,clay loam,0.0000145
+alabama,175,82,Crop,clay loam,1784.271118
+alabama,175,82,Crop,clay loam,0.0001374
+alabama,175,90,Wetland,clay loam,545.1031494
+alabama,175,95,Wetland,clay loam,24.2065773
+alabama,175,11,Water,loam,3934.826416
+alabama,175,21,Developed,loam,26784.59766
+alabama,175,21,Developed,loam,0.0000127
+alabama,175,21,Developed,loam,0.0000013
+alabama,175,22,Developed,loam,10221.39551
+alabama,175,23,Developed,loam,3087.216797
+alabama,175,24,Developed,loam,872.8752441
+alabama,175,31,Barren,loam,2032.76709
+alabama,175,41,Forest,loam,203070.7188
+alabama,175,41,Forest,loam,0.0000057
+alabama,175,41,Forest,loam,0.0001324
+alabama,175,41,Forest,loam,0.0000285
+alabama,175,41,Forest,loam,0.0000057
+alabama,175,41,Forest,loam,0.0000272
+alabama,175,41,Forest,loam,0.0000768
+alabama,175,42,Forest,loam,61568.37109
+alabama,175,43,Forest,loam,23218.10156
+alabama,175,43,Forest,loam,0.0000035
+alabama,175,43,Forest,loam,0.000019
+alabama,175,52,Grass/Pasture,loam,20247.43164
+alabama,175,52,Grass/Pasture,loam,0.0000055
+alabama,175,52,Grass/Pasture,loam,0.000002
+alabama,175,71,Grass/Pasture,loam,14725.75293
+alabama,175,71,Grass/Pasture,loam,0.0001121
+alabama,175,81,Grass/Pasture,loam,61234.59766
+alabama,175,81,Grass/Pasture,loam,0.0000177
+alabama,175,81,Grass/Pasture,loam,0.0002977
+alabama,175,81,Grass/Pasture,loam,0.0000145
+alabama,175,81,Grass/Pasture,loam,0
+alabama,175,82,Crop,loam,23448.98633
+alabama,175,82,Crop,loam,0.0000228
+alabama,175,90,Wetland,loam,22681.75391
+alabama,175,90,Wetland,loam,0.0000053
+alabama,175,95,Wetland,loam,278.0647278
+alabama,175,11,Water,loamy sand,189.905365
+alabama,175,21,Developed,loamy sand,269.6486511
+alabama,175,22,Developed,loamy sand,242.9248047
+alabama,175,23,Developed,loamy sand,107.9020081
+alabama,175,24,Developed,loamy sand,1.6729209
+alabama,175,31,Barren,loamy sand,13.6079893
+alabama,175,41,Forest,loamy sand,1582.356812
+alabama,175,41,Forest,loamy sand,0.0000041
+alabama,175,42,Forest,loamy sand,419.0873413
+alabama,175,43,Forest,loamy sand,192.6900635
+alabama,175,52,Grass/Pasture,loamy sand,157.3927155
+alabama,175,71,Grass/Pasture,loamy sand,67.4730072
+alabama,175,81,Grass/Pasture,loamy sand,371.1417542
+alabama,175,82,Crop,loamy sand,230.5536346
+alabama,175,90,Wetland,loamy sand,932.2033691
+alabama,175,90,Wetland,loamy sand,0.0000019
+alabama,175,95,Wetland,loamy sand,11.6599255
+alabama,175,95,Wetland,loamy sand,0.0000107
+alabama,175,11,Water,sandy clay loam,12.8993025
+alabama,175,21,Developed,sandy clay loam,120.811264
+alabama,175,22,Developed,sandy clay loam,15.3889208
+alabama,175,23,Developed,sandy clay loam,9.4799175
+alabama,175,24,Developed,sandy clay loam,1.9345533
+alabama,175,31,Barren,sandy clay loam,1.9230502
+alabama,175,41,Forest,sandy clay loam,1020.339356
+alabama,175,42,Forest,sandy clay loam,206.6712494
+alabama,175,43,Forest,sandy clay loam,38.189476
+alabama,175,52,Grass/Pasture,sandy clay loam,43.614254
+alabama,175,71,Grass/Pasture,sandy clay loam,61.518055
+alabama,175,81,Grass/Pasture,sandy clay loam,590.6735229
+alabama,175,81,Grass/Pasture,sandy clay loam,0.0000025
+alabama,175,82,Crop,sandy clay loam,373.6391907
+alabama,175,90,Wetland,sandy clay loam,8.0214233
+alabama,175,11,Water,sandy loam,4207.339356
+alabama,175,21,Developed,sandy loam,24700.93945
+alabama,175,22,Developed,sandy loam,8142.6875
+alabama,175,23,Developed,sandy loam,2481.547363
+alabama,175,24,Developed,sandy loam,549.9321289
+alabama,175,31,Barren,sandy loam,1572.335571
+alabama,175,41,Forest,sandy loam,273327.4375
+alabama,175,41,Forest,sandy loam,0.0001047
+alabama,175,41,Forest,sandy loam,0.0001324
+alabama,175,41,Forest,sandy loam,24226.67578
+alabama,175,41,Forest,sandy loam,0.0000057
+alabama,175,42,Forest,sandy loam,71664.77344
+alabama,175,43,Forest,sandy loam,45009.0625
+alabama,175,43,Forest,sandy loam,0.0000032
+alabama,175,43,Forest,sandy loam,0.0000035
+alabama,175,52,Grass/Pasture,sandy loam,48308.54297
+alabama,175,52,Grass/Pasture,sandy loam,0.0000098
+alabama,175,52,Grass/Pasture,sandy loam,0.0000119
+alabama,175,52,Grass/Pasture,sandy loam,0.000002
+alabama,175,71,Grass/Pasture,sandy loam,13809.35742
+alabama,175,71,Grass/Pasture,sandy loam,0.0001121
+alabama,175,81,Grass/Pasture,sandy loam,50803.87109
+alabama,175,81,Grass/Pasture,sandy loam,0.0000177
+alabama,175,81,Grass/Pasture,sandy loam,0.0000277
+alabama,175,82,Crop,sandy loam,25606.60352
+alabama,175,82,Crop,sandy loam,0.0000053
+alabama,175,90,Wetland,sandy loam,11254.11816
+alabama,175,90,Wetland,sandy loam,0.0000011
+alabama,175,90,Wetland,sandy loam,0.0000019
+alabama,175,95,Wetland,sandy loam,433.4518738
+alabama,175,95,Wetland,sandy loam,0.0000107
+alabama,175,11,Water,silt loam,6401.291992
+alabama,175,21,Developed,silt loam,69572.83594
+alabama,175,21,Developed,silt loam,0.0000127
+alabama,175,21,Developed,silt loam,0.000004
+alabama,175,22,Developed,silt loam,32948.24609
+alabama,175,23,Developed,silt loam,10265.73828
+alabama,175,24,Developed,silt loam,4531.850586
+alabama,175,31,Barren,silt loam,1657.325684
+alabama,175,41,Forest,silt loam,195900.75
+alabama,175,41,Forest,silt loam,0.0001047
+alabama,175,41,Forest,silt loam,0.0000285
+alabama,175,41,Forest,silt loam,0.0000424
+alabama,175,41,Forest,silt loam,254107.4063
+alabama,175,41,Forest,silt loam,0.0000272
+alabama,175,41,Forest,silt loam,0.0000219
+alabama,175,42,Forest,silt loam,84098.17969
+alabama,175,42,Forest,silt loam,0.0000863
+alabama,175,43,Forest,silt loam,28209.54492
+alabama,175,43,Forest,silt loam,0.0000207
+alabama,175,43,Forest,silt loam,0.000019
+alabama,175,52,Grass/Pasture,silt loam,40632.73828
+alabama,175,52,Grass/Pasture,silt loam,0.0000119
+alabama,175,52,Grass/Pasture,silt loam,0.0000055
+alabama,175,71,Grass/Pasture,silt loam,26635.50977
+alabama,175,81,Grass/Pasture,silt loam,220218.4219
+alabama,175,81,Grass/Pasture,silt loam,0.0000126
+alabama,175,81,Grass/Pasture,silt loam,0.0000039
+alabama,175,81,Grass/Pasture,silt loam,0.0000025
+alabama,175,81,Grass/Pasture,silt loam,0.0000247
+alabama,175,81,Grass/Pasture,silt loam,0.0000277
+alabama,175,81,Grass/Pasture,silt loam,0.0002977
+alabama,175,81,Grass/Pasture,silt loam,0.0001441
+alabama,175,82,Crop,silt loam,103659.2578
+alabama,175,82,Crop,silt loam,0.0000228
+alabama,175,82,Crop,silt loam,0.0002363
+alabama,175,82,Crop,silt loam,0.0000098
+alabama,175,90,Wetland,silt loam,38840.60156
+alabama,175,90,Wetland,silt loam,0.000057
+alabama,175,95,Wetland,silt loam,1373.418579
+alabama,175,11,Water,silty clay,405.8893738
+alabama,175,21,Developed,silty clay,914.5542603
+alabama,175,22,Developed,silty clay,711.7557983
+alabama,175,23,Developed,silty clay,182.2109833
+alabama,175,24,Developed,silty clay,31.2906742
+alabama,175,31,Barren,silty clay,63.6023331
+alabama,175,41,Forest,silty clay,4989.677246
+alabama,175,42,Forest,silty clay,1231.272339
+alabama,175,43,Forest,silty clay,855.413147
+alabama,175,52,Grass/Pasture,silty clay,3895.113525
+alabama,175,71,Grass/Pasture,silty clay,1092.484619
+alabama,175,81,Grass/Pasture,silty clay,19905.37891
+alabama,175,81,Grass/Pasture,silty clay,0.0000039
+alabama,175,82,Crop,silty clay,12267.50293
+alabama,175,82,Crop,silty clay,0.0000098
+alabama,175,90,Wetland,silty clay,3341.900879
+alabama,175,95,Wetland,silty clay,657.9450073
+alabama,175,11,Water,silty clay loam,1698.259155
+alabama,175,21,Developed,silty clay loam,8207.470703
+alabama,175,21,Developed,silty clay loam,0.0000013
+alabama,175,21,Developed,silty clay loam,0.000004
+alabama,175,22,Developed,silty clay loam,4779.030273
+alabama,175,23,Developed,silty clay loam,1580.625977
+alabama,175,24,Developed,silty clay loam,534.9379883
+alabama,175,31,Barren,silty clay loam,354.9736023
+alabama,175,41,Forest,silty clay loam,51938.05078
+alabama,175,41,Forest,silty clay loam,0.0000424
+alabama,175,41,Forest,silty clay loam,0.0000122
+alabama,175,41,Forest,silty clay loam,0.0000768
+alabama,175,41,Forest,silty clay loam,0.0000219
+alabama,175,42,Forest,silty clay loam,23543.34961
+alabama,175,42,Forest,silty clay loam,0.0000863
+alabama,175,43,Forest,silty clay loam,7419.40625
+alabama,175,43,Forest,silty clay loam,0.0000207
+alabama,175,52,Grass/Pasture,silty clay loam,10708.0918
+alabama,175,52,Grass/Pasture,silty clay loam,0.0000161
+alabama,175,71,Grass/Pasture,silty clay loam,4038.1875
+alabama,175,81,Grass/Pasture,silty clay loam,43680.14844
+alabama,175,81,Grass/Pasture,silty clay loam,0
+alabama,175,81,Grass/Pasture,silty clay loam,0.0001441
+alabama,175,82,Crop,silty clay loam,18263.91602
+alabama,175,82,Crop,silty clay loam,0.0000053
+alabama,175,82,Crop,silty clay loam,0.0002363
+alabama,175,82,Crop,silty clay loam,0.0001374
+alabama,175,90,Wetland,silty clay loam,16791.84961
+alabama,175,95,Wetland,silty clay loam,1293.424561
+alabama,175,11,Water,,43223.57813
+alabama,175,21,Developed,,2068.36499
+alabama,175,22,Developed,,973.5319214
+alabama,175,23,Developed,,1040.133911
+alabama,175,24,Developed,,633.4334717
+alabama,175,31,Barren,,599.7636108
+alabama,175,41,Forest,,8100.205566
+alabama,175,41,Forest,,0.0000057
+alabama,175,41,Forest,,0.0000041
+alabama,175,42,Forest,,2538.331299
+alabama,175,43,Forest,,982.7173462
+alabama,175,43,Forest,,0.0000032
+alabama,175,52,Grass/Pasture,,1330.466309
+alabama,175,71,Grass/Pasture,,1053.426514
+alabama,175,81,Grass/Pasture,,2608.142578
+alabama,175,81,Grass/Pasture,,0.0000247
+alabama,175,82,Crop,,1591.761353
+alabama,175,90,Wetland,,3281.911377
+alabama,175,90,Wetland,,0.0000053
+alabama,175,90,Wetland,,0.0000011
+alabama,175,90,Wetland,,0.000057
+alabama,175,95,Wetland,,281.5548096

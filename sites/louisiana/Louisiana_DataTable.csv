@@ -1,0 +1,1695 @@
+point,BUFF_DIST,NLCD240,textcl,LandUse,area_ha
+louisiana,25,11,clay,Water,294.2461243
+louisiana,25,21,clay,Developed,0.0004016
+louisiana,25,21,clay,Developed,291.4121704
+louisiana,25,22,clay,Developed,0.0000672
+louisiana,25,22,clay,Developed,330.9333801
+louisiana,25,23,clay,Developed,2.0889628
+louisiana,25,42,clay,Forest,3.4800637
+louisiana,25,52,clay,Grass/Pasture,145.4482422
+louisiana,25,71,clay,Grass/Pasture,50.8489723
+louisiana,25,81,clay,Grass/Pasture,0.0008795
+louisiana,25,81,clay,Grass/Pasture,2495.720459
+louisiana,25,82,clay,Crop,0.0052582
+louisiana,25,82,clay,Crop,12483.55469
+louisiana,25,90,clay,Wetland,0.0058276
+louisiana,25,90,clay,Wetland,18089.99023
+louisiana,25,95,clay,Wetland,404.130188
+louisiana,25,90,sandy loam,Wetland,0.0002256
+louisiana,25,90,sandy loam,Wetland,2.0862935
+louisiana,25,21,silt,Developed,208.7286987
+louisiana,25,22,silt,Developed,749.0524902
+louisiana,25,23,silt,Developed,17.9818554
+louisiana,25,24,silt,Developed,28.8947315
+louisiana,25,52,silt,Grass/Pasture,109.8869553
+louisiana,25,71,silt,Grass/Pasture,20.3753223
+louisiana,25,81,silt,Grass/Pasture,3268.019043
+louisiana,25,82,silt,Crop,7722.995606
+louisiana,25,90,silt,Wetland,428.7688599
+louisiana,25,11,silt loam,Water,433.1436157
+louisiana,25,21,silt loam,Developed,0.0008241
+louisiana,25,21,silt loam,Developed,2501.374268
+louisiana,25,22,silt loam,Developed,0.0026803
+louisiana,25,22,silt loam,Developed,5838.729981
+louisiana,25,23,silt loam,Developed,0.0003049
+louisiana,25,23,silt loam,Developed,120.9421005
+louisiana,25,24,silt loam,Developed,154.8542938
+louisiana,25,31,silt loam,Barren,17.2799988
+louisiana,25,41,silt loam,Forest,5.7599993
+louisiana,25,42,silt loam,Forest,0.0005402
+louisiana,25,42,silt loam,Forest,266.1992188
+louisiana,25,52,silt loam,Grass/Pasture,0.0002728
+louisiana,25,52,silt loam,Grass/Pasture,743.6448364
+louisiana,25,71,silt loam,Grass/Pasture,100.6130905
+louisiana,25,81,silt loam,Grass/Pasture,0.0068242
+louisiana,25,81,silt loam,Grass/Pasture,33479.37109
+louisiana,25,82,silt loam,Crop,0.0124291
+louisiana,25,82,silt loam,Crop,65998.22656
+louisiana,25,90,silt loam,Wetland,0.0039629
+louisiana,25,90,silt loam,Wetland,14486.38184
+louisiana,25,95,silt loam,Wetland,50.7726288
+louisiana,25,21,silty clay,Developed,2.109653
+louisiana,25,52,silty clay,Grass/Pasture,4.4082723
+louisiana,25,81,silty clay,Grass/Pasture,230.359314
+louisiana,25,82,silty clay,Crop,423.3086243
+louisiana,25,90,silty clay,Wetland,237.8957214
+louisiana,25,11,silty clay loam,Water,0.0000163
+louisiana,25,11,silty clay loam,Water,111.6870193
+louisiana,25,21,silty clay loam,Developed,0.0000498
+louisiana,25,21,silty clay loam,Developed,182.1527557
+louisiana,25,22,silty clay loam,Developed,0.0000939
+louisiana,25,22,silty clay loam,Developed,321.9117737
+louisiana,25,23,silty clay loam,Developed,7.761939
+louisiana,25,52,silty clay loam,Grass/Pasture,102.0546341
+louisiana,25,71,silty clay loam,Grass/Pasture,24.1525345
+louisiana,25,81,silty clay loam,Grass/Pasture,0.0003956
+louisiana,25,81,silty clay loam,Grass/Pasture,3189.51294
+louisiana,25,82,silty clay loam,Crop,0.0014031
+louisiana,25,82,silty clay loam,Crop,11955.25391
+louisiana,25,90,silty clay loam,Wetland,0.0008276
+louisiana,25,90,silty clay loam,Wetland,6336.979981
+louisiana,25,95,silty clay loam,Wetland,30.2588596
+louisiana,25,11,,Water,0.0000761
+louisiana,25,11,,Water,410.3863525
+louisiana,25,21,,Developed,139.7460632
+louisiana,25,22,,Developed,72.7177887
+louisiana,25,23,,Developed,1.0375714
+louisiana,25,42,,Forest,0.3724061
+louisiana,25,52,,Grass/Pasture,7.6472573
+louisiana,25,71,,Grass/Pasture,12.3217926
+louisiana,25,81,,Grass/Pasture,127.6566772
+louisiana,25,82,,Crop,0.0006806
+louisiana,25,82,,Crop,435.4932251
+louisiana,25,90,,Wetland,0.0005585
+louisiana,25,90,,Wetland,542.7113647
+louisiana,25,95,,Wetland,41.6605606
+louisiana,50,11,clay,Water,796.0531006
+louisiana,50,21,clay,Developed,0.0006165
+louisiana,50,21,clay,Developed,782.2843018
+louisiana,50,22,clay,Developed,0.0004002
+louisiana,50,22,clay,Developed,801.0449219
+louisiana,50,22,clay,Developed,0.0000017
+louisiana,50,23,clay,Developed,8.2963781
+louisiana,50,24,clay,Developed,0.0000988
+louisiana,50,24,clay,Developed,9.5378952
+louisiana,50,41,clay,Forest,0.000409
+louisiana,50,41,clay,Forest,2.3991177
+louisiana,50,52,clay,Grass/Pasture,177.2820892
+louisiana,50,71,clay,Grass/Pasture,0.00036
+louisiana,50,71,clay,Grass/Pasture,393.6585693
+louisiana,50,71,clay,Grass/Pasture,0.0000536
+louisiana,50,81,clay,Grass/Pasture,0.0090698
+louisiana,50,81,clay,Grass/Pasture,9126.116211
+louisiana,50,81,clay,Grass/Pasture,0.0007096
+louisiana,50,82,clay,Crop,0.0161992
+louisiana,50,82,clay,Crop,30971.17969
+louisiana,50,82,clay,Crop,0.0013269
+louisiana,50,90,clay,Wetland,0.0294559
+louisiana,50,90,clay,Wetland,94071.76563
+louisiana,50,90,clay,Wetland,0.0043563
+louisiana,50,95,clay,Wetland,1427.915405
+louisiana,50,90,sand,Wetland,24.3142338
+louisiana,50,11,sandy loam,Water,0.0005667
+louisiana,50,11,sandy loam,Water,168.4521637
+louisiana,50,21,sandy loam,Developed,409.1407166
+louisiana,50,22,sandy loam,Developed,0.0000711
+louisiana,50,22,sandy loam,Developed,396.3587036
+louisiana,50,23,sandy loam,Developed,15.8615284
+louisiana,50,24,sandy loam,Developed,14.7370853
+louisiana,50,31,sandy loam,Barren,3.6704791
+louisiana,50,42,sandy loam,Forest,0.0021627
+louisiana,50,42,sandy loam,Forest,310.1393127
+louisiana,50,43,sandy loam,Forest,0.0008324
+louisiana,50,43,sandy loam,Forest,64.5820313
+louisiana,50,52,sandy loam,Grass/Pasture,0.0008176
+louisiana,50,52,sandy loam,Grass/Pasture,124.3729248
+louisiana,50,71,sandy loam,Grass/Pasture,146.4273376
+louisiana,50,81,sandy loam,Grass/Pasture,0.0003518
+louisiana,50,81,sandy loam,Grass/Pasture,1862.467651
+louisiana,50,82,sandy loam,Crop,0.0026861
+louisiana,50,82,sandy loam,Crop,3385.487793
+louisiana,50,90,sandy loam,Wetland,0.0051148
+louisiana,50,90,sandy loam,Wetland,5323.344727
+louisiana,50,95,sandy loam,Wetland,85.4700012
+louisiana,50,11,silt,Water,1.0696586
+louisiana,50,21,silt,Developed,47.3446579
+louisiana,50,22,silt,Developed,627.46698
+louisiana,50,22,silt,Developed,0.0000691
+louisiana,50,23,silt,Developed,22.8507576
+louisiana,50,52,silt,Grass/Pasture,18.3542004
+louisiana,50,71,silt,Grass/Pasture,3.6944177
+louisiana,50,81,silt,Grass/Pasture,1331.929077
+louisiana,50,81,silt,Grass/Pasture,0.0009614
+louisiana,50,82,silt,Crop,2722.843018
+louisiana,50,82,silt,Crop,0.0033111
+louisiana,50,90,silt,Wetland,104.1964493
+louisiana,50,90,silt,Wetland,0.0009416
+louisiana,50,11,silt loam,Water,0.0014696
+louisiana,50,11,silt loam,Water,1697.827881
+louisiana,50,21,silt loam,Developed,0.0018025
+louisiana,50,21,silt loam,Developed,7806.833496
+louisiana,50,21,silt loam,Developed,0.0008418
+louisiana,50,22,silt loam,Developed,0.0018442
+louisiana,50,22,silt loam,Developed,26631.88086
+louisiana,50,22,silt loam,Developed,0.0014594
+louisiana,50,23,silt loam,Developed,1621.154541
+louisiana,50,24,silt loam,Developed,1098.202026
+louisiana,50,31,silt loam,Barren,66.7971344
+louisiana,50,41,silt loam,Forest,90.6238327
+louisiana,50,42,silt loam,Forest,0.0206927
+louisiana,50,42,silt loam,Forest,8113.058594
+louisiana,50,43,silt loam,Forest,0.0024173
+louisiana,50,43,silt loam,Forest,762.6783447
+louisiana,50,52,silt loam,Grass/Pasture,0.0119642
+louisiana,50,52,silt loam,Grass/Pasture,4571.137695
+louisiana,50,52,silt loam,Grass/Pasture,0.0003179
+louisiana,50,71,silt loam,Grass/Pasture,0.0063398
+louisiana,50,71,silt loam,Grass/Pasture,2327.090088
+louisiana,50,71,silt loam,Grass/Pasture,0.0000616
+louisiana,50,81,silt loam,Grass/Pasture,0.008394
+louisiana,50,81,silt loam,Grass/Pasture,53772.5625
+louisiana,50,81,silt loam,Grass/Pasture,0.0110367
+louisiana,50,82,silt loam,Crop,0.0291377
+louisiana,50,82,silt loam,Crop,162069.8906
+louisiana,50,82,silt loam,Crop,0.0133005
+louisiana,50,90,silt loam,Wetland,0.0260732
+louisiana,50,90,silt loam,Wetland,85008.07031
+louisiana,50,90,silt loam,Wetland,0.0037034
+louisiana,50,90,silt loam,Wetland,0.0000001
+louisiana,50,95,silt loam,Wetland,0.0012096
+louisiana,50,95,silt loam,Wetland,449.0075378
+louisiana,50,11,silty clay,Water,54.1215897
+louisiana,50,21,silty clay,Developed,168.9459686
+louisiana,50,22,silty clay,Developed,285.6889038
+louisiana,50,23,silty clay,Developed,25.2118931
+louisiana,50,24,silty clay,Developed,14.4831839
+louisiana,50,43,silty clay,Forest,5.7600017
+louisiana,50,52,silty clay,Grass/Pasture,99.6580734
+louisiana,50,81,silty clay,Grass/Pasture,1665.369141
+louisiana,50,81,silty clay,Grass/Pasture,0.000321
+louisiana,50,82,silty clay,Crop,5771.548828
+louisiana,50,82,silty clay,Crop,0.0014968
+louisiana,50,90,silty clay,Wetland,7330.318359
+louisiana,50,90,silty clay,Wetland,0.0004475
+louisiana,50,95,silty clay,Wetland,91.5521469
+louisiana,50,11,silty clay loam,Water,228.8023529
+louisiana,50,11,silty clay loam,Water,0.0000189
+louisiana,50,21,silty clay loam,Developed,574.5814209
+louisiana,50,21,silty clay loam,Developed,0.0000682
+louisiana,50,22,silty clay loam,Developed,0.0000862
+louisiana,50,22,silty clay loam,Developed,1302.218262
+louisiana,50,23,silty clay loam,Developed,28.4204922
+louisiana,50,24,silty clay loam,Developed,24.8225994
+louisiana,50,31,silty clay loam,Barren,1.7242717
+louisiana,50,41,silty clay loam,Forest,0.0002932
+louisiana,50,41,silty clay loam,Forest,11.9808397
+louisiana,50,42,silty clay loam,Forest,13.115963
+louisiana,50,52,silty clay loam,Grass/Pasture,137.7494354
+louisiana,50,71,silty clay loam,Grass/Pasture,0.0004513
+louisiana,50,71,silty clay loam,Grass/Pasture,107.04702
+louisiana,50,81,silty clay loam,Grass/Pasture,0.0046694
+louisiana,50,81,silty clay loam,Grass/Pasture,7083.930664
+louisiana,50,81,silty clay loam,Grass/Pasture,0.001855
+louisiana,50,82,silty clay loam,Crop,0.0144117
+louisiana,50,82,silty clay loam,Crop,26066.97266
+louisiana,50,82,silty clay loam,Crop,0.0022161
+louisiana,50,90,silty clay loam,Wetland,0.0030823
+louisiana,50,90,silty clay loam,Wetland,10359.93945
+louisiana,50,90,silty clay loam,Wetland,0.0009512
+louisiana,50,95,silty clay loam,Wetland,56.844902
+louisiana,50,95,silty clay loam,Wetland,0.0000099
+louisiana,50,11,,Water,0.0022619
+louisiana,50,11,,Water,6534.516602
+louisiana,50,11,,Water,0.0000919
+louisiana,50,21,,Developed,616.3410034
+louisiana,50,22,,Developed,0.0001472
+louisiana,50,22,,Developed,516.2484741
+louisiana,50,22,,Developed,0.0000017
+louisiana,50,23,,Developed,11.8389406
+louisiana,50,24,,Developed,5.9508648
+louisiana,50,31,,Barren,12.6595516
+louisiana,50,41,,Forest,2.4368565
+louisiana,50,42,,Forest,29.2122288
+louisiana,50,43,,Forest,2.2575819
+louisiana,50,52,,Grass/Pasture,0.000127
+louisiana,50,52,,Grass/Pasture,17.0510235
+louisiana,50,71,,Grass/Pasture,67.70298
+louisiana,50,81,,Grass/Pasture,0.000164
+louisiana,50,81,,Grass/Pasture,401.5659485
+louisiana,50,81,,Grass/Pasture,0.0000386
+louisiana,50,82,,Crop,0.0007001
+louisiana,50,82,,Crop,1070.199219
+louisiana,50,82,,Crop,0.0000602
+louisiana,50,90,,Wetland,0.0006006
+louisiana,50,90,,Wetland,4553.606445
+louisiana,50,90,,Wetland,0.0003221
+louisiana,50,90,,Wetland,0.0000001
+louisiana,50,95,,Wetland,1771.091797
+louisiana,75,11,clay,Water,0.0012241
+louisiana,75,11,clay,Water,1821.793213
+louisiana,75,21,clay,Developed,1089.1427
+louisiana,75,21,clay,Developed,0.0000868
+louisiana,75,22,clay,Developed,1308.878174
+louisiana,75,22,clay,Developed,0.0002578
+louisiana,75,23,clay,Developed,23.429884
+louisiana,75,24,clay,Developed,9.481492
+louisiana,75,31,clay,Barren,0.0001384
+louisiana,75,31,clay,Barren,51.900898
+louisiana,75,41,clay,Forest,39.28936
+louisiana,75,42,clay,Forest,40.7133751
+louisiana,75,43,clay,Forest,41.6479645
+louisiana,75,52,clay,Grass/Pasture,457.8983459
+louisiana,75,52,clay,Grass/Pasture,0
+louisiana,75,71,clay,Grass/Pasture,0.0004408
+louisiana,75,71,clay,Grass/Pasture,681.2686157
+louisiana,75,81,clay,Grass/Pasture,0.0052224
+louisiana,75,81,clay,Grass/Pasture,11116.5918
+louisiana,75,81,clay,Grass/Pasture,0.0003489
+louisiana,75,82,clay,Crop,0.0270415
+louisiana,75,82,clay,Crop,50912.45703
+louisiana,75,82,clay,Crop,0.0040049
+louisiana,75,90,clay,Wetland,0.0820143
+louisiana,75,90,clay,Wetland,155810.4375
+louisiana,75,90,clay,Wetland,0.012851
+louisiana,75,90,clay,Wetland,0.0000014
+louisiana,75,95,clay,Wetland,0.0032303
+louisiana,75,95,clay,Wetland,4201.200195
+louisiana,75,95,clay,Wetland,0.0002637
+louisiana,75,21,loam,Developed,2.7300797
+louisiana,75,22,loam,Developed,27.1066151
+louisiana,75,42,loam,Forest,2.3875406
+louisiana,75,52,loam,Grass/Pasture,8.0796146
+louisiana,75,71,loam,Grass/Pasture,11.3555717
+louisiana,75,81,loam,Grass/Pasture,151.2733459
+louisiana,75,82,loam,Crop,1160.212158
+louisiana,75,90,loam,Wetland,34.169857
+louisiana,75,11,loamy sand,Water,0.0002839
+louisiana,75,11,loamy sand,Water,59.1625404
+louisiana,75,21,loamy sand,Developed,9.9976463
+louisiana,75,22,loamy sand,Developed,15.5574722
+louisiana,75,23,loamy sand,Developed,1.3100532
+louisiana,75,31,loamy sand,Barren,22.4323444
+louisiana,75,42,loamy sand,Forest,0.0019478
+louisiana,75,42,loamy sand,Forest,207.1000061
+louisiana,75,43,loamy sand,Forest,75.2726517
+louisiana,75,52,loamy sand,Grass/Pasture,0.0006435
+louisiana,75,52,loamy sand,Grass/Pasture,70.8064728
+louisiana,75,71,loamy sand,Grass/Pasture,53.6414299
+louisiana,75,81,loamy sand,Grass/Pasture,67.8194122
+louisiana,75,82,loamy sand,Crop,23.157053
+louisiana,75,90,loamy sand,Wetland,0.0018699
+louisiana,75,90,loamy sand,Wetland,692.1841431
+louisiana,75,95,loamy sand,Wetland,6.6250439
+louisiana,75,11,sand,Water,0.0005702
+louisiana,75,11,sand,Water,61.1739845
+louisiana,75,21,sand,Developed,3.7421145
+louisiana,75,31,sand,Barren,0.000215
+louisiana,75,31,sand,Barren,41.8064766
+louisiana,75,41,sand,Forest,2.1886196
+louisiana,75,42,sand,Forest,34.6448631
+louisiana,75,43,sand,Forest,0.0000432
+louisiana,75,43,sand,Forest,4.5332637
+louisiana,75,52,sand,Grass/Pasture,67.6502151
+louisiana,75,71,sand,Grass/Pasture,88.7971039
+louisiana,75,81,sand,Grass/Pasture,9.6696472
+louisiana,75,82,sand,Crop,20.1174984
+louisiana,75,90,sand,Wetland,0.000354
+louisiana,75,90,sand,Wetland,1115.458984
+louisiana,75,95,sand,Wetland,0.0003464
+louisiana,75,95,sand,Wetland,6.0833454
+louisiana,75,11,sandy loam,Water,0.004588
+louisiana,75,11,sandy loam,Water,832.4868774
+louisiana,75,21,sandy loam,Developed,0.0002768
+louisiana,75,21,sandy loam,Developed,1084.804321
+louisiana,75,22,sandy loam,Developed,0.0007664
+louisiana,75,22,sandy loam,Developed,1148.163574
+louisiana,75,23,sandy loam,Developed,68.0490952
+louisiana,75,24,sandy loam,Developed,13.707963
+louisiana,75,31,sandy loam,Barren,0.000411
+louisiana,75,31,sandy loam,Barren,153.359726
+louisiana,75,41,sandy loam,Forest,114.3510513
+louisiana,75,42,sandy loam,Forest,0.0343192
+louisiana,75,42,sandy loam,Forest,8416.921875
+louisiana,75,43,sandy loam,Forest,0.0020968
+louisiana,75,43,sandy loam,Forest,2232.824219
+louisiana,75,52,sandy loam,Grass/Pasture,0.0131213
+louisiana,75,52,sandy loam,Grass/Pasture,4615.643066
+louisiana,75,71,sandy loam,Grass/Pasture,0.0025182
+louisiana,75,71,sandy loam,Grass/Pasture,2895.682129
+louisiana,75,81,sandy loam,Grass/Pasture,0.0035448
+louisiana,75,81,sandy loam,Grass/Pasture,2913.815186
+louisiana,75,82,sandy loam,Crop,0.0142615
+louisiana,75,82,sandy loam,Crop,5729.204102
+louisiana,75,90,sandy loam,Wetland,0.0098505
+louisiana,75,90,sandy loam,Wetland,14100.01172
+louisiana,75,95,sandy loam,Wetland,186.1592102
+louisiana,75,11,silt,Water,0.0015977
+louisiana,75,11,silt,Water,19.8166199
+louisiana,75,21,silt,Developed,0.0000701
+louisiana,75,21,silt,Developed,61.6000099
+louisiana,75,31,silt,Barren,0.000397
+louisiana,75,31,silt,Barren,6.2009697
+louisiana,75,41,silt,Forest,0.0013162
+louisiana,75,41,silt,Forest,270.7828064
+louisiana,75,42,silt,Forest,0.0019155
+louisiana,75,42,silt,Forest,18.8066902
+louisiana,75,43,silt,Forest,54.376915
+louisiana,75,52,silt,Grass/Pasture,0.0003883
+louisiana,75,52,silt,Grass/Pasture,38.1146584
+louisiana,75,71,silt,Grass/Pasture,0.0008305
+louisiana,75,71,silt,Grass/Pasture,46.5855484
+louisiana,75,81,silt,Grass/Pasture,0.0013236
+louisiana,75,81,silt,Grass/Pasture,209.690506
+louisiana,75,82,silt,Crop,109.5582275
+louisiana,75,90,silt,Wetland,0.0007784
+louisiana,75,90,silt,Wetland,222.5162048
+louisiana,75,95,silt,Wetland,0.0003153
+louisiana,75,95,silt,Wetland,0.979568
+louisiana,75,11,silt loam,Water,0.0042292
+louisiana,75,11,silt loam,Water,3297.682617
+louisiana,75,11,silt loam,Water,0.0017529
+louisiana,75,21,silt loam,Developed,0.0057859
+louisiana,75,21,silt loam,Developed,9290.989258
+louisiana,75,21,silt loam,Developed,0.0044195
+louisiana,75,22,silt loam,Developed,0.0012868
+louisiana,75,22,silt loam,Developed,24564.13867
+louisiana,75,22,silt loam,Developed,0.010704
+louisiana,75,23,silt loam,Developed,0.0000037
+louisiana,75,23,silt loam,Developed,1158.885864
+louisiana,75,24,silt loam,Developed,695.5522461
+louisiana,75,31,silt loam,Barren,293.3226318
+louisiana,75,41,silt loam,Forest,0.044339
+louisiana,75,41,silt loam,Forest,13166.19727
+louisiana,75,41,silt loam,Forest,0.0002144
+louisiana,75,41,silt loam,Forest,0.0002144
+louisiana,75,42,silt loam,Forest,0.0678278
+louisiana,75,42,silt loam,Forest,44376.98438
+louisiana,75,43,silt loam,Forest,0.0229719
+louisiana,75,43,silt loam,Forest,6645.73584
+louisiana,75,52,silt loam,Grass/Pasture,0.016276
+louisiana,75,52,silt loam,Grass/Pasture,19346.94531
+louisiana,75,52,silt loam,Grass/Pasture,0.0001087
+louisiana,75,71,silt loam,Grass/Pasture,0.0076142
+louisiana,75,71,silt loam,Grass/Pasture,17388.73242
+louisiana,75,71,silt loam,Grass/Pasture,0.000059
+louisiana,75,81,silt loam,Grass/Pasture,0.0083832
+louisiana,75,81,silt loam,Grass/Pasture,56154.125
+louisiana,75,81,silt loam,Grass/Pasture,0.0184573
+louisiana,75,82,silt loam,Crop,0.0148279
+louisiana,75,82,silt loam,Crop,233888.2188
+louisiana,75,82,silt loam,Crop,0.0931299
+louisiana,75,82,silt loam,Crop,0
+louisiana,75,90,silt loam,Wetland,0.0545712
+louisiana,75,90,silt loam,Wetland,104775.2266
+louisiana,75,90,silt loam,Wetland,0.037634
+louisiana,75,90,silt loam,Wetland,0.0000014
+louisiana,75,95,silt loam,Wetland,0.0028598
+louisiana,75,95,silt loam,Wetland,2417.321045
+louisiana,75,95,silt loam,Wetland,0.0000012
+louisiana,75,11,silty clay,Water,160.0982819
+louisiana,75,21,silty clay,Developed,289.1125793
+louisiana,75,21,silty clay,Developed,0.0004524
+louisiana,75,22,silty clay,Developed,771.854187
+louisiana,75,22,silty clay,Developed,0.0012398
+louisiana,75,23,silty clay,Developed,28.9900208
+louisiana,75,24,silty clay,Developed,33.918335
+louisiana,75,41,silty clay,Forest,9.1233225
+louisiana,75,52,silty clay,Grass/Pasture,63.489357
+louisiana,75,52,silty clay,Grass/Pasture,0.0000551
+louisiana,75,52,silty clay,Grass/Pasture,0
+louisiana,75,71,silty clay,Grass/Pasture,109.0753174
+louisiana,75,81,silty clay,Grass/Pasture,1265.255859
+louisiana,75,81,silty clay,Grass/Pasture,0.0012224
+louisiana,75,82,silty clay,Crop,0.0030087
+louisiana,75,82,silty clay,Crop,7388.108398
+louisiana,75,82,silty clay,Crop,0.0005781
+louisiana,75,90,silty clay,Wetland,0.0058508
+louisiana,75,90,silty clay,Wetland,10809.85254
+louisiana,75,90,silty clay,Wetland,0.0035401
+louisiana,75,95,silty clay,Wetland,159.2110596
+louisiana,75,11,silty clay loam,Water,351.8268433
+louisiana,75,21,silty clay loam,Developed,986.1816406
+louisiana,75,21,silty clay loam,Developed,0.0003286
+louisiana,75,22,silty clay loam,Developed,0.0003634
+louisiana,75,22,silty clay loam,Developed,2163.976563
+louisiana,75,22,silty clay loam,Developed,0.0012257
+louisiana,75,23,silty clay loam,Developed,59.1974144
+louisiana,75,24,silty clay loam,Developed,24.0746078
+louisiana,75,31,silty clay loam,Barren,13.8866377
+louisiana,75,41,silty clay loam,Forest,11.6968021
+louisiana,75,52,silty clay loam,Grass/Pasture,169.8469696
+louisiana,75,71,silty clay loam,Grass/Pasture,289.5917358
+louisiana,75,81,silty clay loam,Grass/Pasture,0.0007636
+louisiana,75,81,silty clay loam,Grass/Pasture,10957.51465
+louisiana,75,81,silty clay loam,Grass/Pasture,0.0005903
+louisiana,75,82,silty clay loam,Crop,0.0073627
+louisiana,75,82,silty clay loam,Crop,55440.14453
+louisiana,75,82,silty clay loam,Crop,0.0059614
+louisiana,75,82,silty clay loam,Crop,0.0000001
+louisiana,75,82,silty clay loam,Crop,0
+louisiana,75,90,silty clay loam,Wetland,0.0051379
+louisiana,75,90,silty clay loam,Wetland,14944.72168
+louisiana,75,90,silty clay loam,Wetland,0.0002941
+louisiana,75,95,silty clay loam,Wetland,302.1855164
+louisiana,75,11,,Water,0.0155428
+louisiana,75,11,,Water,20798.73438
+louisiana,75,11,,Water,0.001396
+louisiana,75,21,,Developed,0.0000569
+louisiana,75,21,,Developed,747.8880005
+louisiana,75,22,,Developed,805.1992188
+louisiana,75,22,,Developed,0.0012956
+louisiana,75,23,,Developed,45.6043777
+louisiana,75,24,,Developed,82.1378937
+louisiana,75,31,,Barren,0.0019358
+louisiana,75,31,,Barren,1175.009033
+louisiana,75,41,,Forest,69.2753067
+louisiana,75,42,,Forest,0.0007412
+louisiana,75,42,,Forest,431.1766357
+louisiana,75,43,,Forest,0.0001807
+louisiana,75,43,,Forest,31.7544746
+louisiana,75,52,,Grass/Pasture,0.0011396
+louisiana,75,52,,Grass/Pasture,286.2682495
+louisiana,75,71,,Grass/Pasture,0.0003613
+louisiana,75,71,,Grass/Pasture,230.2742767
+louisiana,75,81,,Grass/Pasture,0.0019509
+louisiana,75,81,,Grass/Pasture,757.3867188
+louisiana,75,82,,Crop,0.0009645
+louisiana,75,82,,Crop,6329.418457
+louisiana,75,82,,Crop,0.0014498
+louisiana,75,82,,Crop,0.0000001
+louisiana,75,90,,Wetland,0.006093
+louisiana,75,90,,Wetland,17070.61914
+louisiana,75,90,,Wetland,0.0015267
+louisiana,75,95,,Wetland,0.0008769
+louisiana,75,95,,Wetland,8684.914063
+louisiana,75,95,,Wetland,0.0006169
+louisiana,75,95,,Wetland,0.0000012
+louisiana,100,11,clay,Water,5480.98291
+louisiana,100,11,clay,Water,0.0008075
+louisiana,100,21,clay,Developed,1612.226196
+louisiana,100,22,clay,Developed,3349.345459
+louisiana,100,22,clay,Developed,0.0006425
+louisiana,100,23,clay,Developed,326.320343
+louisiana,100,24,clay,Developed,310.8377991
+louisiana,100,31,clay,Barren,46.3217506
+louisiana,100,41,clay,Forest,104.3189316
+louisiana,100,42,clay,Forest,168.1057129
+louisiana,100,43,clay,Forest,83.3862152
+louisiana,100,52,clay,Grass/Pasture,1191.139893
+louisiana,100,71,clay,Grass/Pasture,647.543457
+louisiana,100,81,clay,Grass/Pasture,6083.42334
+louisiana,100,81,clay,Grass/Pasture,0.0017256
+louisiana,100,82,clay,Crop,53958.54297
+louisiana,100,82,clay,Crop,0.0057923
+louisiana,100,90,clay,Wetland,140164.125
+louisiana,100,90,clay,Wetland,0.0822385
+louisiana,100,95,clay,Wetland,13273.6582
+louisiana,100,95,clay,Wetland,0.0058155
+louisiana,100,11,loam,Water,142.9743347
+louisiana,100,21,loam,Developed,410.8048096
+louisiana,100,22,loam,Developed,462.9816589
+louisiana,100,23,loam,Developed,27.666563
+louisiana,100,24,loam,Developed,15.9067316
+louisiana,100,31,loam,Barren,4.2861328
+louisiana,100,41,loam,Forest,11.8911734
+louisiana,100,42,loam,Forest,6434.736816
+louisiana,100,43,loam,Forest,128.4291534
+louisiana,100,52,loam,Grass/Pasture,1515.900757
+louisiana,100,71,loam,Grass/Pasture,709.5161743
+louisiana,100,81,loam,Grass/Pasture,3318.722412
+louisiana,100,82,loam,Crop,8282.777344
+louisiana,100,82,loam,Crop,0.0000654
+louisiana,100,90,loam,Wetland,751.1072998
+louisiana,100,95,loam,Wetland,290.1823425
+louisiana,100,11,loamy sand,Water,181.6270142
+louisiana,100,21,loamy sand,Developed,33.7851295
+louisiana,100,22,loamy sand,Developed,120.988327
+louisiana,100,31,loamy sand,Barren,19.1514854
+louisiana,100,41,loamy sand,Forest,33.7226868
+louisiana,100,42,loamy sand,Forest,2898.18042
+louisiana,100,43,loamy sand,Forest,540.9630127
+louisiana,100,52,loamy sand,Grass/Pasture,912.6131592
+louisiana,100,71,loamy sand,Grass/Pasture,445.129364
+louisiana,100,81,loamy sand,Grass/Pasture,227.7653809
+louisiana,100,82,loamy sand,Crop,37.5944786
+louisiana,100,90,loamy sand,Wetland,4208.222656
+louisiana,100,95,loamy sand,Wetland,40.7649574
+louisiana,100,11,sand,Water,225.1490173
+louisiana,100,21,sand,Developed,14.0610056
+louisiana,100,22,sand,Developed,0.351494
+louisiana,100,31,sand,Barren,362.6836853
+louisiana,100,41,sand,Forest,78.9556198
+louisiana,100,42,sand,Forest,18.9331284
+louisiana,100,43,sand,Forest,63.6563492
+louisiana,100,52,sand,Grass/Pasture,57.6637688
+louisiana,100,71,sand,Grass/Pasture,32.1800346
+louisiana,100,81,sand,Grass/Pasture,35.1440086
+louisiana,100,82,sand,Crop,4.7779117
+louisiana,100,90,sand,Wetland,1122.963013
+louisiana,100,95,sand,Wetland,11.9177952
+louisiana,100,81,sandy clay loam,Grass/Pasture,4.2792706
+louisiana,100,11,sandy loam,Water,1097.650391
+louisiana,100,21,sandy loam,Developed,4129.203125
+louisiana,100,21,sandy loam,Developed,0.0000183
+louisiana,100,22,sandy loam,Developed,2173.203369
+louisiana,100,23,sandy loam,Developed,303.663147
+louisiana,100,24,sandy loam,Developed,104.7370529
+louisiana,100,31,sandy loam,Barren,185.2892456
+louisiana,100,41,sandy loam,Forest,2163.668457
+louisiana,100,42,sandy loam,Forest,58796.71094
+louisiana,100,43,sandy loam,Forest,7561.959473
+louisiana,100,52,sandy loam,Grass/Pasture,18346.11133
+louisiana,100,71,sandy loam,Grass/Pasture,7165.919434
+louisiana,100,81,sandy loam,Grass/Pasture,7940.521973
+louisiana,100,81,sandy loam,Grass/Pasture,0.0000968
+louisiana,100,82,sandy loam,Crop,6980.179688
+louisiana,100,82,sandy loam,Crop,0.0003816
+louisiana,100,90,sandy loam,Wetland,21583.14063
+louisiana,100,90,sandy loam,Wetland,0.0000144
+louisiana,100,95,sandy loam,Wetland,187.7431793
+louisiana,100,11,silt,Water,82.0179596
+louisiana,100,21,silt,Developed,1658.606079
+louisiana,100,22,silt,Developed,1325.949463
+louisiana,100,23,silt,Developed,446.4261169
+louisiana,100,24,silt,Developed,7.8209109
+louisiana,100,31,silt,Barren,72.5146408
+louisiana,100,41,silt,Forest,1517.208008
+louisiana,100,42,silt,Forest,665.8986816
+louisiana,100,43,silt,Forest,423.104248
+louisiana,100,52,silt,Grass/Pasture,774.8511353
+louisiana,100,71,silt,Grass/Pasture,350.0881042
+louisiana,100,81,silt,Grass/Pasture,2179.864502
+louisiana,100,82,silt,Crop,1002.793945
+louisiana,100,90,silt,Wetland,2302.983643
+louisiana,100,95,silt,Wetland,36.6758919
+louisiana,100,11,silt loam,Water,3601.813477
+louisiana,100,11,silt loam,Water,0.0003211
+louisiana,100,21,silt loam,Developed,17368.16211
+louisiana,100,21,silt loam,Developed,0.0022471
+louisiana,100,22,silt loam,Developed,21809.3125
+louisiana,100,22,silt loam,Developed,0.0128593
+louisiana,100,23,silt loam,Developed,3567.340332
+louisiana,100,23,silt loam,Developed,0.000643
+louisiana,100,24,silt loam,Developed,963.4111938
+louisiana,100,31,silt loam,Barren,703.5720215
+louisiana,100,31,silt loam,Barren,0.0000937
+louisiana,100,41,silt loam,Forest,47545.32031
+louisiana,100,41,silt loam,Forest,0.0018696
+louisiana,100,42,silt loam,Forest,76042.25
+louisiana,100,42,silt loam,Forest,0.0002981
+louisiana,100,43,silt loam,Forest,16073.54395
+louisiana,100,52,silt loam,Grass/Pasture,40546.97266
+louisiana,100,52,silt loam,Grass/Pasture,0.0008317
+louisiana,100,71,silt loam,Grass/Pasture,16469.41602
+louisiana,100,71,silt loam,Grass/Pasture,0.0022708
+louisiana,100,81,silt loam,Grass/Pasture,52708.75
+louisiana,100,81,silt loam,Grass/Pasture,0.0315899
+louisiana,100,82,silt loam,Crop,104700.25
+louisiana,100,82,silt loam,Crop,0.1129383
+louisiana,100,90,silt loam,Wetland,121511.3281
+louisiana,100,90,silt loam,Wetland,0.0304707
+louisiana,100,95,silt loam,Wetland,2665.997559
+louisiana,100,95,silt loam,Wetland,0.0003683
+louisiana,100,11,silty clay,Water,689.8039551
+louisiana,100,21,silty clay,Developed,243.5684967
+louisiana,100,22,silty clay,Developed,551.1325073
+louisiana,100,22,silty clay,Developed,0.000057
+louisiana,100,23,silty clay,Developed,74.2473068
+louisiana,100,31,silty clay,Barren,5.6387281
+louisiana,100,41,silty clay,Forest,77.424881
+louisiana,100,42,silty clay,Forest,37.9041786
+louisiana,100,43,silty clay,Forest,23.0429535
+louisiana,100,52,silty clay,Grass/Pasture,82.4329605
+louisiana,100,71,silty clay,Grass/Pasture,83.7501373
+louisiana,100,81,silty clay,Grass/Pasture,2135.142334
+louisiana,100,81,silty clay,Grass/Pasture,0.0001199
+louisiana,100,82,silty clay,Crop,13318.25586
+louisiana,100,82,silty clay,Crop,0.0047834
+louisiana,100,90,silty clay,Wetland,10224.38574
+louisiana,100,90,silty clay,Wetland,0.0008688
+louisiana,100,95,silty clay,Wetland,278.7774353
+louisiana,100,11,silty clay loam,Water,497.3735046
+louisiana,100,11,silty clay loam,Water,0.0003371
+louisiana,100,21,silty clay loam,Developed,1229.081787
+louisiana,100,22,silty clay loam,Developed,3632.167481
+louisiana,100,22,silty clay loam,Developed,0.0001576
+louisiana,100,23,silty clay loam,Developed,286.7071533
+louisiana,100,24,silty clay loam,Developed,234.2408447
+louisiana,100,31,silty clay loam,Barren,35.5944023
+louisiana,100,41,silty clay loam,Forest,73.4735031
+louisiana,100,42,silty clay loam,Forest,8.2686453
+louisiana,100,43,silty clay loam,Forest,26.3348618
+louisiana,100,52,silty clay loam,Grass/Pasture,253.2159424
+louisiana,100,71,silty clay loam,Grass/Pasture,222.3813477
+louisiana,100,81,silty clay loam,Grass/Pasture,5262.291016
+louisiana,100,81,silty clay loam,Grass/Pasture,0.0100192
+louisiana,100,82,silty clay loam,Crop,31203.99414
+louisiana,100,82,silty clay loam,Crop,0.0432189
+louisiana,100,90,silty clay loam,Wetland,11203.28418
+louisiana,100,90,silty clay loam,Wetland,0.0110863
+louisiana,100,95,silty clay loam,Wetland,787.6144409
+louisiana,100,95,silty clay loam,Wetland,0.0009236
+louisiana,100,11,,Water,36143.94141
+louisiana,100,11,,Water,0.0047394
+louisiana,100,21,,Developed,2863.142578
+louisiana,100,21,,Developed,0.0009795
+louisiana,100,22,,Developed,3100.395752
+louisiana,100,22,,Developed,0.0005737
+louisiana,100,23,,Developed,2882.126221
+louisiana,100,24,,Developed,1546.428345
+louisiana,100,31,,Barren,1976.355469
+louisiana,100,41,,Forest,684.7628784
+louisiana,100,41,,Forest,0.0018696
+louisiana,100,42,,Forest,2468.841065
+louisiana,100,43,,Forest,1072.879028
+louisiana,100,52,,Grass/Pasture,2301.156006
+louisiana,100,71,,Grass/Pasture,1337.877075
+louisiana,100,81,,Grass/Pasture,8933.652344
+louisiana,100,81,,Grass/Pasture,0.002625
+louisiana,100,82,,Crop,19533.78125
+louisiana,100,82,,Crop,0.0283607
+louisiana,100,90,,Wetland,43836.23828
+louisiana,100,90,,Wetland,0.0172985
+louisiana,100,95,,Wetland,100248.8438
+louisiana,100,95,,Wetland,0.0423671
+louisiana,125,11,clay,Water,10254.5293
+louisiana,125,11,clay,Water,0.0034173
+louisiana,125,11,clay,Water,0.0034173
+louisiana,125,11,clay,Water,0.0042575
+louisiana,125,11,clay,Water,0.0042575
+louisiana,125,11,clay,Water,0.0000001
+louisiana,125,11,clay,Water,0
+louisiana,125,21,clay,Developed,1940.677246
+louisiana,125,21,clay,Developed,0.0113699
+louisiana,125,21,clay,Developed,0.0113699
+louisiana,125,21,clay,Developed,0.0019255
+louisiana,125,21,clay,Developed,0.0019255
+louisiana,125,21,clay,Developed,0
+louisiana,125,22,clay,Developed,3646.294922
+louisiana,125,22,clay,Developed,0.0075125
+louisiana,125,22,clay,Developed,0.0075125
+louisiana,125,22,clay,Developed,0.0025105
+louisiana,125,22,clay,Developed,0.0025105
+louisiana,125,23,clay,Developed,354.7992249
+louisiana,125,23,clay,Developed,0.0009663
+louisiana,125,23,clay,Developed,0.0009663
+louisiana,125,24,clay,Developed,210.0996704
+louisiana,125,24,clay,Developed,0.0009213
+louisiana,125,24,clay,Developed,0.0009213
+louisiana,125,31,clay,Barren,172.9875793
+louisiana,125,41,clay,Forest,324.2631226
+louisiana,125,41,clay,Forest,0.0007289
+louisiana,125,41,clay,Forest,0.0007289
+louisiana,125,42,clay,Forest,1098.493652
+louisiana,125,42,clay,Forest,0.0080615
+louisiana,125,42,clay,Forest,0.0080615
+louisiana,125,43,clay,Forest,435.2351685
+louisiana,125,43,clay,Forest,0.002415
+louisiana,125,43,clay,Forest,0.002415
+louisiana,125,52,clay,Grass/Pasture,1908.59436
+louisiana,125,52,clay,Grass/Pasture,0.0013333
+louisiana,125,52,clay,Grass/Pasture,0.0013333
+louisiana,125,71,clay,Grass/Pasture,285.7133484
+louisiana,125,71,clay,Grass/Pasture,0.0014737
+louisiana,125,71,clay,Grass/Pasture,0.0014737
+louisiana,125,81,clay,Grass/Pasture,9647.293945
+louisiana,125,81,clay,Grass/Pasture,0
+louisiana,125,81,clay,Grass/Pasture,0
+louisiana,125,81,clay,Grass/Pasture,0.003998
+louisiana,125,81,clay,Grass/Pasture,0.003998
+louisiana,125,81,clay,Grass/Pasture,0
+louisiana,125,81,clay,Grass/Pasture,0.0138643
+louisiana,125,81,clay,Grass/Pasture,0.0138643
+louisiana,125,82,clay,Crop,65439.4375
+louisiana,125,82,clay,Crop,0.0831786
+louisiana,125,82,clay,Crop,0.0831786
+louisiana,125,82,clay,Crop,0.0000001
+louisiana,125,82,clay,Crop,0.0155042
+louisiana,125,82,clay,Crop,0.0155042
+louisiana,125,82,clay,Crop,0
+louisiana,125,90,clay,Wetland,96520.19531
+louisiana,125,90,clay,Wetland,0.0000001
+louisiana,125,90,clay,Wetland,0.0000001
+louisiana,125,90,clay,Wetland,0
+louisiana,125,90,clay,Wetland,0.0797209
+louisiana,125,90,clay,Wetland,0.0797209
+louisiana,125,90,clay,Wetland,0
+louisiana,125,90,clay,Wetland,0.080763
+louisiana,125,90,clay,Wetland,0.080763
+louisiana,125,90,clay,Wetland,0
+louisiana,125,95,clay,Wetland,57635.76563
+louisiana,125,95,clay,Wetland,0
+louisiana,125,95,clay,Wetland,0.0220857
+louisiana,125,95,clay,Wetland,0.0220857
+louisiana,125,11,clay loam,Water,113.8284378
+louisiana,125,22,clay loam,Developed,6.7003722
+louisiana,125,41,clay loam,Forest,1.8037297
+louisiana,125,42,clay loam,Forest,25.5389786
+louisiana,125,43,clay loam,Forest,5.2666755
+louisiana,125,52,clay loam,Grass/Pasture,10.9394503
+louisiana,125,82,clay loam,Crop,20.4760075
+louisiana,125,90,clay loam,Wetland,223.2728882
+louisiana,125,95,clay loam,Wetland,2.1954076
+louisiana,125,11,loam,Water,522.3742676
+louisiana,125,21,loam,Developed,935.897522
+louisiana,125,21,loam,Developed,0.0085666
+louisiana,125,21,loam,Developed,0.0085666
+louisiana,125,22,loam,Developed,772.1881714
+louisiana,125,22,loam,Developed,0.0039582
+louisiana,125,22,loam,Developed,0.0039582
+louisiana,125,22,loam,Developed,0.0000652
+louisiana,125,22,loam,Developed,0.0000652
+louisiana,125,23,loam,Developed,63.2477226
+louisiana,125,24,loam,Developed,62.4402618
+louisiana,125,31,loam,Barren,6.5443363
+louisiana,125,41,loam,Forest,99.0941086
+louisiana,125,42,loam,Forest,7916.164551
+louisiana,125,42,loam,Forest,0.0796092
+louisiana,125,42,loam,Forest,0.0796092
+louisiana,125,43,loam,Forest,394.2643433
+louisiana,125,43,loam,Forest,0.0062443
+louisiana,125,43,loam,Forest,0.0062443
+louisiana,125,52,loam,Grass/Pasture,2197.003662
+louisiana,125,52,loam,Grass/Pasture,0.0147243
+louisiana,125,52,loam,Grass/Pasture,0.0147243
+louisiana,125,71,loam,Grass/Pasture,887.1350708
+louisiana,125,71,loam,Grass/Pasture,0.0045163
+louisiana,125,71,loam,Grass/Pasture,0.0045163
+louisiana,125,71,loam,Grass/Pasture,0.0009385
+louisiana,125,71,loam,Grass/Pasture,0.0009385
+louisiana,125,71,loam,Grass/Pasture,0
+louisiana,125,81,loam,Grass/Pasture,3417.456299
+louisiana,125,81,loam,Grass/Pasture,0
+louisiana,125,81,loam,Grass/Pasture,0.0162541
+louisiana,125,81,loam,Grass/Pasture,0.0162541
+louisiana,125,81,loam,Grass/Pasture,0.0025238
+louisiana,125,81,loam,Grass/Pasture,0.0025238
+louisiana,125,81,loam,Grass/Pasture,0
+louisiana,125,82,loam,Crop,12650.37207
+louisiana,125,82,loam,Crop,0
+louisiana,125,82,loam,Crop,0.0314853
+louisiana,125,82,loam,Crop,0.0314853
+louisiana,125,82,loam,Crop,0.0201692
+louisiana,125,82,loam,Crop,0.0201692
+louisiana,125,90,loam,Wetland,4386.698731
+louisiana,125,90,loam,Wetland,0.0063671
+louisiana,125,90,loam,Wetland,0.0063671
+louisiana,125,90,loam,Wetland,0.0009423
+louisiana,125,90,loam,Wetland,0.0009423
+louisiana,125,95,loam,Wetland,1266.00293
+louisiana,125,95,loam,Wetland,0.0004116
+louisiana,125,95,loam,Wetland,0.0004116
+louisiana,125,11,loamy sand,Water,117.0008926
+louisiana,125,21,loamy sand,Developed,525.1376343
+louisiana,125,21,loamy sand,Developed,0.0023821
+louisiana,125,21,loamy sand,Developed,0.0023821
+louisiana,125,22,loamy sand,Developed,589.1815186
+louisiana,125,22,loamy sand,Developed,0.0019497
+louisiana,125,22,loamy sand,Developed,0.0019497
+louisiana,125,23,loamy sand,Developed,51.8282776
+louisiana,125,24,loamy sand,Developed,10.0185957
+louisiana,125,31,loamy sand,Barren,189.1128387
+louisiana,125,41,loamy sand,Forest,140.3036804
+louisiana,125,41,loamy sand,Forest,0.0065581
+louisiana,125,41,loamy sand,Forest,0.0065581
+louisiana,125,42,loamy sand,Forest,8784.978516
+louisiana,125,42,loamy sand,Forest,0.0351714
+louisiana,125,42,loamy sand,Forest,0.0351714
+louisiana,125,43,loamy sand,Forest,1162.369385
+louisiana,125,43,loamy sand,Forest,0.0111869
+louisiana,125,43,loamy sand,Forest,0.0111869
+louisiana,125,52,loamy sand,Grass/Pasture,4232.143555
+louisiana,125,52,loamy sand,Grass/Pasture,0.0021056
+louisiana,125,52,loamy sand,Grass/Pasture,0.0021056
+louisiana,125,71,loamy sand,Grass/Pasture,1365.450928
+louisiana,125,71,loamy sand,Grass/Pasture,0.001353
+louisiana,125,71,loamy sand,Grass/Pasture,0.001353
+louisiana,125,81,loamy sand,Grass/Pasture,420.0192871
+louisiana,125,81,loamy sand,Grass/Pasture,0.0107936
+louisiana,125,81,loamy sand,Grass/Pasture,0.0107936
+louisiana,125,82,loamy sand,Crop,30.8842487
+louisiana,125,90,loamy sand,Wetland,1597.28186
+louisiana,125,90,loamy sand,Wetland,0.0012178
+louisiana,125,90,loamy sand,Wetland,0.0012178
+louisiana,125,95,loamy sand,Wetland,347.5412903
+louisiana,125,11,sand,Water,360.4302979
+louisiana,125,21,sand,Developed,60.7930412
+louisiana,125,22,sand,Developed,167.0007629
+louisiana,125,23,sand,Developed,3.8868787
+louisiana,125,24,sand,Developed,1.1297127
+louisiana,125,31,sand,Barren,472.7032776
+louisiana,125,31,sand,Barren,0.0000235
+louisiana,125,31,sand,Barren,0.0000029
+louisiana,125,31,sand,Barren,0.0066032
+louisiana,125,31,sand,Barren,0.0066032
+louisiana,125,41,sand,Forest,210.2495575
+louisiana,125,42,sand,Forest,303.6894836
+louisiana,125,42,sand,Forest,0.0018622
+louisiana,125,42,sand,Forest,0.0018622
+louisiana,125,43,sand,Forest,403.0562744
+louisiana,125,52,sand,Grass/Pasture,326.6481934
+louisiana,125,52,sand,Grass/Pasture,0.0017393
+louisiana,125,52,sand,Grass/Pasture,0.0017393
+louisiana,125,71,sand,Grass/Pasture,124.603157
+louisiana,125,81,sand,Grass/Pasture,149.4055023
+louisiana,125,81,sand,Grass/Pasture,0.001157
+louisiana,125,81,sand,Grass/Pasture,0.001157
+louisiana,125,82,sand,Crop,151.2316284
+louisiana,125,90,sand,Wetland,1718.892578
+louisiana,125,90,sand,Wetland,0.0000008
+louisiana,125,90,sand,Wetland,0.0000061
+louisiana,125,90,sand,Wetland,0.0036278
+louisiana,125,90,sand,Wetland,0.0036278
+louisiana,125,95,sand,Wetland,380.1539307
+louisiana,125,11,sandy clay loam,Water,1.617286
+louisiana,125,21,sandy clay loam,Developed,13.3675556
+louisiana,125,22,sandy clay loam,Developed,44.751049
+louisiana,125,31,sandy clay loam,Barren,1.6179111
+louisiana,125,52,sandy clay loam,Grass/Pasture,11.0522985
+louisiana,125,81,sandy clay loam,Grass/Pasture,136.8122559
+louisiana,125,81,sandy clay loam,Grass/Pasture,0.0008613
+louisiana,125,81,sandy clay loam,Grass/Pasture,0.0008613
+louisiana,125,90,sandy clay loam,Wetland,4.6132965
+louisiana,125,95,sandy clay loam,Wetland,108.8363266
+louisiana,125,11,sandy loam,Water,1170.777954
+louisiana,125,11,sandy loam,Water,0.0027733
+louisiana,125,11,sandy loam,Water,0.0027733
+louisiana,125,21,sandy loam,Developed,5637.119141
+louisiana,125,21,sandy loam,Developed,0.0205415
+louisiana,125,21,sandy loam,Developed,0.0205415
+louisiana,125,22,sandy loam,Developed,4545.883789
+louisiana,125,22,sandy loam,Developed,0.0062813
+louisiana,125,22,sandy loam,Developed,0.0062813
+louisiana,125,23,sandy loam,Developed,437.2427063
+louisiana,125,24,sandy loam,Developed,281.8102112
+louisiana,125,31,sandy loam,Barren,408.4824829
+louisiana,125,41,sandy loam,Forest,3080.804199
+louisiana,125,41,sandy loam,Forest,0.0192952
+louisiana,125,41,sandy loam,Forest,0.0192952
+louisiana,125,42,sandy loam,Forest,103097.5234
+louisiana,125,42,sandy loam,Forest,0.4324383
+louisiana,125,42,sandy loam,Forest,0.4324383
+louisiana,125,42,sandy loam,Forest,0
+louisiana,125,42,sandy loam,Forest,0.0000721
+louisiana,125,42,sandy loam,Forest,0.0000721
+louisiana,125,43,sandy loam,Forest,9126.027344
+louisiana,125,43,sandy loam,Forest,0.0629984
+louisiana,125,43,sandy loam,Forest,0.0629984
+louisiana,125,52,sandy loam,Grass/Pasture,32730.94727
+louisiana,125,52,sandy loam,Grass/Pasture,0
+louisiana,125,52,sandy loam,Grass/Pasture,0.167391
+louisiana,125,52,sandy loam,Grass/Pasture,0.167391
+louisiana,125,52,sandy loam,Grass/Pasture,0.000064
+louisiana,125,52,sandy loam,Grass/Pasture,0.000064
+louisiana,125,71,sandy loam,Grass/Pasture,8431.589844
+louisiana,125,71,sandy loam,Grass/Pasture,0.0287438
+louisiana,125,71,sandy loam,Grass/Pasture,0.0287438
+louisiana,125,81,sandy loam,Grass/Pasture,12926.20508
+louisiana,125,81,sandy loam,Grass/Pasture,0.0529989
+louisiana,125,81,sandy loam,Grass/Pasture,0.0529989
+louisiana,125,82,sandy loam,Crop,2883.610352
+louisiana,125,82,sandy loam,Crop,0.0017217
+louisiana,125,82,sandy loam,Crop,0.0017217
+louisiana,125,90,sandy loam,Wetland,16192.64844
+louisiana,125,90,sandy loam,Wetland,0.062055
+louisiana,125,90,sandy loam,Wetland,0.062055
+louisiana,125,95,sandy loam,Wetland,1901.283569
+louisiana,125,11,silt,Water,34.9764328
+louisiana,125,21,silt,Developed,906.9742432
+louisiana,125,21,silt,Developed,0.0005875
+louisiana,125,21,silt,Developed,0.0005875
+louisiana,125,22,silt,Developed,640.2477417
+louisiana,125,22,silt,Developed,0.0012734
+louisiana,125,22,silt,Developed,0.0012734
+louisiana,125,23,silt,Developed,210.739502
+louisiana,125,24,silt,Developed,11.210453
+louisiana,125,31,silt,Barren,13.2212257
+louisiana,125,41,silt,Forest,124.8387222
+louisiana,125,42,silt,Forest,947.3473511
+louisiana,125,43,silt,Forest,99.8036499
+louisiana,125,52,silt,Grass/Pasture,986.7733154
+louisiana,125,71,silt,Grass/Pasture,273.1700745
+louisiana,125,81,silt,Grass/Pasture,909.3130493
+louisiana,125,82,silt,Crop,282.6910095
+louisiana,125,90,silt,Wetland,1866.166626
+louisiana,125,95,silt,Wetland,17.5057945
+louisiana,125,11,silt loam,Water,3996.445557
+louisiana,125,11,silt loam,Water,0.0000409
+louisiana,125,11,silt loam,Water,0.0167612
+louisiana,125,11,silt loam,Water,0.0167612
+louisiana,125,11,silt loam,Water,0.00058
+louisiana,125,11,silt loam,Water,0.00058
+louisiana,125,11,silt loam,Water,0
+louisiana,125,21,silt loam,Developed,24652.79297
+louisiana,125,21,silt loam,Developed,0.0376157
+louisiana,125,21,silt loam,Developed,0.0376157
+louisiana,125,21,silt loam,Developed,0
+louisiana,125,21,silt loam,Developed,0.0023823
+louisiana,125,21,silt loam,Developed,0.0023823
+louisiana,125,21,silt loam,Developed,0
+louisiana,125,21,silt loam,Developed,0
+louisiana,125,22,silt loam,Developed,31145.95117
+louisiana,125,22,silt loam,Developed,0
+louisiana,125,22,silt loam,Developed,0.0269613
+louisiana,125,22,silt loam,Developed,0.0269613
+louisiana,125,22,silt loam,Developed,0
+louisiana,125,22,silt loam,Developed,0.011426
+louisiana,125,22,silt loam,Developed,0.011426
+louisiana,125,22,silt loam,Developed,0
+louisiana,125,22,silt loam,Developed,0
+louisiana,125,23,silt loam,Developed,4701.284668
+louisiana,125,23,silt loam,Developed,0.0024307
+louisiana,125,23,silt loam,Developed,0.0024307
+louisiana,125,23,silt loam,Developed,0.0020336
+louisiana,125,23,silt loam,Developed,0.0020336
+louisiana,125,24,silt loam,Developed,1377.17981
+louisiana,125,24,silt loam,Developed,0.0004196
+louisiana,125,24,silt loam,Developed,0.0004196
+louisiana,125,24,silt loam,Developed,0.0006993
+louisiana,125,24,silt loam,Developed,0.0006993
+louisiana,125,31,silt loam,Barren,1691.696289
+louisiana,125,31,silt loam,Barren,0.00001
+louisiana,125,31,silt loam,Barren,0.0000029
+louisiana,125,31,silt loam,Barren,0.000875
+louisiana,125,31,silt loam,Barren,0.000875
+louisiana,125,41,silt loam,Forest,26284.10938
+louisiana,125,41,silt loam,Forest,0.1066919
+louisiana,125,41,silt loam,Forest,0.1066919
+louisiana,125,42,silt loam,Forest,143717.1094
+louisiana,125,42,silt loam,Forest,0.4186661
+louisiana,125,42,silt loam,Forest,0.4186661
+louisiana,125,42,silt loam,Forest,0
+louisiana,125,42,silt loam,Forest,0.0000001
+louisiana,125,42,silt loam,Forest,0.0087568
+louisiana,125,42,silt loam,Forest,0.0087568
+louisiana,125,42,silt loam,Forest,0
+louisiana,125,42,silt loam,Forest,0
+louisiana,125,42,silt loam,Forest,0.0000001
+louisiana,125,43,silt loam,Forest,29402.08594
+louisiana,125,43,silt loam,Forest,0.1878476
+louisiana,125,43,silt loam,Forest,0.1878476
+louisiana,125,43,silt loam,Forest,0.0005579
+louisiana,125,43,silt loam,Forest,0.0005579
+louisiana,125,43,silt loam,Forest,0.0000001
+louisiana,125,52,silt loam,Grass/Pasture,70008.44531
+louisiana,125,52,silt loam,Grass/Pasture,0
+louisiana,125,52,silt loam,Grass/Pasture,0
+louisiana,125,52,silt loam,Grass/Pasture,0.2286358
+louisiana,125,52,silt loam,Grass/Pasture,0.2286358
+louisiana,125,52,silt loam,Grass/Pasture,0.0041271
+louisiana,125,52,silt loam,Grass/Pasture,0.0041271
+louisiana,125,71,silt loam,Grass/Pasture,19859.27344
+louisiana,125,71,silt loam,Grass/Pasture,0.0508657
+louisiana,125,71,silt loam,Grass/Pasture,0.0508657
+louisiana,125,71,silt loam,Grass/Pasture,0.0011005
+louisiana,125,71,silt loam,Grass/Pasture,0.0011005
+louisiana,125,81,silt loam,Grass/Pasture,61388.46875
+louisiana,125,81,silt loam,Grass/Pasture,0
+louisiana,125,81,silt loam,Grass/Pasture,0.0780442
+louisiana,125,81,silt loam,Grass/Pasture,0.0780442
+louisiana,125,81,silt loam,Grass/Pasture,0
+louisiana,125,81,silt loam,Grass/Pasture,0
+louisiana,125,81,silt loam,Grass/Pasture,0
+louisiana,125,81,silt loam,Grass/Pasture,0.0245939
+louisiana,125,81,silt loam,Grass/Pasture,0.0245939
+louisiana,125,81,silt loam,Grass/Pasture,0
+louisiana,125,81,silt loam,Grass/Pasture,0
+louisiana,125,82,silt loam,Crop,64885.08594
+louisiana,125,82,silt loam,Crop,0
+louisiana,125,82,silt loam,Crop,0.0785231
+louisiana,125,82,silt loam,Crop,0.0785231
+louisiana,125,82,silt loam,Crop,0.0000004
+louisiana,125,82,silt loam,Crop,0
+louisiana,125,82,silt loam,Crop,0
+louisiana,125,82,silt loam,Crop,0.0384959
+louisiana,125,82,silt loam,Crop,0.0384959
+louisiana,125,90,silt loam,Wetland,134829.7656
+louisiana,125,90,silt loam,Wetland,0.0000063
+louisiana,125,90,silt loam,Wetland,0.0000061
+louisiana,125,90,silt loam,Wetland,0.0000001
+louisiana,125,90,silt loam,Wetland,0
+louisiana,125,90,silt loam,Wetland,0.0000004
+louisiana,125,90,silt loam,Wetland,0.0000024
+louisiana,125,90,silt loam,Wetland,0
+louisiana,125,90,silt loam,Wetland,0
+louisiana,125,90,silt loam,Wetland,0.0000001
+louisiana,125,90,silt loam,Wetland,0.0000001
+louisiana,125,90,silt loam,Wetland,0.3247473
+louisiana,125,90,silt loam,Wetland,0.3247473
+louisiana,125,90,silt loam,Wetland,0.0220771
+louisiana,125,90,silt loam,Wetland,0.0220771
+louisiana,125,95,silt loam,Wetland,3532.287109
+louisiana,125,95,silt loam,Wetland,0.0001921
+louisiana,125,95,silt loam,Wetland,0.0001921
+louisiana,125,11,silty clay,Water,1467.951172
+louisiana,125,11,silty clay,Water,0.0034024
+louisiana,125,11,silty clay,Water,0.0034024
+louisiana,125,21,silty clay,Developed,358.9717712
+louisiana,125,21,silty clay,Developed,0.0020723
+louisiana,125,21,silty clay,Developed,0.0020723
+louisiana,125,22,silty clay,Developed,216.6375885
+louisiana,125,23,silty clay,Developed,13.0854778
+louisiana,125,24,silty clay,Developed,2.6767995
+louisiana,125,31,silty clay,Barren,5.2741499
+louisiana,125,41,silty clay,Forest,264.5670166
+louisiana,125,42,silty clay,Forest,1334.059937
+louisiana,125,43,silty clay,Forest,323.196106
+louisiana,125,52,silty clay,Grass/Pasture,321.5205383
+louisiana,125,71,silty clay,Grass/Pasture,69.1257706
+louisiana,125,81,silty clay,Grass/Pasture,433.2033691
+louisiana,125,82,silty clay,Crop,21452.65234
+louisiana,125,82,silty clay,Crop,0.030726
+louisiana,125,82,silty clay,Crop,0.030726
+louisiana,125,82,silty clay,Crop,0.0058074
+louisiana,125,82,silty clay,Crop,0.0058074
+louisiana,125,90,silty clay,Wetland,15573.42676
+louisiana,125,90,silty clay,Wetland,0.0502649
+louisiana,125,90,silty clay,Wetland,0.0502649
+louisiana,125,90,silty clay,Wetland,0.0008173
+louisiana,125,90,silty clay,Wetland,0.0008173
+louisiana,125,95,silty clay,Wetland,547.9525146
+louisiana,125,95,silty clay,Wetland,0.0000043
+louisiana,125,11,silty clay loam,Water,1158.061035
+louisiana,125,11,silty clay loam,Water,0.007966
+louisiana,125,11,silty clay loam,Water,0.007966
+louisiana,125,11,silty clay loam,Water,0.0007742
+louisiana,125,11,silty clay loam,Water,0.0007742
+louisiana,125,11,silty clay loam,Water,0
+louisiana,125,21,silty clay loam,Developed,1345.548584
+louisiana,125,21,silty clay loam,Developed,0.0004558
+louisiana,125,21,silty clay loam,Developed,0.0004558
+louisiana,125,21,silty clay loam,Developed,0.0014357
+louisiana,125,21,silty clay loam,Developed,0.0014357
+louisiana,125,21,silty clay loam,Developed,0
+louisiana,125,22,silty clay loam,Developed,2254.835693
+louisiana,125,22,silty clay loam,Developed,0
+louisiana,125,22,silty clay loam,Developed,0.0053451
+louisiana,125,22,silty clay loam,Developed,0.0053451
+louisiana,125,23,silty clay loam,Developed,198.6230927
+louisiana,125,24,silty clay loam,Developed,201.6746979
+louisiana,125,24,silty clay loam,Developed,0.0000114
+louisiana,125,24,silty clay loam,Developed,0.0005565
+louisiana,125,24,silty clay loam,Developed,0.0005565
+louisiana,125,31,silty clay loam,Barren,25.5407696
+louisiana,125,41,silty clay loam,Forest,321.68573
+louisiana,125,41,silty clay loam,Forest,0.0029794
+louisiana,125,41,silty clay loam,Forest,0.0029794
+louisiana,125,42,silty clay loam,Forest,724.3417358
+louisiana,125,42,silty clay loam,Forest,0.0128999
+louisiana,125,42,silty clay loam,Forest,0.0128999
+louisiana,125,43,silty clay loam,Forest,347.283905
+louisiana,125,43,silty clay loam,Forest,0.0040174
+louisiana,125,43,silty clay loam,Forest,0.0040174
+louisiana,125,43,silty clay loam,Forest,0.0004705
+louisiana,125,43,silty clay loam,Forest,0.0004705
+louisiana,125,52,silty clay loam,Grass/Pasture,545.5534668
+louisiana,125,52,silty clay loam,Grass/Pasture,0.0069003
+louisiana,125,52,silty clay loam,Grass/Pasture,0.0069003
+louisiana,125,52,silty clay loam,Grass/Pasture,0.0001991
+louisiana,125,52,silty clay loam,Grass/Pasture,0.0001991
+louisiana,125,71,silty clay loam,Grass/Pasture,189.5987549
+louisiana,125,71,silty clay loam,Grass/Pasture,0.0007911
+louisiana,125,71,silty clay loam,Grass/Pasture,0.0007911
+louisiana,125,81,silty clay loam,Grass/Pasture,3494.314209
+louisiana,125,81,silty clay loam,Grass/Pasture,0.0057827
+louisiana,125,81,silty clay loam,Grass/Pasture,0.0057827
+louisiana,125,81,silty clay loam,Grass/Pasture,0.0048816
+louisiana,125,81,silty clay loam,Grass/Pasture,0.0048816
+louisiana,125,82,silty clay loam,Crop,25066.85938
+louisiana,125,82,silty clay loam,Crop,0.0539161
+louisiana,125,82,silty clay loam,Crop,0.0539161
+louisiana,125,82,silty clay loam,Crop,0
+louisiana,125,82,silty clay loam,Crop,0.0326677
+louisiana,125,82,silty clay loam,Crop,0.0326677
+louisiana,125,82,silty clay loam,Crop,0
+louisiana,125,90,silty clay loam,Wetland,12287.5293
+louisiana,125,90,silty clay loam,Wetland,0.0000024
+louisiana,125,90,silty clay loam,Wetland,0
+louisiana,125,90,silty clay loam,Wetland,0.0132185
+louisiana,125,90,silty clay loam,Wetland,0.0132185
+louisiana,125,90,silty clay loam,Wetland,0.0015633
+louisiana,125,90,silty clay loam,Wetland,0.0015633
+louisiana,125,95,silty clay loam,Wetland,479.2376404
+louisiana,125,95,silty clay loam,Wetland,0.0010994
+louisiana,125,95,silty clay loam,Wetland,0.0010994
+louisiana,125,95,silty clay loam,Wetland,0.0016503
+louisiana,125,95,silty clay loam,Wetland,0.0016503
+louisiana,125,11,,Water,52606.22266
+louisiana,125,11,,Water,0
+louisiana,125,11,,Water,0.0000409
+louisiana,125,11,,Water,0.021037
+louisiana,125,11,,Water,0.021037
+louisiana,125,11,,Water,0.0292474
+louisiana,125,11,,Water,0.0292474
+louisiana,125,11,,Water,0
+louisiana,125,21,,Developed,2456.14209
+louisiana,125,21,,Developed,0.0004334
+louisiana,125,21,,Developed,0.0004334
+louisiana,125,21,,Developed,0.0010695
+louisiana,125,21,,Developed,0.0010695
+louisiana,125,22,,Developed,2367.62793
+louisiana,125,22,,Developed,0.0021267
+louisiana,125,22,,Developed,0.0021267
+louisiana,125,23,,Developed,1113.912231
+louisiana,125,23,,Developed,0.001919
+louisiana,125,23,,Developed,0.001919
+louisiana,125,24,,Developed,1476.48999
+louisiana,125,24,,Developed,0.0000114
+louisiana,125,24,,Developed,0.0010792
+louisiana,125,24,,Developed,0.0010792
+louisiana,125,31,,Barren,2525.388184
+louisiana,125,31,,Barren,0.0000235
+louisiana,125,31,,Barren,0.00001
+louisiana,125,31,,Barren,0.003297
+louisiana,125,31,,Barren,0.003297
+louisiana,125,41,,Forest,655.0283813
+louisiana,125,42,,Forest,18434.11328
+louisiana,125,42,,Forest,0.0137011
+louisiana,125,42,,Forest,0.0137011
+louisiana,125,43,,Forest,2056.747315
+louisiana,125,52,,Grass/Pasture,7834.120606
+louisiana,125,52,,Grass/Pasture,0.0018188
+louisiana,125,52,,Grass/Pasture,0.0018188
+louisiana,125,71,,Grass/Pasture,2486.244385
+louisiana,125,71,,Grass/Pasture,0.0076321
+louisiana,125,71,,Grass/Pasture,0.0076321
+louisiana,125,71,,Grass/Pasture,0.000435
+louisiana,125,71,,Grass/Pasture,0.000435
+louisiana,125,81,,Grass/Pasture,7691.652832
+louisiana,125,81,,Grass/Pasture,0.0003406
+louisiana,125,81,,Grass/Pasture,0.0003406
+louisiana,125,81,,Grass/Pasture,0.008759
+louisiana,125,81,,Grass/Pasture,0.008759
+louisiana,125,81,,Grass/Pasture,0
+louisiana,125,81,,Grass/Pasture,0
+louisiana,125,81,,Grass/Pasture,0
+louisiana,125,82,,Crop,9099.307617
+louisiana,125,82,,Crop,0.0135773
+louisiana,125,82,,Crop,0.0135773
+louisiana,125,82,,Crop,0.0087301
+louisiana,125,82,,Crop,0.0087301
+louisiana,125,90,,Wetland,57067.53125
+louisiana,125,90,,Wetland,0.0000008
+louisiana,125,90,,Wetland,0.0000063
+louisiana,125,90,,Wetland,0.0114301
+louisiana,125,90,,Wetland,0.0114301
+louisiana,125,90,,Wetland,0.0491765
+louisiana,125,90,,Wetland,0.0491765
+louisiana,125,95,,Wetland,127448.3203
+louisiana,125,95,,Wetland,0.0000043
+louisiana,125,95,,Wetland,0
+louisiana,125,95,,Wetland,0.1241701
+louisiana,125,95,,Wetland,0.1241701
+louisiana,150,11,clay,Water,0.0001542
+louisiana,150,11,clay,Water,4494.562988
+louisiana,150,21,clay,Developed,0.00494
+louisiana,150,21,clay,Developed,2213.025635
+louisiana,150,22,clay,Developed,0.0062648
+louisiana,150,22,clay,Developed,3352.756104
+louisiana,150,23,clay,Developed,251.6811371
+louisiana,150,24,clay,Developed,296.547821
+louisiana,150,31,clay,Barren,212.9867706
+louisiana,150,41,clay,Forest,0.0011237
+louisiana,150,41,clay,Forest,486.3970337
+louisiana,150,42,clay,Forest,0.0051327
+louisiana,150,42,clay,Forest,2279.723877
+louisiana,150,43,clay,Forest,0.0073435
+louisiana,150,43,clay,Forest,700.8777466
+louisiana,150,52,clay,Grass/Pasture,0.0226067
+louisiana,150,52,clay,Grass/Pasture,4876.693359
+louisiana,150,71,clay,Grass/Pasture,532.6066284
+louisiana,150,81,clay,Grass/Pasture,0.0403647
+louisiana,150,81,clay,Grass/Pasture,13331.62207
+louisiana,150,82,clay,Crop,0.1505599
+louisiana,150,82,clay,Crop,40875.6875
+louisiana,150,90,clay,Wetland,0.1525979
+louisiana,150,90,clay,Wetland,71260.17969
+louisiana,150,95,clay,Wetland,0.0105654
+louisiana,150,95,clay,Wetland,20368.5625
+louisiana,150,11,clay loam,Water,50.9612885
+louisiana,150,21,clay loam,Developed,3.0869067
+louisiana,150,42,clay loam,Forest,46.2358627
+louisiana,150,43,clay loam,Forest,2.7740462
+louisiana,150,52,clay loam,Grass/Pasture,9.4477816
+louisiana,150,71,clay loam,Grass/Pasture,5.5198545
+louisiana,150,82,clay loam,Crop,5.4864092
+louisiana,150,90,clay loam,Wetland,215.4898071
+louisiana,150,95,clay loam,Wetland,132.9667816
+louisiana,150,11,loam,Water,389.2432556
+louisiana,150,21,loam,Developed,0.0058795
+louisiana,150,21,loam,Developed,1218.331787
+louisiana,150,22,loam,Developed,0.0008919
+louisiana,150,22,loam,Developed,1016.946167
+louisiana,150,23,loam,Developed,46.0285225
+louisiana,150,24,loam,Developed,9.9314604
+louisiana,150,31,loam,Barren,0.0000877
+louisiana,150,31,loam,Barren,107.6541214
+louisiana,150,41,loam,Forest,0.0066326
+louisiana,150,41,loam,Forest,212.5827179
+louisiana,150,42,loam,Forest,0.1036471
+louisiana,150,42,loam,Forest,16027.96973
+louisiana,150,43,loam,Forest,0.0057932
+louisiana,150,43,loam,Forest,548.7191772
+louisiana,150,52,loam,Grass/Pasture,0.0410736
+louisiana,150,52,loam,Grass/Pasture,4087.938721
+louisiana,150,71,loam,Grass/Pasture,0.0140166
+louisiana,150,71,loam,Grass/Pasture,1336.755615
+louisiana,150,71,loam,Grass/Pasture,0.0000285
+louisiana,150,71,loam,Grass/Pasture,0.0000285
+louisiana,150,81,loam,Grass/Pasture,0.0188253
+louisiana,150,81,loam,Grass/Pasture,9352.473633
+louisiana,150,82,loam,Crop,0.0017053
+louisiana,150,82,loam,Crop,8484.943359
+louisiana,150,90,loam,Wetland,0.0222379
+louisiana,150,90,loam,Wetland,3514.446289
+louisiana,150,95,loam,Wetland,2492.089356
+louisiana,150,11,loamy sand,Water,0.0011137
+louisiana,150,11,loamy sand,Water,158.6843719
+louisiana,150,11,loamy sand,Water,0.0000003
+louisiana,150,11,loamy sand,Water,0.0000149
+louisiana,150,21,loamy sand,Developed,0.0015697
+louisiana,150,21,loamy sand,Developed,838.2906494
+louisiana,150,22,loamy sand,Developed,0.0002222
+louisiana,150,22,loamy sand,Developed,531.7660522
+louisiana,150,23,loamy sand,Developed,30.7865353
+louisiana,150,24,loamy sand,Developed,10.710207
+louisiana,150,31,loamy sand,Barren,0.000825
+louisiana,150,31,loamy sand,Barren,273.6252136
+louisiana,150,31,loamy sand,Barren,0.0000121
+louisiana,150,41,loamy sand,Forest,2916.900391
+louisiana,150,42,loamy sand,Forest,0.1569545
+louisiana,150,42,loamy sand,Forest,25000.29492
+louisiana,150,43,loamy sand,Forest,0.036886
+louisiana,150,43,loamy sand,Forest,3827.299805
+louisiana,150,52,loamy sand,Grass/Pasture,0.0435197
+louisiana,150,52,loamy sand,Grass/Pasture,5864.990234
+louisiana,150,71,loamy sand,Grass/Pasture,0.0373826
+louisiana,150,71,loamy sand,Grass/Pasture,4485.617188
+louisiana,150,81,loamy sand,Grass/Pasture,0.0036219
+louisiana,150,81,loamy sand,Grass/Pasture,862.6883545
+louisiana,150,82,loamy sand,Crop,61.0739021
+louisiana,150,90,loamy sand,Wetland,0.0473852
+louisiana,150,90,loamy sand,Wetland,4588.840332
+louisiana,150,95,loamy sand,Wetland,262.9006042
+louisiana,150,11,sand,Water,0.0005338
+louisiana,150,11,sand,Water,160.6205139
+louisiana,150,21,sand,Developed,49.5625305
+louisiana,150,22,sand,Developed,121.9241333
+louisiana,150,23,sand,Developed,1.4830914
+louisiana,150,31,sand,Barren,216.9774475
+louisiana,150,41,sand,Forest,89.2453766
+louisiana,150,42,sand,Forest,0.000044
+louisiana,150,42,sand,Forest,2521.959717
+louisiana,150,43,sand,Forest,201.7733459
+louisiana,150,52,sand,Grass/Pasture,0.000123
+louisiana,150,52,sand,Grass/Pasture,803.4945068
+louisiana,150,71,sand,Grass/Pasture,574.5736084
+louisiana,150,81,sand,Grass/Pasture,110.9204025
+louisiana,150,82,sand,Crop,22.3112011
+louisiana,150,90,sand,Wetland,0.0196888
+louisiana,150,90,sand,Wetland,2128.990479
+louisiana,150,95,sand,Wetland,104.3992004
+louisiana,150,11,sandy loam,Water,0.0005561
+louisiana,150,11,sandy loam,Water,1493.846191
+louisiana,150,21,sandy loam,Developed,0.021625
+louisiana,150,21,sandy loam,Developed,6955.75293
+louisiana,150,22,sandy loam,Developed,0.0126112
+louisiana,150,22,sandy loam,Developed,2853.620117
+louisiana,150,23,sandy loam,Developed,198.0899353
+louisiana,150,24,sandy loam,Developed,81.4569397
+louisiana,150,31,sandy loam,Barren,0.0015644
+louisiana,150,31,sandy loam,Barren,469.4804993
+louisiana,150,41,sandy loam,Forest,0.0964421
+louisiana,150,41,sandy loam,Forest,8884.240234
+louisiana,150,42,sandy loam,Forest,0.6310346
+louisiana,150,42,sandy loam,Forest,161418.4063
+louisiana,150,42,sandy loam,Forest,0.0000413
+louisiana,150,42,sandy loam,Forest,0.0000413
+louisiana,150,43,sandy loam,Forest,0.1376024
+louisiana,150,43,sandy loam,Forest,17134.15625
+louisiana,150,52,sandy loam,Grass/Pasture,0.1977211
+louisiana,150,52,sandy loam,Grass/Pasture,45307.46875
+louisiana,150,52,sandy loam,Grass/Pasture,0.0000054
+louisiana,150,71,sandy loam,Grass/Pasture,0.0522496
+louisiana,150,71,sandy loam,Grass/Pasture,17166.66992
+louisiana,150,71,sandy loam,Grass/Pasture,0.0000113
+louisiana,150,81,sandy loam,Grass/Pasture,0.0280498
+louisiana,150,81,sandy loam,Grass/Pasture,13081.41309
+louisiana,150,82,sandy loam,Crop,0.0164142
+louisiana,150,82,sandy loam,Crop,3882.53833
+louisiana,150,82,sandy loam,Crop,0.0000446
+louisiana,150,90,sandy loam,Wetland,0.1506059
+louisiana,150,90,sandy loam,Wetland,26261.24805
+louisiana,150,95,sandy loam,Wetland,0.0044813
+louisiana,150,95,sandy loam,Wetland,1656.638062
+louisiana,150,41,silt,Forest,0.0038781
+louisiana,150,41,silt,Forest,9.9415417
+louisiana,150,42,silt,Forest,6.1725593
+louisiana,150,52,silt,Grass/Pasture,0.008569
+louisiana,150,81,silt,Grass/Pasture,0.0003338
+louisiana,150,81,silt,Grass/Pasture,2.3575754
+louisiana,150,11,silt loam,Water,0.005901
+louisiana,150,11,silt loam,Water,3657.971436
+louisiana,150,11,silt loam,Water,0.0000278
+louisiana,150,11,silt loam,Water,0.0000149
+louisiana,150,21,silt loam,Developed,0.0231844
+louisiana,150,21,silt loam,Developed,20185.48828
+louisiana,150,22,silt loam,Developed,0.0062294
+louisiana,150,22,silt loam,Developed,15690.38477
+louisiana,150,23,silt loam,Developed,1685.50708
+louisiana,150,24,silt loam,Developed,668.887207
+louisiana,150,31,silt loam,Barren,0.0004992
+louisiana,150,31,silt loam,Barren,682.6466064
+louisiana,150,41,silt loam,Forest,0.2680054
+louisiana,150,41,silt loam,Forest,43335.96094
+louisiana,150,42,silt loam,Forest,0.6022005
+louisiana,150,42,silt loam,Forest,232779.4063
+louisiana,150,42,silt loam,Forest,0
+louisiana,150,43,silt loam,Forest,0.1915555
+louisiana,150,43,silt loam,Forest,31224.46289
+louisiana,150,52,silt loam,Grass/Pasture,0.2362102
+louisiana,150,52,silt loam,Grass/Pasture,88911.07031
+louisiana,150,52,silt loam,Grass/Pasture,0.0000113
+louisiana,150,52,silt loam,Grass/Pasture,0.0000054
+louisiana,150,71,silt loam,Grass/Pasture,0.0605374
+louisiana,150,71,silt loam,Grass/Pasture,32982.15625
+louisiana,150,71,silt loam,Grass/Pasture,0.0000077
+louisiana,150,71,silt loam,Grass/Pasture,0.0000113
+louisiana,150,81,silt loam,Grass/Pasture,0.0730395
+louisiana,150,81,silt loam,Grass/Pasture,41874.02344
+louisiana,150,82,silt loam,Crop,0.1121622
+louisiana,150,82,silt loam,Crop,43122.89453
+louisiana,150,82,silt loam,Crop,0.0000446
+louisiana,150,90,silt loam,Wetland,0.2172709
+louisiana,150,90,silt loam,Wetland,137808.2344
+louisiana,150,90,silt loam,Wetland,0.002495
+louisiana,150,95,silt loam,Wetland,4009.858154
+louisiana,150,11,silty clay,Water,0.0029875
+louisiana,150,11,silty clay,Water,875.6643677
+louisiana,150,21,silty clay,Developed,0.0022677
+louisiana,150,21,silty clay,Developed,447.0726013
+louisiana,150,22,silty clay,Developed,762.6665649
+louisiana,150,23,silty clay,Developed,35.2151337
+louisiana,150,24,silty clay,Developed,28.6297741
+louisiana,150,31,silty clay,Barren,11.9498425
+louisiana,150,41,silty clay,Forest,186.0094757
+louisiana,150,42,silty clay,Forest,2839.312012
+louisiana,150,43,silty clay,Forest,608.0961304
+louisiana,150,52,silty clay,Grass/Pasture,841.8455811
+louisiana,150,71,silty clay,Grass/Pasture,173.4758759
+louisiana,150,81,silty clay,Grass/Pasture,131.0646515
+louisiana,150,82,silty clay,Crop,0.0481857
+louisiana,150,82,silty clay,Crop,18065.26563
+louisiana,150,90,silty clay,Wetland,0.0507289
+louisiana,150,90,silty clay,Wetland,13077.86816
+louisiana,150,90,silty clay,Wetland,0.0000629
+louisiana,150,90,silty clay,Wetland,0.0000629
+louisiana,150,95,silty clay,Wetland,302.7918701
+louisiana,150,11,silty clay loam,Water,0.0031092
+louisiana,150,11,silty clay loam,Water,757.7915649
+louisiana,150,21,silty clay loam,Developed,0.0046337
+louisiana,150,21,silty clay loam,Developed,1132.506104
+louisiana,150,22,silty clay loam,Developed,2095.720215
+louisiana,150,23,silty clay loam,Developed,127.32901
+louisiana,150,24,silty clay loam,Developed,86.4791031
+louisiana,150,31,silty clay loam,Barren,19.0415707
+louisiana,150,41,silty clay loam,Forest,0.0065085
+louisiana,150,41,silty clay loam,Forest,233.8111725
+louisiana,150,42,silty clay loam,Forest,0.077689
+louisiana,150,42,silty clay loam,Forest,9154.460938
+louisiana,150,42,silty clay loam,Forest,0.0003118
+louisiana,150,42,silty clay loam,Forest,0.0003118
+louisiana,150,43,silty clay loam,Forest,0.0034125
+louisiana,150,43,silty clay loam,Forest,380.1242981
+louisiana,150,52,silty clay loam,Grass/Pasture,0.0233958
+louisiana,150,52,silty clay loam,Grass/Pasture,2818.692871
+louisiana,150,71,silty clay loam,Grass/Pasture,382.4358826
+louisiana,150,81,silty clay loam,Grass/Pasture,0.0055778
+louisiana,150,81,silty clay loam,Grass/Pasture,2761.504395
+louisiana,150,82,silty clay loam,Crop,0.016238
+louisiana,150,82,silty clay loam,Crop,14193.65723
+louisiana,150,90,silty clay loam,Wetland,0.0234955
+louisiana,150,90,silty clay loam,Wetland,9470.426758
+louisiana,150,95,silty clay loam,Wetland,0.0010381
+louisiana,150,95,silty clay loam,Wetland,1150.484131
+louisiana,150,11,,Water,0.0385553
+louisiana,150,11,,Water,39800.13281
+louisiana,150,11,,Water,0.0000003
+louisiana,150,11,,Water,0.0000278
+louisiana,150,21,,Developed,0.0030068
+louisiana,150,21,,Developed,1644.800415
+louisiana,150,22,,Developed,2612.261963
+louisiana,150,23,,Developed,659.9972534
+louisiana,150,24,,Developed,696.6665649
+louisiana,150,31,,Barren,0.0036669
+louisiana,150,31,,Barren,1630.132446
+louisiana,150,31,,Barren,0.0000121
+louisiana,150,41,,Forest,451.2453918
+louisiana,150,42,,Forest,0.0265439
+louisiana,150,42,,Forest,4901.817871
+louisiana,150,42,,Forest,0
+louisiana,150,43,,Forest,0.0133641
+louisiana,150,43,,Forest,491.2345276
+louisiana,150,52,,Grass/Pasture,0.0038914
+louisiana,150,52,,Grass/Pasture,2131.213623
+louisiana,150,52,,Grass/Pasture,0.0000113
+louisiana,150,71,,Grass/Pasture,0.0003471
+louisiana,150,71,,Grass/Pasture,367.3538513
+louisiana,150,71,,Grass/Pasture,0.0000077
+louisiana,150,81,,Grass/Pasture,0.0012683
+louisiana,150,81,,Grass/Pasture,1218.784668
+louisiana,150,82,,Crop,0.0438427
+louisiana,150,82,,Crop,3979.199951
+louisiana,150,90,,Wetland,0.0145497
+louisiana,150,90,,Wetland,108961.7031
+louisiana,150,90,,Wetland,0.002495
+louisiana,150,95,,Wetland,0.0016967
+louisiana,150,95,,Wetland,69591.25
+louisiana,175,11,clay,Water,4498.193359
+louisiana,175,11,clay,Water,0.0088673
+louisiana,175,11,clay,Water,0.0000074
+louisiana,175,21,clay,Developed,2647.555664
+louisiana,175,21,clay,Developed,0.0022337
+louisiana,175,22,clay,Developed,5105.314941
+louisiana,175,22,clay,Developed,0.0136639
+louisiana,175,23,clay,Developed,526.1502075
+louisiana,175,24,clay,Developed,345.1562195
+louisiana,175,31,clay,Barren,82.9091034
+louisiana,175,41,clay,Forest,813.8656006
+louisiana,175,42,clay,Forest,10000.23047
+louisiana,175,43,clay,Forest,1913.035889
+louisiana,175,52,clay,Grass/Pasture,5488.865723
+louisiana,175,71,clay,Grass/Pasture,955.4244995
+louisiana,175,81,clay,Grass/Pasture,11094.79102
+louisiana,175,81,clay,Grass/Pasture,0.0010258
+louisiana,175,82,clay,Crop,60115.85156
+louisiana,175,82,clay,Crop,0.0427282
+louisiana,175,90,clay,Wetland,96583.52344
+louisiana,175,90,clay,Wetland,0.2072301
+louisiana,175,95,clay,Wetland,23576.07617
+louisiana,175,95,clay,Wetland,0.1143228
+louisiana,175,21,clay loam,Developed,4.7585511
+louisiana,175,22,clay loam,Developed,3.3243539
+louisiana,175,42,clay loam,Forest,226.3296814
+louisiana,175,43,clay loam,Forest,2.3149817
+louisiana,175,52,clay loam,Grass/Pasture,77.7911987
+louisiana,175,71,clay loam,Grass/Pasture,45.9344444
+louisiana,175,81,clay loam,Grass/Pasture,32.4232979
+louisiana,175,90,clay loam,Wetland,43.003582
+louisiana,175,11,loam,Water,418.9945679
+louisiana,175,21,loam,Developed,1424.538818
+louisiana,175,21,loam,Developed,0.0049025
+louisiana,175,22,loam,Developed,808.7658691
+louisiana,175,22,loam,Developed,0.0030298
+louisiana,175,23,loam,Developed,65.3496094
+louisiana,175,24,loam,Developed,5.7600021
+louisiana,175,31,loam,Barren,93.0672379
+louisiana,175,41,loam,Forest,668.3665161
+louisiana,175,41,loam,Forest,0.000022
+louisiana,175,42,loam,Forest,24235.08203
+louisiana,175,42,loam,Forest,0.0032903
+louisiana,175,43,loam,Forest,2869.89209
+louisiana,175,52,loam,Grass/Pasture,7111.852539
+louisiana,175,52,loam,Grass/Pasture,0.0013609
+louisiana,175,71,loam,Grass/Pasture,3158.826416
+louisiana,175,71,loam,Grass/Pasture,0.0008236
+louisiana,175,71,loam,Grass/Pasture,0.0000001
+louisiana,175,81,loam,Grass/Pasture,4341.964844
+louisiana,175,81,loam,Grass/Pasture,0.0146047
+louisiana,175,82,loam,Crop,1679.869751
+louisiana,175,82,loam,Crop,0.0329433
+louisiana,175,90,loam,Wetland,16253.4834
+louisiana,175,90,loam,Wetland,0.0061576
+louisiana,175,95,loam,Wetland,2132.42041
+louisiana,175,95,loam,Wetland,0.0148871
+louisiana,175,11,loamy sand,Water,251.2728271
+louisiana,175,21,loamy sand,Developed,1733.926514
+louisiana,175,22,loamy sand,Developed,638.3126221
+louisiana,175,23,loamy sand,Developed,61.6185951
+louisiana,175,24,loamy sand,Developed,18.9167442
+louisiana,175,31,loamy sand,Barren,193.1029053
+louisiana,175,41,loamy sand,Forest,637.9633179
+louisiana,175,42,loamy sand,Forest,40421.92578
+louisiana,175,43,loamy sand,Forest,3430.616211
+louisiana,175,52,loamy sand,Grass/Pasture,16390.51367
+louisiana,175,71,loamy sand,Grass/Pasture,9054.467773
+louisiana,175,81,loamy sand,Grass/Pasture,2357.574951
+louisiana,175,82,loamy sand,Crop,155.8926697
+louisiana,175,90,loamy sand,Wetland,14616.89551
+louisiana,175,95,loamy sand,Wetland,250.188385
+louisiana,175,11,sand,Water,327.8954468
+louisiana,175,21,sand,Developed,17.0607433
+louisiana,175,22,sand,Developed,12.4265776
+louisiana,175,23,sand,Developed,2.762814
+louisiana,175,24,sand,Developed,2.1689973
+louisiana,175,31,sand,Barren,47.3597679
+louisiana,175,41,sand,Forest,42.3757744
+louisiana,175,42,sand,Forest,139.1412048
+louisiana,175,43,sand,Forest,25.5829544
+louisiana,175,52,sand,Grass/Pasture,34.1570549
+louisiana,175,71,sand,Grass/Pasture,40.1159325
+louisiana,175,81,sand,Grass/Pasture,8.2211351
+louisiana,175,82,sand,Crop,260.9901428
+louisiana,175,90,sand,Wetland,2394.24707
+louisiana,175,95,sand,Wetland,22.1346474
+louisiana,175,11,sandy clay loam,Water,7.5465336
+louisiana,175,21,sandy clay loam,Developed,102.3852615
+louisiana,175,22,sandy clay loam,Developed,106.0992737
+louisiana,175,23,sandy clay loam,Developed,11.9522123
+louisiana,175,41,sandy clay loam,Forest,98.6224365
+louisiana,175,42,sandy clay loam,Forest,688.1395874
+louisiana,175,43,sandy clay loam,Forest,105.7357178
+louisiana,175,52,sandy clay loam,Grass/Pasture,94.957489
+louisiana,175,71,sandy clay loam,Grass/Pasture,15.2844305
+louisiana,175,90,sandy clay loam,Wetland,75.1501617
+louisiana,175,11,sandy loam,Water,1845.971924
+louisiana,175,21,sandy loam,Developed,12960.80371
+louisiana,175,22,sandy loam,Developed,6004.561523
+louisiana,175,23,sandy loam,Developed,757.0171509
+louisiana,175,24,sandy loam,Developed,292.3382568
+louisiana,175,31,sandy loam,Barren,500.6307068
+louisiana,175,41,sandy loam,Forest,20811.92578
+louisiana,175,41,sandy loam,Forest,0.000022
+louisiana,175,41,sandy loam,Forest,0.0000019
+louisiana,175,42,sandy loam,Forest,225619.1719
+louisiana,175,42,sandy loam,Forest,0.0031437
+louisiana,175,43,sandy loam,Forest,31736.51758
+louisiana,175,43,sandy loam,Forest,0.000008
+louisiana,175,52,sandy loam,Grass/Pasture,61209.91797
+louisiana,175,52,sandy loam,Grass/Pasture,0.0002005
+louisiana,175,71,sandy loam,Grass/Pasture,24611.71289
+louisiana,175,71,sandy loam,Grass/Pasture,0.0004938
+louisiana,175,81,sandy loam,Grass/Pasture,26013.23047
+louisiana,175,81,sandy loam,Grass/Pasture,0.0004727
+louisiana,175,81,sandy loam,Grass/Pasture,0.0000005
+louisiana,175,82,sandy loam,Crop,8177.667969
+louisiana,175,90,sandy loam,Wetland,55428.74609
+louisiana,175,90,sandy loam,Wetland,0.0008349
+louisiana,175,95,sandy loam,Wetland,725.5252686
+louisiana,175,11,silt,Water,4.392323
+louisiana,175,21,silt,Developed,108.2599335
+louisiana,175,22,silt,Developed,19.7796001
+louisiana,175,23,silt,Developed,1.1131277
+louisiana,175,41,silt,Forest,1839.471802
+louisiana,175,42,silt,Forest,860.7543335
+louisiana,175,43,silt,Forest,664.3400879
+louisiana,175,52,silt,Grass/Pasture,553.5111694
+louisiana,175,71,silt,Grass/Pasture,101.0160828
+louisiana,175,81,silt,Grass/Pasture,463.9005737
+louisiana,175,82,silt,Crop,223.825058
+louisiana,175,90,silt,Wetland,503.0500793
+louisiana,175,11,silt loam,Water,3456.513672
+louisiana,175,11,silt loam,Water,0.0000074
+louisiana,175,21,silt loam,Developed,21771.03711
+louisiana,175,21,silt loam,Developed,0.0122978
+louisiana,175,22,silt loam,Developed,15639.96094
+louisiana,175,22,silt loam,Developed,0.0228994
+louisiana,175,23,silt loam,Developed,2162.918701
+louisiana,175,24,silt loam,Developed,841.4467163
+louisiana,175,31,silt loam,Barren,643.230835
+louisiana,175,41,silt loam,Forest,49111.80859
+louisiana,175,41,silt loam,Forest,0.0000019
+louisiana,175,42,silt loam,Forest,137545.0469
+louisiana,175,42,silt loam,Forest,0.0260642
+louisiana,175,43,silt loam,Forest,29748.56641
+louisiana,175,43,silt loam,Forest,0.0077245
+louisiana,175,43,silt loam,Forest,0.000008
+louisiana,175,52,silt loam,Grass/Pasture,56822.39063
+louisiana,175,52,silt loam,Grass/Pasture,0.0040088
+louisiana,175,71,silt loam,Grass/Pasture,16783.0918
+louisiana,175,71,silt loam,Grass/Pasture,0.0131136
+louisiana,175,71,silt loam,Grass/Pasture,0.0000001
+louisiana,175,81,silt loam,Grass/Pasture,48212.91016
+louisiana,175,81,silt loam,Grass/Pasture,0.0132644
+louisiana,175,81,silt loam,Grass/Pasture,0.0000005
+louisiana,175,82,silt loam,Crop,51811.01172
+louisiana,175,82,silt loam,Crop,0.079678
+louisiana,175,90,silt loam,Wetland,113842.5313
+louisiana,175,90,silt loam,Wetland,0.0545789
+louisiana,175,95,silt loam,Wetland,3700.6604
+louisiana,175,95,silt loam,Wetland,0.0074904
+louisiana,175,11,silty clay,Water,220.3193665
+louisiana,175,21,silty clay,Developed,230.8023071
+louisiana,175,22,silty clay,Developed,722.9581299
+louisiana,175,22,silty clay,Developed,0.001441
+louisiana,175,23,silty clay,Developed,11.993825
+louisiana,175,24,silty clay,Developed,21.8837357
+louisiana,175,24,silty clay,Developed,0.0013252
+louisiana,175,31,silty clay,Barren,6.4648952
+louisiana,175,41,silty clay,Forest,88.2408752
+louisiana,175,42,silty clay,Forest,52.8243332
+louisiana,175,43,silty clay,Forest,81.229866
+louisiana,175,52,silty clay,Grass/Pasture,31.1101112
+louisiana,175,71,silty clay,Grass/Pasture,70.6214142
+louisiana,175,81,silty clay,Grass/Pasture,235.2553253
+louisiana,175,82,silty clay,Crop,11920.82813
+louisiana,175,82,silty clay,Crop,0.0153221
+louisiana,175,90,silty clay,Wetland,7281.517578
+louisiana,175,90,silty clay,Wetland,0.0057345
+louisiana,175,95,silty clay,Wetland,275.9476318
+louisiana,175,95,silty clay,Wetland,0.0047745
+louisiana,175,11,silty clay loam,Water,1182.447754
+louisiana,175,11,silty clay loam,Water,0.0006217
+louisiana,175,21,silty clay loam,Developed,1214.994629
+louisiana,175,21,silty clay loam,Developed,0.001737
+louisiana,175,22,silty clay loam,Developed,4576.183594
+louisiana,175,22,silty clay loam,Developed,0.012743
+louisiana,175,23,silty clay loam,Developed,319.5515442
+louisiana,175,24,silty clay loam,Developed,268.1073303
+louisiana,175,31,silty clay loam,Barren,11.5147314
+louisiana,175,41,silty clay loam,Forest,486.5694885
+louisiana,175,42,silty clay loam,Forest,11742.21191
+louisiana,175,43,silty clay loam,Forest,1056.758911
+louisiana,175,52,silty clay loam,Grass/Pasture,2511.119629
+louisiana,175,71,silty clay loam,Grass/Pasture,751.567688
+louisiana,175,81,silty clay loam,Grass/Pasture,1827.898315
+louisiana,175,81,silty clay loam,Grass/Pasture,0.0175468
+louisiana,175,82,silty clay loam,Crop,15287.08594
+louisiana,175,82,silty clay loam,Crop,0.0592202
+louisiana,175,90,silty clay loam,Wetland,14594.02637
+louisiana,175,90,silty clay loam,Wetland,0.0243419
+louisiana,175,95,silty clay loam,Wetland,1898.446289
+louisiana,175,95,silty clay loam,Wetland,0.0167753
+louisiana,175,11,,Water,62200.26953
+louisiana,175,11,,Water,0.074043
+louisiana,175,21,,Developed,1393.328369
+louisiana,175,21,,Developed,0.0008119
+louisiana,175,22,,Developed,2582.86377
+louisiana,175,22,,Developed,0.0005748
+louisiana,175,23,,Developed,640.3690186
+louisiana,175,24,,Developed,935.7391357
+louisiana,175,31,,Barren,1028.251953
+louisiana,175,31,,Barren,0.0000472
+louisiana,175,41,,Forest,381.272522
+louisiana,175,42,,Forest,1655.202271
+louisiana,175,43,,Forest,713.8580322
+louisiana,175,52,,Grass/Pasture,1042.734131
+louisiana,175,71,,Grass/Pasture,222.6552277
+louisiana,175,81,,Grass/Pasture,1146.696411
+louisiana,175,81,,Grass/Pasture,0.0007335
+louisiana,175,82,,Crop,18245.56641
+louisiana,175,82,,Crop,0.0038797
+louisiana,175,90,,Wetland,62848.33984
+louisiana,175,90,,Wetland,0.1859372
+louisiana,175,95,,Wetland,170303.6719
+louisiana,175,95,,Wetland,0.4608788

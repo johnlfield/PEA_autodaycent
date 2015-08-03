@@ -1,0 +1,48 @@
+2014          Starting year
+2034          Last year
+site.100
+0             Labeling type
+-1            Labeling year
+-1.00         Microcosm
+-1            CO2 Systems
+-1            pH effect
+-1            Soil warming
+-1            N input scalar option (0 or 1)
+-1            OMAD scalar option (0 or 1)
+-1            Climate scalar option
+1             Initial system
+G3            Initial crop
+              Initial tree
+
+Year Month Option
+1             Block #
+2034          Last year
+5             Repeats # years
+2014          Output starting year
+12            Output month
+1.0           Output interval
+F             Weather choice
+weather.wth
+  1  1 GRAZ LRRH,   2 GRAZ LRRH,
+  1  3 CROP GI3
+     3 FRST, 3 GRAZ LRRH,   4 GRAZ LRRH,   5 GRAZ LRRH, 5 FERT (0.924N),
+     6 GRAZ LRRH,   7 GRAZ LRRH,   8 GRAZ LRRH,   9 GRAZ LRRH,
+    10 GRAZ LRRM, 10 LAST, 10 SENM,   11 GRAZ LRRM,   12 GRAZ LRRM,
+  2  1 GRAZ LRRH,   2 GRAZ LRRH,   3 FRST, 3 GRAZ LRRH,   4 GRAZ LRRH,
+     5 GRAZ LRRH, 5 FERT (0.924N),   6 GRAZ LRRH,   7 GRAZ LRRH,
+     8 GRAZ LRRH,   9 GRAZ LRRH,   10 GRAZ LRRM, 10 LAST, 10 SENM,
+    11 GRAZ LRRM,   12 GRAZ LRRM,
+  3  1 GRAZ LRRH,   2 GRAZ LRRH,   3 FRST, 3 GRAZ LRRH,   4 GRAZ LRRH,
+     5 GRAZ LRRH, 5 FERT (0.924N),   6 GRAZ LRRH,   7 GRAZ LRRH,
+     8 GRAZ LRRH,   9 GRAZ LRRH,   10 GRAZ LRRM, 10 LAST, 10 SENM,
+    11 GRAZ LRRM,   12 GRAZ LRRM,
+  4  1 GRAZ LRRH,   2 GRAZ LRRH,   3 FRST, 3 GRAZ LRRH,   4 GRAZ LRRH,
+     5 GRAZ LRRH, 5 FERT (0.924N),   6 GRAZ LRRH,   7 GRAZ LRRH,
+     8 GRAZ LRRH,   9 GRAZ LRRH,   10 GRAZ LRRM, 10 LAST, 10 SENM,
+    11 GRAZ LRRM,   12 GRAZ LRRM,
+  5  1 GRAZ LRRH,   2 GRAZ LRRH,
+  5  3 CROP G3GCPI
+     3 FRST, 3 GRAZ LRRH,   4 GRAZ LRRH,   5 GRAZ LRRH, 5 FERT (0.924N),
+     6 GRAZ LRRH,   7 GRAZ LRRH,   8 GRAZ LRRH,   9 GRAZ LRRH,
+    10 GRAZ LRRM, 10 LAST, 10 SENM,   11 GRAZ LRRM,   12 GRAZ LRRM,
+-999 -999 X

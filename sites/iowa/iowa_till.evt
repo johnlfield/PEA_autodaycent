@@ -1,0 +1,32 @@
+2014          Starting year
+2034          Last year
+site.100
+0             Labeling type
+-1            Labeling year
+-1.00         Microcosm
+-1            CO2 Systems
+-1            pH effect
+-1            Soil warming
+-1            N input scalar option (0 or 1)
+-1            OMAD scalar option (0 or 1)
+-1            Climate scalar option
+1             Initial system
+G3            Initial crop
+              Initial tree
+
+Year Month Option
+1             Block #
+2034          Last year
+2             Repeats # years
+2014          Output starting year
+12            Output month
+1.0           Output interval
+F             Weather choice
+weather.wth
+  1  5 CROP SYBN
+     5 PLTM, 5 FERT (0.09N), 5 CULT H,   6 CULT B,   8 LAST, 8 HARV G,
+  2  4 CULT I,
+  2  5 CROP C6
+     5 PLTM, 5 FERT (1.83N), 5 CULT C,   6 FERT (11.64N), 6 CULT B,   9 LAST,
+     9 HARV G
+-999 -999 X

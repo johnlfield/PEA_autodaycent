@@ -1,0 +1,473 @@
+point,BUFF_DIST,NLCD240,textcl,LandUse,area_ha
+florida,25,31,sand,Barren,5.7600002
+florida,25,82,sand,Crop,8213.901367
+florida,25,21,sand,Developed,769.5881348
+florida,25,22,sand,Developed,695.163208
+florida,25,23,sand,Developed,101.5915527
+florida,25,24,sand,Developed,51.8400002
+florida,25,52,sand,Grass/Pasture,22.4232693
+florida,25,71,sand,Grass/Pasture,53.066658
+florida,25,81,sand,Grass/Pasture,1099.375366
+florida,25,11,sand,Water,148.2184906
+florida,25,90,sand,Wetland,391.1181641
+florida,25,95,sand,Wetland,235.9608154
+florida,25,82,sandy loam,Crop,6.7657628
+florida,25,31,,Barren,45.5085526
+florida,25,82,,Crop,138956.9219
+florida,25,21,,Developed,1422.533691
+florida,25,22,,Developed,1034.400879
+florida,25,23,,Developed,213.7567444
+florida,25,24,,Developed,126.4290314
+florida,25,52,,Grass/Pasture,16.2695656
+florida,25,71,,Grass/Pasture,248.5626678
+florida,25,81,,Grass/Pasture,40.4548683
+florida,25,11,,Water,35652.74609
+florida,25,90,,Wetland,2309.028809
+florida,25,95,,Wetland,3578.554688
+florida,50,82,loamy sand,Crop,167.0926971
+florida,50,21,loamy sand,Developed,1.5434684
+florida,50,81,loamy sand,Grass/Pasture,95.3557892
+florida,50,90,loamy sand,Wetland,53.7345695
+florida,50,95,loamy sand,Wetland,1.6666433
+florida,50,31,sand,Barren,793.1820679
+florida,50,82,sand,Crop,76575.92188
+florida,50,82,sand,Crop,0.0000019
+florida,50,21,sand,Developed,13636.12109
+florida,50,22,sand,Developed,5743.779785
+florida,50,23,sand,Developed,617.2773438
+florida,50,24,sand,Developed,102.9966736
+florida,50,42,sand,Forest,38.331913
+florida,50,52,sand,Grass/Pasture,523.1240234
+florida,50,71,sand,Grass/Pasture,2228.439941
+florida,50,81,sand,Grass/Pasture,40939.04688
+florida,50,11,sand,Water,726.2529907
+florida,50,90,sand,Wetland,63808.82813
+florida,50,95,sand,Wetland,21601.87891
+florida,50,31,sandy loam,Barren,4.894031
+florida,50,82,sandy loam,Crop,200.9489136
+florida,50,21,sandy loam,Developed,60.2078438
+florida,50,22,sandy loam,Developed,16.9626255
+florida,50,52,sandy loam,Grass/Pasture,25.4121952
+florida,50,71,sandy loam,Grass/Pasture,8.7744293
+florida,50,81,sandy loam,Grass/Pasture,843.0057983
+florida,50,90,sandy loam,Wetland,2607.76709
+florida,50,95,sandy loam,Wetland,752.9393311
+florida,50,31,,Barren,634.5319214
+florida,50,82,,Crop,76017.72656
+florida,50,82,,Crop,0.0000019
+florida,50,21,,Developed,1244.611328
+florida,50,22,,Developed,951.3901367
+florida,50,23,,Developed,215.3006897
+florida,50,24,,Developed,56.3727531
+florida,50,42,,Forest,1.6222904
+florida,50,52,,Grass/Pasture,54.0296783
+florida,50,71,,Grass/Pasture,675.2838745
+florida,50,81,,Grass/Pasture,1615.892822
+florida,50,11,,Water,91194.64844
+florida,50,90,,Wetland,32762.70703
+florida,50,95,,Wetland,145764.7656
+florida,75,21,clay,Developed,10.6138887
+florida,75,90,clay,Wetland,3.4535563
+florida,75,31,loamy sand,Barren,22.1403675
+florida,75,82,loamy sand,Crop,3748.959229
+florida,75,21,loamy sand,Developed,173.6077728
+florida,75,22,loamy sand,Developed,42.1546211
+florida,75,23,loamy sand,Developed,22.5520344
+florida,75,24,loamy sand,Developed,4.1184535
+florida,75,42,loamy sand,Forest,46.2853775
+florida,75,52,loamy sand,Grass/Pasture,58.52565
+florida,75,71,loamy sand,Grass/Pasture,30.0710621
+florida,75,81,loamy sand,Grass/Pasture,2880.512451
+florida,75,11,loamy sand,Water,63.8249626
+florida,75,90,loamy sand,Wetland,2265.855957
+florida,75,95,loamy sand,Wetland,1047.691406
+florida,75,31,sand,Barren,1590.083008
+florida,75,82,sand,Crop,91351.0625
+florida,75,21,sand,Developed,63662.82422
+florida,75,22,sand,Developed,54782.20703
+florida,75,23,sand,Developed,20580.89844
+florida,75,24,sand,Developed,3315.816406
+florida,75,42,sand,Forest,2190.70459
+florida,75,52,sand,Grass/Pasture,27508.60156
+florida,75,71,sand,Grass/Pasture,3031.693115
+florida,75,81,sand,Grass/Pasture,138361.2188
+florida,75,11,sand,Water,2925.240967
+florida,75,90,sand,Wetland,156104.5469
+florida,75,95,sand,Wetland,45436.80469
+florida,75,82,sandy loam,Crop,980.736084
+florida,75,21,sandy loam,Developed,438.0370789
+florida,75,22,sandy loam,Developed,184.6884613
+florida,75,23,sandy loam,Developed,98.7974014
+florida,75,24,sandy loam,Developed,47.9801025
+florida,75,52,sandy loam,Grass/Pasture,25.1921349
+florida,75,71,sandy loam,Grass/Pasture,16.5340385
+florida,75,81,sandy loam,Grass/Pasture,593.5383911
+florida,75,11,sandy loam,Water,28.2920914
+florida,75,90,sandy loam,Wetland,6254.568848
+florida,75,95,sandy loam,Wetland,2979.719727
+florida,75,31,,Barren,124.7976913
+florida,75,82,,Crop,2354.408691
+florida,75,21,,Developed,5627.422363
+florida,75,22,,Developed,6855.382324
+florida,75,23,,Developed,2859.385742
+florida,75,24,,Developed,995.2150269
+florida,75,42,,Forest,73.5324936
+florida,75,52,,Grass/Pasture,1231.438965
+florida,75,71,,Grass/Pasture,325.5889893
+florida,75,81,,Grass/Pasture,4371.920898
+florida,75,11,,Water,17911.57031
+florida,75,90,,Wetland,24399.28906
+florida,75,95,,Wetland,147908.5313
+florida,100,31,clay,Barren,4.9262934
+florida,100,82,clay,Crop,58.0367622
+florida,100,21,clay,Developed,64.2533493
+florida,100,22,clay,Developed,7.5128932
+florida,100,23,clay,Developed,8.4818802
+florida,100,52,clay,Grass/Pasture,1.8702242
+florida,100,90,clay,Wetland,500.9561768
+florida,100,95,clay,Wetland,4.554616
+florida,100,31,loam,Barren,63.1718826
+florida,100,21,loam,Developed,348.2166748
+florida,100,22,loam,Developed,557.2282715
+florida,100,23,loam,Developed,721.7821655
+florida,100,24,loam,Developed,506.0022888
+florida,100,52,loam,Grass/Pasture,9.0002832
+florida,100,71,loam,Grass/Pasture,41.6903687
+florida,100,81,loam,Grass/Pasture,35.964344
+florida,100,11,loam,Water,666.4703369
+florida,100,90,loam,Wetland,254.5219879
+florida,100,95,loam,Wetland,167.1592865
+florida,100,31,loamy sand,Barren,50.1915092
+florida,100,82,loamy sand,Crop,11578.18945
+florida,100,21,loamy sand,Developed,797.3182983
+florida,100,22,loamy sand,Developed,314.7684021
+florida,100,23,loamy sand,Developed,88.0591278
+florida,100,24,loamy sand,Developed,36.916954
+florida,100,52,loamy sand,Grass/Pasture,281.6796875
+florida,100,71,loamy sand,Grass/Pasture,25.4464264
+florida,100,81,loamy sand,Grass/Pasture,2163.005371
+florida,100,11,loamy sand,Water,47.6376801
+florida,100,11,loamy sand,Water,0.00001
+florida,100,90,loamy sand,Wetland,4036.501709
+florida,100,95,loamy sand,Wetland,592.0160522
+florida,100,31,sand,Barren,1507.63269
+florida,100,82,sand,Crop,110794.1563
+florida,100,21,sand,Developed,57025.49609
+florida,100,22,sand,Developed,37169.47656
+florida,100,23,sand,Developed,11631.08594
+florida,100,24,sand,Developed,2810.39209
+florida,100,42,sand,Forest,1150.567505
+florida,100,52,sand,Grass/Pasture,48440.18359
+florida,100,71,sand,Grass/Pasture,4738.848145
+florida,100,81,sand,Grass/Pasture,133387.4375
+florida,100,11,sand,Water,2302.461182
+florida,100,90,sand,Wetland,164956.2031
+florida,100,95,sand,Wetland,19826.92383
+florida,100,81,sandy clay loam,Grass/Pasture,1.5045508
+florida,100,31,sandy loam,Barren,3.1353519
+florida,100,82,sandy loam,Crop,309.4248352
+florida,100,21,sandy loam,Developed,209.5594788
+florida,100,22,sandy loam,Developed,102.4704361
+florida,100,42,sandy loam,Forest,2.8354466
+florida,100,52,sandy loam,Grass/Pasture,51.5425644
+florida,100,71,sandy loam,Grass/Pasture,15.6822987
+florida,100,81,sandy loam,Grass/Pasture,463.0753784
+florida,100,11,sandy loam,Water,25.9331684
+florida,100,90,sandy loam,Wetland,8683.0625
+florida,100,95,sandy loam,Wetland,5485.567871
+florida,100,21,silt loam,Developed,13.8036795
+florida,100,22,silt loam,Developed,14.0397587
+florida,100,23,silt loam,Developed,20.8275051
+florida,100,24,silt loam,Developed,4.7279792
+florida,100,71,silt loam,Grass/Pasture,15.4198713
+florida,100,11,silt loam,Water,5.8485827
+florida,100,90,silt loam,Wetland,138.3457031
+florida,100,95,silt loam,Wetland,74.3737793
+florida,100,21,silty clay loam,Developed,97.3814163
+florida,100,22,silty clay loam,Developed,194.6882019
+florida,100,23,silty clay loam,Developed,81.2804413
+florida,100,24,silty clay loam,Developed,35.4321747
+florida,100,11,silty clay loam,Water,26.5388317
+florida,100,90,silty clay loam,Wetland,378.8569336
+florida,100,31,,Barren,330.5666504
+florida,100,82,,Crop,12884.04688
+florida,100,21,,Developed,6467.837891
+florida,100,22,,Developed,17122.15625
+florida,100,23,,Developed,11053.92773
+florida,100,24,,Developed,5479.135254
+florida,100,42,,Forest,55.9301338
+florida,100,52,,Grass/Pasture,975.5756836
+florida,100,71,,Grass/Pasture,297.9321594
+florida,100,81,,Grass/Pasture,4777.434082
+florida,100,11,,Water,20755.13477
+florida,100,11,,Water,0.00001
+florida,100,90,,Wetland,19760.06055
+florida,100,95,,Wetland,103678.8672
+florida,125,21,clay loam,Developed,1.208288
+florida,125,22,clay loam,Developed,2.2379637
+florida,125,11,clay loam,Water,2.5658631
+florida,125,90,clay loam,Wetland,146.3538971
+florida,125,31,loam,Barren,133.7536621
+florida,125,82,loam,Crop,10257.49023
+florida,125,21,loam,Developed,3113.889893
+florida,125,22,loam,Developed,2698.314209
+florida,125,23,loam,Developed,1018.609192
+florida,125,24,loam,Developed,244.5323486
+florida,125,52,loam,Grass/Pasture,76.8090744
+florida,125,71,loam,Grass/Pasture,27.0783176
+florida,125,81,loam,Grass/Pasture,36.0470657
+florida,125,11,loam,Water,280.6573181
+florida,125,90,loam,Wetland,1155.035645
+florida,125,95,loam,Wetland,766.6532593
+florida,125,31,loamy sand,Barren,38.5065002
+florida,125,82,loamy sand,Crop,3086.122803
+florida,125,21,loamy sand,Developed,250.380661
+florida,125,22,loamy sand,Developed,145.0111084
+florida,125,23,loamy sand,Developed,71.497406
+florida,125,24,loamy sand,Developed,24.113615
+florida,125,52,loamy sand,Grass/Pasture,591.7211304
+florida,125,71,loamy sand,Grass/Pasture,129.3957825
+florida,125,81,loamy sand,Grass/Pasture,383.6113281
+florida,125,11,loamy sand,Water,15.2433395
+florida,125,90,loamy sand,Wetland,3434.150391
+florida,125,95,loamy sand,Wetland,611.5831909
+florida,125,31,sand,Barren,3534.474854
+florida,125,82,sand,Crop,90389.73438
+florida,125,21,sand,Developed,56638.88672
+florida,125,22,sand,Developed,42413.15625
+florida,125,23,sand,Developed,11215.56055
+florida,125,24,sand,Developed,2270.706055
+florida,125,42,sand,Forest,1866.852661
+florida,125,52,sand,Grass/Pasture,45758.38281
+florida,125,71,sand,Grass/Pasture,4941.133301
+florida,125,81,sand,Grass/Pasture,116484.4844
+florida,125,11,sand,Water,2830.387695
+florida,125,90,sand,Wetland,187045.5781
+florida,125,95,sand,Wetland,47618.50781
+florida,125,31,sandy clay loam,Barren,9.908843
+florida,125,82,sandy clay loam,Crop,13.9524231
+florida,125,21,sandy clay loam,Developed,162.2710266
+florida,125,22,sandy clay loam,Developed,500.5968933
+florida,125,23,sandy clay loam,Developed,213.3293304
+florida,125,24,sandy clay loam,Developed,25.2072887
+florida,125,52,sandy clay loam,Grass/Pasture,6.3993902
+florida,125,81,sandy clay loam,Grass/Pasture,31.4686584
+florida,125,11,sandy clay loam,Water,9.4417791
+florida,125,90,sandy clay loam,Wetland,248.6576385
+florida,125,95,sandy clay loam,Wetland,49.6836205
+florida,125,31,sandy loam,Barren,15.5277529
+florida,125,82,sandy loam,Crop,24.8742237
+florida,125,21,sandy loam,Developed,1359.788574
+florida,125,22,sandy loam,Developed,348.764801
+florida,125,23,sandy loam,Developed,84.1814651
+florida,125,24,sandy loam,Developed,17.3294029
+florida,125,42,sandy loam,Forest,6.4307952
+florida,125,52,sandy loam,Grass/Pasture,40.8469276
+florida,125,71,sandy loam,Grass/Pasture,12.053484
+florida,125,81,sandy loam,Grass/Pasture,328.505249
+florida,125,11,sandy loam,Water,14.5149736
+florida,125,90,sandy loam,Wetland,3412.917725
+florida,125,95,sandy loam,Wetland,1170.620239
+florida,125,31,silt loam,Barren,10.4735575
+florida,125,82,silt loam,Crop,776.4060669
+florida,125,21,silt loam,Developed,409.2539978
+florida,125,22,silt loam,Developed,521.9475098
+florida,125,23,silt loam,Developed,334.9096375
+florida,125,24,silt loam,Developed,51.2991638
+florida,125,42,silt loam,Forest,3.7393169
+florida,125,52,silt loam,Grass/Pasture,5.5973864
+florida,125,81,silt loam,Grass/Pasture,4.1739106
+florida,125,11,silt loam,Water,116.6809464
+florida,125,90,silt loam,Wetland,1319.312134
+florida,125,95,silt loam,Wetland,2952.5625
+florida,125,31,,Barren,252.1900482
+florida,125,82,,Crop,7355.895508
+florida,125,21,,Developed,10696.34668
+florida,125,22,,Developed,26059.88672
+florida,125,23,,Developed,10892.59668
+florida,125,24,,Developed,5988.618652
+florida,125,42,,Forest,162.5856476
+florida,125,52,,Grass/Pasture,1794.95874
+florida,125,71,,Grass/Pasture,485.8111572
+florida,125,81,,Grass/Pasture,3062.828125
+florida,125,11,,Water,14790.37207
+florida,125,90,,Wetland,46093.25781
+florida,125,95,,Wetland,52774.16406
+florida,150,90,clay,Wetland,2.186002
+florida,150,21,clay loam,Developed,5.1306734
+florida,150,22,clay loam,Developed,15.3091621
+florida,150,11,clay loam,Water,6.0348949
+florida,150,90,clay loam,Wetland,32.699398
+florida,150,95,clay loam,Wetland,0.0015699
+florida,150,31,loam,Barren,80.5065765
+florida,150,82,loam,Crop,11340.0791
+florida,150,21,loam,Developed,2947.545166
+florida,150,22,loam,Developed,1705.979858
+florida,150,23,loam,Developed,387.9522705
+florida,150,24,loam,Developed,89.6344604
+florida,150,52,loam,Grass/Pasture,67.0168457
+florida,150,71,loam,Grass/Pasture,79.8594742
+florida,150,81,loam,Grass/Pasture,3.9041324
+florida,150,11,loam,Water,989.7532349
+florida,150,90,loam,Wetland,834.0501709
+florida,150,95,loam,Wetland,1847.305054
+florida,150,31,loamy sand,Barren,10.2762632
+florida,150,82,loamy sand,Crop,1058.834595
+florida,150,21,loamy sand,Developed,206.7067871
+florida,150,22,loamy sand,Developed,17.3495083
+florida,150,23,loamy sand,Developed,8.6455145
+florida,150,52,loamy sand,Grass/Pasture,424.0874329
+florida,150,71,loamy sand,Grass/Pasture,69.2052841
+florida,150,81,loamy sand,Grass/Pasture,2763.894043
+florida,150,81,loamy sand,Grass/Pasture,0.0000001
+florida,150,11,loamy sand,Water,91.4556046
+florida,150,90,loamy sand,Wetland,15289.95508
+florida,150,95,loamy sand,Wetland,517.2481079
+florida,150,90,loamy sand,Wetland,0.0000005
+florida,150,31,sand,Barren,1098.354981
+florida,150,82,sand,Crop,57072.33203
+florida,150,21,sand,Developed,53777.67188
+florida,150,22,sand,Developed,19307.63281
+florida,150,23,sand,Developed,3255.591797
+florida,150,24,sand,Developed,560.8604736
+florida,150,42,sand,Forest,4758.866699
+florida,150,52,sand,Grass/Pasture,43466.85938
+florida,150,71,sand,Grass/Pasture,4654.98584
+florida,150,81,sand,Grass/Pasture,124331.2969
+florida,150,81,sand,Grass/Pasture,0.0000001
+florida,150,11,sand,Water,2536.551758
+florida,150,90,sand,Wetland,140455.9063
+florida,150,95,sand,Wetland,13338.3125
+florida,150,90,sand,Wetland,0.0000005
+florida,150,82,sandy clay loam,Crop,1.8570168
+florida,150,21,sandy clay loam,Developed,7.3551235
+florida,150,52,sandy clay loam,Grass/Pasture,106.2038879
+florida,150,71,sandy clay loam,Grass/Pasture,5.2263112
+florida,150,81,sandy clay loam,Grass/Pasture,107.2452621
+florida,150,90,sandy clay loam,Wetland,558.2833252
+florida,150,95,sandy clay loam,Wetland,41.8305092
+florida,150,82,sandy loam,Crop,1.0482571
+florida,150,21,sandy loam,Developed,57.4375458
+florida,150,22,sandy loam,Developed,54.3459358
+florida,150,23,sandy loam,Developed,1.3369738
+florida,150,42,sandy loam,Forest,3.4614444
+florida,150,52,sandy loam,Grass/Pasture,2.6962166
+florida,150,71,sandy loam,Grass/Pasture,7.351758
+florida,150,81,sandy loam,Grass/Pasture,27.0196514
+florida,150,11,sandy loam,Water,7.0220451
+florida,150,90,sandy loam,Wetland,344.8255615
+florida,150,95,sandy loam,Wetland,9.9854908
+florida,150,31,silt loam,Barren,433.1612549
+florida,150,82,silt loam,Crop,3840.41919
+florida,150,21,silt loam,Developed,1001.562683
+florida,150,22,silt loam,Developed,1394.521362
+florida,150,23,silt loam,Developed,672.7213135
+florida,150,24,silt loam,Developed,45.2278023
+florida,150,52,silt loam,Grass/Pasture,71.3508453
+florida,150,71,silt loam,Grass/Pasture,17.0654163
+florida,150,81,silt loam,Grass/Pasture,2.1871674
+florida,150,11,silt loam,Water,272.4697571
+florida,150,90,silt loam,Wetland,8168.880371
+florida,150,95,silt loam,Wetland,18084.9043
+florida,150,31,,Barren,71.6608658
+florida,150,82,,Crop,8289.71875
+florida,150,21,,Developed,2478.647461
+florida,150,22,,Developed,3239.008301
+florida,150,23,,Developed,826.4296265
+florida,150,24,,Developed,313.2025146
+florida,150,42,,Forest,142.9018097
+florida,150,52,,Grass/Pasture,1055.438355
+florida,150,71,,Grass/Pasture,110.7725677
+florida,150,81,,Grass/Pasture,6902.925293
+florida,150,11,,Water,22694.80078
+florida,150,90,,Wetland,24809.57617
+florida,150,95,,Wetland,13539.78711
+florida,175,31,clay,Barren,512.3799438
+florida,175,82,clay,Crop,105.9666595
+florida,175,21,clay,Developed,232.0445557
+florida,175,22,clay,Developed,35.2007561
+florida,175,24,clay,Developed,5.7599969
+florida,175,52,clay,Grass/Pasture,550.3988647
+florida,175,71,clay,Grass/Pasture,4519.982422
+florida,175,81,clay,Grass/Pasture,37.9346085
+florida,175,11,clay,Water,647.6500244
+florida,175,90,clay,Wetland,6618.166016
+florida,175,95,clay,Wetland,903.3809814
+florida,175,21,loam,Developed,314.1091003
+florida,175,22,loam,Developed,223.0875702
+florida,175,23,loam,Developed,49.5887909
+florida,175,11,loam,Water,9.5266933
+florida,175,90,loam,Wetland,994.5505371
+florida,175,95,loam,Wetland,5.2921281
+florida,175,31,loamy sand,Barren,114.033226
+florida,175,82,loamy sand,Crop,586.2025146
+florida,175,21,loamy sand,Developed,114.5438232
+florida,175,22,loamy sand,Developed,83.3180542
+florida,175,23,loamy sand,Developed,20.4994965
+florida,175,24,loamy sand,Developed,4.7099338
+florida,175,52,loamy sand,Grass/Pasture,199.6725311
+florida,175,71,loamy sand,Grass/Pasture,78.2270508
+florida,175,81,loamy sand,Grass/Pasture,2512.708496
+florida,175,11,loamy sand,Water,97.0568848
+florida,175,90,loamy sand,Wetland,5520.566895
+florida,175,95,loamy sand,Wetland,592.420105
+florida,175,31,sand,Barren,9877.361328
+florida,175,82,sand,Crop,52361.16016
+florida,175,21,sand,Developed,46244.05859
+florida,175,22,sand,Developed,18993.66016
+florida,175,23,sand,Developed,5524.64209
+florida,175,24,sand,Developed,915.7935791
+florida,175,22,sand,Developed,0.0000005
+florida,175,42,sand,Forest,629.0629272
+florida,175,52,sand,Grass/Pasture,29078.73047
+florida,175,71,sand,Grass/Pasture,19646.93945
+florida,175,81,sand,Grass/Pasture,111368.5469
+florida,175,52,sand,Grass/Pasture,0.000011
+florida,175,11,sand,Water,8802.979492
+florida,175,90,sand,Wetland,167077.8906
+florida,175,95,sand,Wetland,19347.45703
+florida,175,90,sand,Wetland,0.0000021
+florida,175,95,sand,Wetland,0.0000001
+florida,175,31,sandy clay loam,Barren,1.1691898
+florida,175,21,sandy clay loam,Developed,36.1548386
+florida,175,22,sandy clay loam,Developed,6.710012
+florida,175,52,sandy clay loam,Grass/Pasture,12.1399393
+florida,175,71,sandy clay loam,Grass/Pasture,33.54039
+florida,175,81,sandy clay loam,Grass/Pasture,51.128479
+florida,175,11,sandy clay loam,Water,24.5449905
+florida,175,90,sandy clay loam,Wetland,1336.566773
+florida,175,95,sandy clay loam,Wetland,49.1078224
+florida,175,95,sandy clay loam,Wetland,0.0000033
+florida,175,31,sandy loam,Barren,2.415916
+florida,175,82,sandy loam,Crop,375.6322632
+florida,175,21,sandy loam,Developed,25.9805775
+florida,175,22,sandy loam,Developed,2.6890469
+florida,175,52,sandy loam,Grass/Pasture,5.9814878
+florida,175,71,sandy loam,Grass/Pasture,12.0670767
+florida,175,81,sandy loam,Grass/Pasture,88.2930679
+florida,175,11,sandy loam,Water,24.0841236
+florida,175,90,sandy loam,Wetland,698.1469727
+florida,175,95,sandy loam,Wetland,594.1832886
+florida,175,21,silt loam,Developed,39.646904
+florida,175,22,silt loam,Developed,6.3386903
+florida,175,11,silt loam,Water,19.4456272
+florida,175,90,silt loam,Wetland,214.3293915
+florida,175,95,silt loam,Wetland,6176.341797
+florida,175,31,,Barren,964.2373047
+florida,175,82,,Crop,1782.915527
+florida,175,21,,Developed,1636.935791
+florida,175,22,,Developed,813.0617676
+florida,175,23,,Developed,444.0032959
+florida,175,24,,Developed,210.5264587
+florida,175,22,,Developed,0.0000005
+florida,175,42,,Forest,83.3514709
+florida,175,52,,Grass/Pasture,1441.245239
+florida,175,71,,Grass/Pasture,1073.531494
+florida,175,81,,Grass/Pasture,3034.461426
+florida,175,52,,Grass/Pasture,0.000011
+florida,175,11,,Water,25810.02539
+florida,175,90,,Wetland,27512.94922
+florida,175,95,,Wetland,10888.64355
+florida,175,90,,Wetland,0.0000021
+florida,175,95,,Wetland,0.0000001
+florida,175,95,,Wetland,0.0000033

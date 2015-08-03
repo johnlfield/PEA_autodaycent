@@ -1,0 +1,39 @@
+2014          Starting year
+2034          Last year
+site.100
+0             Labeling type
+-1            Labeling year
+-1.00         Microcosm
+-1            CO2 Systems
+-1            pH effect
+-1            Soil warming
+-1            N input scalar option (0 or 1)
+-1            OMAD scalar option (0 or 1)
+-1            Climate scalar option
+1             Initial system
+G3            Initial crop
+              Initial tree
+
+Year Month Option
+1             Block #
+2034          Last year
+5             Repeats # years
+2014          Output starting year
+12            Output month
+1.0           Output interval
+F             Weather choice
+weather.wth
+  1  4 CROP SW3EG
+     4 PLTM, 4 FERT (12.74N), 4 CULT B, 4 IRRI A60,   5 IRRI A60,
+     6 IRRI A60,   7 IRRI A60,   8 LAST, 8 HARV G, 8 IRRI A60,   10 CULT G,
+  2  4 PLTM, 4 FERT (12.74N), 4 CULT B, 4 IRRI A60,   5 IRRI A60,
+     6 IRRI A60,   7 IRRI A60,   8 LAST, 8 HARV G, 8 IRRI A60,   10 CULT G,
+  3  4 PLTM, 4 FERT (12.74N), 4 CULT B, 4 IRRI A60,   5 IRRI A60,
+     6 IRRI A60,   7 IRRI A60,   8 LAST, 8 HARV G, 8 IRRI A60,   10 CULT G,
+  4  4 PLTM, 4 FERT (12.74N), 4 CULT B, 4 IRRI A60,   5 IRRI A60,
+     6 IRRI A60,   7 IRRI A60,   8 LAST, 8 HARV G, 8 IRRI A60,   10 CULT G,
+  5  1 CROP WC3
+     1 FRST, 1 IRRI A60,   2 GRAZ LRRL, 2 IRRI A60,   3 GRAZ LRRL,
+     3 IRRI A60,   4 GRAZ LRRL, 4 IRRI A60,   5 GRAZ LRRL, 5 LAST, 5 SENM,
+     5 IRRI A60,
+-999 -999 X

@@ -1,0 +1,373 @@
+LandUse,SoilTexture,DistanceKM,hectares
+Barren,clay loam,25,6.6
+Barren,loam,25,27.7
+Barren,loamy sand,25,1.6
+Barren,sandy loam,25,0.1
+Barren,silt loam,25,0.3
+Barren,silty clay loam,25,7.9
+Cropland,clay loam,25,35095.7
+Cropland,loam,25,58568.0
+Cropland,loamy sand,25,196.3
+Cropland,sandy loam,25,914.7
+Cropland,silt loam,25,969.3
+Cropland,silty clay loam,25,71471.8
+Developed,clay loam,25,1308.7
+Developed,loam,25,4057.2
+Developed,loamy sand,25,93.1
+Developed,sandy loam,25,116.2
+Developed,silt loam,25,137.4
+Developed,silty clay loam,25,3047.3
+Forest,clay loam,25,184.4
+Forest,loam,25,5142.1
+Forest,loamy sand,25,490.2
+Forest,sandy loam,25,204.7
+Forest,silt loam,25,841.3
+Forest,silty clay loam,25,226.2
+Pasture/grassland,clay loam,25,853.0
+Pasture/grassland,loam,25,3513.6
+Pasture/grassland,loamy sand,25,188.3
+Pasture/grassland,sandy loam,25,281.5
+Pasture/grassland,silt loam,25,175.9
+Pasture/grassland,silty clay loam,25,965.4
+Water/wetland,clay loam,25,153.3
+Water/wetland,loam,25,958.3
+Water/wetland,loamy sand,25,268.9
+Water/wetland,sandy loam,25,287.9
+Water/wetland,silt loam,25,145.3
+Water/wetland,silty clay loam,25,161.8
+Barren,clay loam,50,1.0
+Barren,loam,50,32.2
+Barren,sandy loam,50,3.9
+Barren,silt loam,50,46.4
+Barren,silty clay loam,50,0.4
+Cropland,clay loam,50,139090.3
+Cropland,loam,50,179167.5
+Cropland,loamy sand,50,180.6
+Cropland,sandy loam,50,5320.2
+Cropland,silt loam,50,5503.3
+Cropland,silty clay,50,98.7
+Cropland,silty clay loam,50,193381.3
+Developed,clay loam,50,5051.4
+Developed,loam,50,8482.0
+Developed,loamy sand,50,16.7
+Developed,sandy loam,50,565.7
+Developed,silt loam,50,166.6
+Developed,silty clay,50,0.2
+Developed,silty clay loam,50,7860.8
+Forest,clay loam,50,339.2
+Forest,loam,50,9618.3
+Forest,loamy sand,50,99.7
+Forest,sandy loam,50,559.5
+Forest,silt loam,50,532.2
+Forest,silty clay loam,50,508.7
+Pasture/grassland,clay loam,50,3943.6
+Pasture/grassland,loam,50,9690.9
+Pasture/grassland,loamy sand,50,17.6
+Pasture/grassland,sandy loam,50,1140.1
+Pasture/grassland,silt loam,50,290.5
+Pasture/grassland,silty clay,50,0.7
+Pasture/grassland,silty clay loam,50,2623.5
+Water/wetland,clay loam,50,1385.1
+Water/wetland,loam,50,4144.2
+Water/wetland,loamy sand,50,166.8
+Water/wetland,sandy loam,50,862.7
+Water/wetland,silt loam,50,300.6
+Water/wetland,silty clay loam,50,906.7
+Barren,clay loam,75,10.3
+Barren,loam,75,58.4
+Barren,sandy loam,75,2.8
+Barren,silty clay loam,75,28.5
+Cropland,clay loam,75,178456.1
+Cropland,loam,75,423883.5
+Cropland,loamy sand,75,487.8
+Cropland,sandy loam,75,12243.8
+Cropland,silt loam,75,8114.7
+Cropland,silty clay,75,2461.8
+Cropland,silty clay loam,75,227817.8
+Developed,clay loam,75,8733.8
+Developed,loam,75,25958.8
+Developed,loamy sand,75,97.5
+Developed,sandy loam,75,763.0
+Developed,silt loam,75,230.4
+Developed,silty clay,75,65.8
+Developed,silty clay loam,75,10126.9
+Forest,clay loam,75,1016.0
+Forest,loam,75,12927.0
+Forest,loamy sand,75,166.0
+Forest,sandy loam,75,577.2
+Forest,silt loam,75,133.9
+Forest,silty clay,75,8.6
+Forest,silty clay loam,75,858.9
+Pasture/grassland,clay loam,75,7032.8
+Pasture/grassland,loam,75,24133.8
+Pasture/grassland,loamy sand,75,262.5
+Pasture/grassland,sandy loam,75,1848.5
+Pasture/grassland,silt loam,75,382.1
+Pasture/grassland,silty clay,75,108.7
+Pasture/grassland,silty clay loam,75,5174.2
+Water/wetland,clay loam,75,2894.3
+Water/wetland,loam,75,5824.1
+Water/wetland,loamy sand,75,421.7
+Water/wetland,sandy loam,75,1874.9
+Water/wetland,silt loam,75,338.1
+Water/wetland,silty clay,75,66.2
+Water/wetland,silty clay loam,75,3496.8
+Barren,clay loam,100,11.4
+Barren,loam,100,163.5
+Barren,loamy sand,100,2.6
+Barren,sandy loam,100,3.0
+Barren,silt loam,100,10.0
+Barren,silty clay loam,100,73.5
+Cropland,clay,100,14.7
+Cropland,clay loam,100,131862.9
+Cropland,loam,100,457082.5
+Cropland,loamy sand,100,1955.3
+Cropland,sandy clay loam,100,9.4
+Cropland,sandy loam,100,17015.6
+Cropland,silt loam,100,31550.3
+Cropland,silty clay,100,1762.1
+Cropland,silty clay loam,100,494998.0
+Developed,clay,100,1.5
+Developed,clay loam,100,6756.5
+Developed,loam,100,29897.2
+Developed,loamy sand,100,116.3
+Developed,sandy loam,100,1755.7
+Developed,silt loam,100,1511.8
+Developed,silty clay,100,72.9
+Developed,silty clay loam,100,22437.9
+Forest,clay loam,100,1927.0
+Forest,loam,100,18101.3
+Forest,loamy sand,100,873.0
+Forest,sandy loam,100,767.1
+Forest,silt loam,100,3164.1
+Forest,silty clay,100,4.4
+Forest,silty clay loam,100,2673.8
+Pasture/grassland,clay,100,2.2
+Pasture/grassland,clay loam,100,12358.2
+Pasture/grassland,loam,100,46313.5
+Pasture/grassland,loamy sand,100,1310.4
+Pasture/grassland,sandy clay loam,100,3.9
+Pasture/grassland,sandy loam,100,3874.1
+Pasture/grassland,silt loam,100,7214.4
+Pasture/grassland,silty clay,100,110.8
+Pasture/grassland,silty clay loam,100,30811.9
+Water/wetland,clay loam,100,3022.3
+Water/wetland,loam,100,6252.1
+Water/wetland,loamy sand,100,364.3
+Water/wetland,sandy loam,100,1449.8
+Water/wetland,silt loam,100,880.6
+Water/wetland,silty clay,100,97.5
+Water/wetland,silty clay loam,100,3923.1
+Barren,clay loam,125,48.1
+Barren,loam,125,156.2
+Barren,loamy sand,125,12.0
+Barren,sandy clay loam,125,1.4
+Barren,sandy loam,125,39.0
+Barren,silt loam,125,32.9
+Barren,silty clay,125,5.8
+Barren,silty clay loam,125,145.3
+Cropland,clay,125,121.2
+Cropland,clay loam,125,157833.3
+Cropland,loam,125,330993.5
+Cropland,loamy sand,125,3959.6
+Cropland,sand,125,409.2
+Cropland,sandy clay loam,125,747.4
+Cropland,sandy loam,125,18832.3
+Cropland,silt loam,125,81249.1
+Cropland,silty clay,125,1237.7
+Cropland,silty clay loam,125,754843.9
+Developed,clay,125,35.3
+Developed,clay loam,125,7844.8
+Developed,loam,125,35647.4
+Developed,loamy sand,125,358.9
+Developed,sand,125,90.2
+Developed,sandy clay loam,125,7.6
+Developed,sandy loam,125,1660.6
+Developed,silt loam,125,7337.0
+Developed,silty clay,125,136.5
+Developed,silty clay loam,125,40658.6
+Forest,clay,125,3.5
+Forest,clay loam,125,3997.3
+Forest,loam,125,19675.2
+Forest,loamy sand,125,854.7
+Forest,sand,125,50.0
+Forest,sandy clay loam,125,2.5
+Forest,sandy loam,125,540.0
+Forest,silt loam,125,10233.2
+Forest,silty clay,125,25.5
+Forest,silty clay loam,125,10782.5
+Pasture/grassland,clay,125,28.9
+Pasture/grassland,clay loam,125,24529.4
+Pasture/grassland,loam,125,58424.6
+Pasture/grassland,loamy sand,125,1996.4
+Pasture/grassland,sand,125,449.9
+Pasture/grassland,sandy clay loam,125,25.7
+Pasture/grassland,sandy loam,125,3930.3
+Pasture/grassland,silt loam,125,27199.9
+Pasture/grassland,silty clay,125,100.6
+Pasture/grassland,silty clay loam,125,86854.1
+Water/wetland,clay,125,1.3
+Water/wetland,clay loam,125,2446.5
+Water/wetland,loam,125,9046.4
+Water/wetland,loamy sand,125,1034.4
+Water/wetland,sand,125,14.3
+Water/wetland,sandy clay loam,125,15.6
+Water/wetland,sandy loam,125,1044.9
+Water/wetland,silt loam,125,5685.7
+Water/wetland,silty clay,125,143.0
+Water/wetland,silty clay loam,125,6083.9
+Barren,clay loam,150,25.9
+Barren,loam,150,61.4
+Barren,loamy sand,150,6.1
+Barren,sand,150,0.1
+Barren,sandy loam,150,6.7
+Barren,silt loam,150,50.5
+Barren,silty clay,150,4.3
+Barren,silty clay loam,150,34.9
+Cropland,clay,150,41.2
+Cropland,clay loam,150,197943.6
+Cropland,loam,150,292865.9
+Cropland,loamy sand,150,7090.0
+Cropland,sand,150,426.8
+Cropland,sandy clay loam,150,549.8
+Cropland,sandy loam,150,22442.0
+Cropland,silt loam,150,264197.9
+Cropland,silty clay,150,5677.7
+Cropland,silty clay loam,150,799408.9
+Developed,clay loam,150,9573.2
+Developed,loam,150,20400.1
+Developed,loamy sand,150,732.0
+Developed,sand,150,48.6
+Developed,sandy clay loam,150,29.9
+Developed,sandy loam,150,2127.3
+Developed,silt loam,150,15058.9
+Developed,silty clay,150,113.4
+Developed,silty clay loam,150,39382.8
+Forest,clay,150,1.9
+Forest,clay loam,150,4164.6
+Forest,loam,150,24729.0
+Forest,loamy sand,150,2044.9
+Forest,sand,150,23.2
+Forest,sandy clay loam,150,2.2
+Forest,sandy loam,150,1396.8
+Forest,silt loam,150,28448.1
+Forest,silty clay,150,46.5
+Forest,silty clay loam,150,12881.4
+Pasture/grassland,clay,150,38.4
+Pasture/grassland,clay loam,150,32562.3
+Pasture/grassland,loam,150,64709.2
+Pasture/grassland,loamy sand,150,2940.2
+Pasture/grassland,sand,150,395.7
+Pasture/grassland,sandy clay loam,150,26.9
+Pasture/grassland,sandy loam,150,5055.1
+Pasture/grassland,silt loam,150,95553.6
+Pasture/grassland,silty clay,150,287.8
+Pasture/grassland,silty clay loam,150,105616.7
+Water/wetland,clay loam,150,3251.1
+Water/wetland,loam,150,16123.2
+Water/wetland,loamy sand,150,1248.1
+Water/wetland,sand,150,35.9
+Water/wetland,sandy clay loam,150,12.8
+Water/wetland,sandy loam,150,1345.3
+Water/wetland,silt loam,150,9196.5
+Water/wetland,silty clay,150,167.3
+Water/wetland,silty clay loam,150,8577.5
+Barren,clay loam,175,43.9
+Barren,loam,175,118.7
+Barren,loamy sand,175,8.8
+Barren,sand,175,4.8
+Barren,sandy loam,175,11.4
+Barren,silt loam,175,101.0
+Barren,silty clay,175,5.8
+Barren,silty clay loam,175,207.7
+Cropland,clay,175,16256.7
+Cropland,clay loam,175,247662.6
+Cropland,loam,175,337206.5
+Cropland,loamy sand,175,12140.7
+Cropland,sand,175,809.0
+Cropland,sandy clay loam,175,44.9
+Cropland,sandy loam,175,24344.1
+Cropland,silt loam,175,370148.9
+Cropland,silty clay,175,89678.2
+Cropland,silty clay loam,175,764267.6
+Developed,clay,175,335.9
+Developed,clay loam,175,11955.5
+Developed,loam,175,19139.5
+Developed,loamy sand,175,759.8
+Developed,sand,175,38.4
+Developed,sandy clay loam,175,1.3
+Developed,sandy loam,175,1692.9
+Developed,silt loam,175,22081.5
+Developed,silty clay,175,3251.5
+Developed,silty clay loam,175,37353.9
+Forest,clay,175,15.3
+Forest,clay loam,175,11684.9
+Forest,loam,175,30829.0
+Forest,loamy sand,175,1172.2
+Forest,sand,175,91.1
+Forest,sandy loam,175,942.6
+Forest,silt loam,175,41847.5
+Forest,silty clay,175,210.1
+Forest,silty clay loam,175,18733.8
+Pasture/grassland,clay,175,293.9
+Pasture/grassland,clay loam,175,63152.9
+Pasture/grassland,loam,175,70304.9
+Pasture/grassland,loamy sand,175,2798.0
+Pasture/grassland,sand,175,48.3
+Pasture/grassland,sandy loam,175,3653.6
+Pasture/grassland,silt loam,175,115989.9
+Pasture/grassland,silty clay,175,2568.6
+Pasture/grassland,silty clay loam,175,131414.2
+Water/wetland,clay,175,83.1
+Water/wetland,clay loam,175,7028.6
+Water/wetland,loam,175,13374.1
+Water/wetland,loamy sand,175,891.8
+Water/wetland,sand,175,197.1
+Water/wetland,sandy loam,175,1529.6
+Water/wetland,silt loam,175,7852.7
+Water/wetland,silty clay,175,1090.1
+Water/wetland,silty clay loam,175,9712.6
+,,,
+,,,
+,,,
+,,,
+,,,
+,,,
+,,,
+,,,
+,,,
+,,,
+,,,
+,,,
+,,,
+,,,
+,,,
+,,,
+,,,
+,,,
+,,,
+,,,
+,,,
+,,,
+,,,
+,,,
+,,,
+,,,
+,,,
+,,,
+,,,
+,,,
+,,,
+,,,
+,,,
+,,,
+,,,
+,,,
+,,,
+,,,
+,,,
+,,,
+,,,
+,,,
+,,,
+,,,
