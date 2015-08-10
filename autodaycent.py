@@ -159,7 +159,7 @@ dirmain = os.path.dirname(abspath)+"/"      # associated directory only
 dirsite = dirmain+"sites/"+site+"/"
 dirwork = dirmain+"workspace/"
 dirlib = dirmain+"input_files/"
-dirres = dirmain+"results/"+tstamp+"_"+descrip+"/"
+dirres = dirmain+"results/"
 ddc_fpath = dirmain+"model/DDcentEVI"
 ddclist_fpath = dirmain+"model/DDClist100"
 print
@@ -273,22 +273,17 @@ for j in range(len(stats)):
     c.write(line)
 c.close()
 
-results = dirres.split('/')[-2]
-print "All resulting data & metadata is archived in the directory "+results
+print "Summary results archived in the directory "+dirres
 print
 print
 
 
 # archive results, working directory cleanup
 # shutil.move(dirwork+logfile, dirres)
-if not os.path.exists(dirres):
-    os.mkdir(dirres)
+saved_filetypes = [".csv", ".png"]
 for file in glob.glob(os.path.join(dirwork, '*')):
-    if file.endswith(".in") or file.endswith(".txt") or file.endswith(".sch") or \
-       file.endswith(".evt") or file.endswith(".100") or file.endswith(".wth"):
-        os.remove(file)
-for file in glob.glob(os.path.join(dirwork, '*')):
-    if file.endswith(".bin") or file.endswith(".lis") or file.endswith(".out") or \
-       file.endswith(".csv") or file.endswith(".png"):
+    extension = "."+file.split('.')[-1]
+    if extension in saved_filetypes:
         shutil.move(file, dirres)
-
+    else:
+        os.remove(file)
