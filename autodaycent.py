@@ -9,8 +9,11 @@ site for which a site.100 file exits.
 """
 
 import os
-import csv
 import glob
+import matplotlib
+matplotlib.use('Agg')
+import matplotlib.pyplot as plt
+import numpy as np
 import shutil
 import subprocess
 import time
@@ -103,31 +106,29 @@ def yie_ghg_sum(id):
     # call read_out() to analyze the simulation .lis and year_summary.out output
     avg_cols_out1, diff_cols_out1 = read_out(dirwork+id+'.lis', 4, 1, [6,8], [7,9])
     avg_cols_out2, diff_cols_out2 = read_out(dirwork+id+'_year_summary.out', 1, 0, [1], [])
-    cmrvst = avg_cols_out1[0]   #gC/m2/y
-    tcrem = diff_cols_out1[0]    #gC/m2/y
-    cgrain = avg_cols_out1[1]   #gC/m2/y
-    d_somsc = diff_cols_out1[1]   #gC/m2/y
-    n2oflux = avg_cols_out2[0]   #gN2O-N/m2/y
+    cmrvst = avg_cols_out1[0]   # gC/m2/y
+    tcrem = diff_cols_out1[0]    # gC/m2/y
+    cgrain = avg_cols_out1[1]   # gC/m2/y
+    d_somsc = diff_cols_out1[1]   # gC/m2/y
+    n2oflux = avg_cols_out2[0]   # gN2O-N/m2/y
 
     # unit conversions & data recording
-    hbmyield = (cmrvst/0.45)/100.0  #Mg-BM/ha/y
-    wbmyield = (tcrem/0.45)/100.0  #Mg-BM/ha/y
-    gryield = (cgrain/0.45)/100.0  #Mg-grain/ha/y
-    d_som = d_somsc/100.0  #Mg/ha/y
+    hbmyield = (cmrvst/0.45)/100.0  # Mg-BM/ha/y
+    wbmyield = (tcrem/0.45)/100.0  # Mg-BM/ha/y
+    gryield = (cgrain/0.45)/100.0  # Mg-grain/ha/y
+    d_som = d_somsc/100.0  # Mg/ha/y
     n2o = n2oflux*(44.0/28.0)*10000.0*.001
     ghg = (-1*d_som)+(298.0*n2o*0.001)
 
     case = id.split('_')[-1]
-    sum = [case, round(hbmyield,2), round(wbmyield,2), round(gryield,2), round(d_som,4),
-           round(n2o,3), round(ghg,3)]
+    sum = [case, round(hbmyield, 2), round(wbmyield, 2), round(gryield, 2), round(d_som, 4),
+           round(n2o, 3), round(ghg, 3)]
     return sum
 
 
 #########################################################################################
 
 
-# this is just a test comment for GitHub verification
-# this is a second test comment for GitHub verification
 # specification of schedule file name and local directory structure
 print
 print __doc__
@@ -238,7 +239,8 @@ print
 # report analysis and log analysis runtime, results summary, and results archive location
 sec = round((time.time() - start), 2)
 min = round(sec/60.0, 2)
-resfile = tstamp+"_"+descrip+"_results.csv"
+resfile = tstamp+"_"+descrip+".csv"
+resplot = tstamp+"_"+descrip+".png"
 c = open(dirwork+resfile, "w")
 c.write("Analysis timstamp:  "+tstamp+'\n')
 c.write("Simulation description:  "+descrip+'\n')
@@ -278,8 +280,37 @@ print
 print
 
 
+# plot emissions intensity for the different soil/landuse combinations
+labels = []
+tilled_differences = []
+grazed_differences = []
+column = 0
+bioenergy = -999
+for i in range(len(stats)):
+    if i % 2 == 0:
+        bioenergy = float(stats[i][8])
+        column += 1
+    else:
+        if stats[i][1] == "till":
+            labels.append(stats[i][0])
+            tilled_differences.append(bioenergy - float(stats[i][8]))
+        else:
+            grazed_differences.append(bioenergy - float(stats[i][8]))
+columns = np.arange(len(labels))
+width = 0.4
+plt.bar(columns, tilled_differences, width, color="red", label="Previously-cropped")
+plt.bar(columns+width, grazed_differences, width, color="green", label="Previously-grazed")
+plt.xticks(columns+width, labels)
+plt.xlabel("Soil type")
+plt.ylabel("Change in soil GHG emissions from baseline\n(MgCO2eq/ha/y)")
+plt.legend(loc=4)
+plt.savefig(resplot)
+plt.close()
+
+
 # archive results, working directory cleanup
-# shutil.move(dirwork+logfile, dirres)
+## note that any additional results archiving outside the respository directory structure should be implemented through
+## an additional list, "ELIF" statement, and shutil.move operation.
 saved_filetypes = [".csv", ".png"]
 for file in glob.glob(os.path.join(dirwork, '*')):
     extension = "."+file.split('.')[-1]
