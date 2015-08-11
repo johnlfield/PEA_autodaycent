@@ -166,10 +166,11 @@ ddclist_fpath = dirmain+"model/DDClist100"
 print
 
 
-# start analysis run timer, clear workspace, copy in schedule, .wth, & library files
+# start analysis run timer, create workspace, copy in schedule, .wth, & library files
 start = time.time()
-for file in glob.glob(os.path.join(dirwork, '*.*')):
-    os.remove(file)
+if os.path.exists(dirwork):
+    shutil.rmtree(dirwork)
+os.makedirs(dirwork)
 shutil.copy(sch_file, dirwork)
 for file in glob.glob(os.path.join(dirsite, '*.wth')):
     shutil.copy(file, dirwork+"weather.wth")
@@ -318,3 +319,4 @@ for file in glob.glob(os.path.join(dirwork, '*')):
         shutil.move(file, dirres)
     else:
         os.remove(file)
+shutil.rmtree(dirwork)
