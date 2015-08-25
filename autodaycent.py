@@ -151,7 +151,8 @@ else:
     site = 'louisiana'
 print "Please enter a short descriptive title for this analysis run, using underscores"
 descrip = raw_input("in place of spaces:  ")
-sch_file = raw_input("Please enter the name of the schedule file to run (incl. extension):  ")
+print "Please enter the name of the schedule file to run (including extension) from"
+sch_file = raw_input("the following options: pine.sch, stover.sch, switchgrass.sch, energycane.sch:  ")
 tstamp = datetime.datetime.now().strftime("%Y-%m-%d_%H.%M")     # timestamp for archive
 abspath = os.path.abspath(__file__)         # get absolute path where script is located
 out_files = ['year_summary.out']

@@ -1,0 +1,23 @@
+Analysis timstamp:  2015-08-25_11.06
+Simulation description:  trial
+Model run automation code version:  autodaycent.py
+DDC version:  /nfs/paustian/nell/GitHub_repo_runs/PEA_autodaycent/model/DDcentEVI
+DDClis version:  /nfs/paustian/nell/GitHub_repo_runs/PEA_autodaycent/model/DDClist100
+
+soil,initial land use,scenario,herb.biomass.yield.avg (Mg/ha/y),wood.biomass.yield.avg (Mg/ha/y),grain.yield.avg (Mg/ha/y),d.SOM.avg (Mg-C/ha/y),N2O.avg (kg-N2O/ha/y),GHGs.avg (Mg CO2eq/ha/y)
+CL,graze,bioenergy,0.0,2.56,0.0,-0.7399,2.831,1.584
+CL,graze,BAU,0.0,0.0,0.0,-0.0722,5.486,1.707
+L,graze,bioenergy,0.0,2.31,0.0,-0.6332,2.437,1.359
+L,graze,BAU,0.0,0.0,0.0,-0.0489,4.582,1.414
+SiCL,graze,bioenergy,0.0,2.6,0.0,-0.7681,3.337,1.762
+SiCL,graze,BAU,0.0,0.0,0.0,-0.0264,7.003,2.113
+SiL,graze,bioenergy,0.0,2.22,0.0,-0.1848,2.019,0.787
+SiL,graze,BAU,0.0,0.0,0.0,0.7053,3.687,0.393
+CL,till,bioenergy,0.0,2.3,0.0,-0.1968,2.082,0.817
+CL,till,BAU,0.0,0.0,4.71,-0.0605,3.239,1.026
+L,till,bioenergy,0.0,1.91,0.0,-0.1421,1.799,0.678
+L,till,BAU,0.0,0.0,4.58,-0.034,2.829,0.877
+SiCL,till,bioenergy,0.0,2.56,0.0,-0.2263,2.149,0.867
+SiCL,till,BAU,0.0,0.0,4.86,-0.0776,3.642,1.163
+SiL,till,bioenergy,0.0,2.55,0.0,-0.684,2.681,1.483
+SiL,till,BAU,0.0,0.0,4.77,-1.4534,4.222,2.712
